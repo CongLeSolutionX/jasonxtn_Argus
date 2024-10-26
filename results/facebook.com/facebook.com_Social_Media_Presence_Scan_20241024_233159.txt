@@ -1,0 +1,56 @@
+=== Social Media Presence Scan ===
+
+=============================================
+Argus - Social Media Presence Check
+=============================================
+
+[*] Please wait, this may take some time...
+[*] Detecting social media presence for: http://facebook.com
+[+] Found Facebook profile:
+https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzI5ODM3OTE4LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NT
+c1OTQ2fQ%3D%3D&ars=facebook_login&next
+[+] Found Facebook profile: https://www.facebook.com/
+[+] Found Facebook profile: https://es-la.facebook.com/
+[+] Found Facebook profile: https://fr-fr.facebook.com/
+[+] Found Facebook profile: https://zh-cn.facebook.com/
+[+] Found Facebook profile: https://ar-ar.facebook.com/
+[+] Found Facebook profile: https://pt-br.facebook.com/
+[+] Found Facebook profile: https://it-it.facebook.com/
+[+] Found Facebook profile: https://ko-kr.facebook.com/
+[+] Found Facebook profile: https://de-de.facebook.com/
+[+] Found Facebook profile: https://hi-in.facebook.com/
+[+] Found Facebook profile: https://www.facebook.com/watch/
+[+] Found Facebook profile:
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT2HGOOFSvMhRZlEaApF21DLUOE4mcvCKQ_4J9yfoaXJlzOLucuLby_QWshpGwTckUdUXn-6jXhhy_bR
+e6VHAen7dfv-xyoebdJSVSRzrVDkAWMlYCcl3rjGMWDckyODgsSGYFHLgzNi0yDmDhNJm6izgzYVg7u8
+[+] Found Instagram profile:
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT2HGOOFSvMhRZlEaApF21DLUOE4mcvCKQ_4J9yfoaXJlzOLucuLby_QWshpGwTckUdUXn-6jXhhy_bR
+e6VHAen7dfv-xyoebdJSVSRzrVDkAWMlYCcl3rjGMWDckyODgsSGYFHLgzNi0yDmDhNJm6izgzYVg7u8
+[+] Found Facebook profile: https://developers.facebook.com/?ref=pf
+[+] Found Facebook profile: https://www.facebook.com/help/568137493302217
+┏━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Platform  ┃ Profile URL                                                                                                                          ┃
+┡━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Facebook  │ https://ar-ar.facebook.com/                                                                                                          │
+│ Facebook  │ https://de-de.facebook.com/                                                                                                          │
+│ Facebook  │ https://ko-kr.facebook.com/                                                                                                          │
+│ Facebook  │ https://zh-cn.facebook.com/                                                                                                          │
+│ Facebook  │ https://hi-in.facebook.com/                                                                                                          │
+│ Facebook  │ https://pt-br.facebook.com/                                                                                                          │
+│ Facebook  │ https://www.facebook.com/help/568137493302217                                                                                        │
+│ Facebook  │ https://developers.facebook.com/?ref=pf                                                                                              │
+│ Facebook  │ https://fr-fr.facebook.com/                                                                                                          │
+│ Facebook  │ https://es-la.facebook.com/                                                                                                          │
+│ Facebook  │ https://www.facebook.com/watch/                                                                                                      │
+│ Facebook  │ https://it-it.facebook.com/                                                                                                          │
+│ Facebook  │ https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT2HGOOFSvMhRZlEaApF21DLUOE4mcvCKQ_4J9yfoaXJlzOLucuLby_QWshpGwTc │
+│           │ kUdUXn-6jXhhy_bRe6VHAen7dfv-xyoebdJSVSRzrVDkAWMlYCcl3rjGMWDckyODgsSGYFHLgzNi0yDmDhNJm6izgzYVg7u8                                     │
+│ Instagram │ https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT2HGOOFSvMhRZlEaApF21DLUOE4mcvCKQ_4J9yfoaXJlzOLucuLby_QWshpGwTc │
+│           │ kUdUXn-6jXhhy_bRe6VHAen7dfv-xyoebdJSVSRzrVDkAWMlYCcl3rjGMWDckyODgsSGYFHLgzNi0yDmDhNJm6izgzYVg7u8                                     │
+│ Facebook  │ https://www.facebook.com/                                                                                                            │
+│ Facebook  │ https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzI5ODM3OTE4LCJjYWxsc2l0ZV9pZC │
+│           │ I6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&ars=facebook_login&next                                                                               │
+└───────────┴──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+[*] Social media presence check completed.
+
+

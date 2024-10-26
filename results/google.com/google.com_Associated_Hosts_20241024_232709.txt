@@ -1,0 +1,19 @@
+=== Associated Hosts ===
+
+=============================================
+Argus - Associated Hosts Detection
+=============================================
+
+[*] Detecting associated hosts for: google.com
+[!] Shodan API error: 401
+[!] No results from Shodan, falling back to HackerTarget...
+
+[*] Associated Hosts:
+============================================================
+0089.com
+lax17s50-in-f14.1e100.net
+www.0089.com
+============================================================
+[*] Associated hosts detection completed.
+
+

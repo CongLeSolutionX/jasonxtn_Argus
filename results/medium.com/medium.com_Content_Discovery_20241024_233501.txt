@@ -1,0 +1,60 @@
+=== Content Discovery ===
+
+=============================================
+Argus - Content Discovery
+=============================================
+
+
+=============================================
+Argus - Content Discovery
+=============================================
+
+[*] Starting content discovery for http://medium.com
+[*] Fetching robots.txt from: http://medium.com/robots.txt
+[+] Found robots.txt
+[*] Checking http://medium.com/sitemap.xml
+[!] sitemap.xml not found.
+[*] Discovering internal links...
+[*] Discovering external links...
+[*] Discovering CSS files...
+[*] Discovering JS files...
+
+[*] Asset Files Found:
+Asset Type  Link
+CSS File    https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db31305
+7fa3c3de41c6f5b494b19
+CSS File    https://miro.medium.com/v2/resize:fill:240:240/10fd5c419ac61637245384e
+7099e131627900034828f4f386bdaa47a74eae156
+CSS File    https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e
+7099e131627900034828f4f386bdaa47a74eae156
+CSS File    http://medium.com/osd.xml
+CSS File    https://miro.medium.com/v2/resize:fill:120:120/10fd5c419ac61637245384e
+7099e131627900034828f4f386bdaa47a74eae156
+CSS File    https://glyph.medium.com
+CSS File    https://medium.com
+CSS File    https://glyph.medium.com/css/unbound.css
+CSS File    https://miro.medium.com/v2/resize:fill:1000:1000/7*GAOKVe--MXbEJmV9230
+oOQ.png
+CSS File    https://miro.medium.com/v2/resize:fill:152:152/10fd5c419ac61637245384e
+7099e131627900034828f4f386bdaa47a74eae156
+JS File     https://cdn-client.medium.com/lite/static/js/main.018e7ca9.js
+JS File     https://cdn-client.medium.com/lite/static/js/reporting.ff22a7a5.chunk.
+js
+JS File     https://cdn-client.medium.com/lite/static/js/manifest.7e50e797.js
+JS File     https://cdn-client.medium.com/lite/static/js/9865.1496d74a.js
+JS File     https://cdn-client.medium.com/lite/static/js/HomeLoLegacyPage.MainCont
+ent.11ed0297.chunk.js
+JS File     https://cdn-client.medium.com/lite/static/js/instrumentation.d9108df7.
+chunk.js
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┓
+┃ Category       ┃ Count     ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━┩
+│ robots.txt     │ Available │
+│ Sitemap Links  │ 0         │
+│ Internal Links │ 14        │
+│ External Links │ 6         │
+│ CSS Files      │ 10        │
+│ JS Files       │ 6         │
+└────────────────┴───────────┘
+
+

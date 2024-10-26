@@ -1,0 +1,13 @@
+=== Sitemap Parsing ===
+
+=============================================
+Argus - Sitemap Analysis
+=============================================
+
+[*] Fetching sitemaps for: http://medium.com
+[*] Found 1 sitemap(s).
+[*] Parsing sitemap: http://medium.com/sitemap/sitemap.xml
+[!] Unsupported sitemap content type at http://medium.com/sitemap/sitemap.xml
+[!] No URLs found in the sitemap(s).
+
+
