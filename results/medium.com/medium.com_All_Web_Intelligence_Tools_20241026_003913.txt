@@ -1,0 +1,372 @@
+=== Archive History ===
+
+=============================================
+Argus - Archive History Lookup
+=============================================
+
+[*] Retrieving archive history for domain: medium.com
+[!] Error retrieving archive history: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url:
+/cdx/search/cdx?url=medium.com%2F%2A&output=json&limit=20&filter=statuscode%3A200&fl=timestamp%2Coriginal&collapse=digest (Caused by
+ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x10253a320>, 'Connection to web.archive.org timed out. (connect
+timeout=10)'))
+[!] No archive history found for medium.com.
+
+
+=== Broken Links Detection ===
+
+=============================================
+Argus - Broken Links Detection
+=============================================
+
+[*] Checking links on: http://medium.com
+
+[+] No broken links found for http://medium.com.
+
+
+=== Carbon Footprint ===
+
+==============================================
+Argus - Website Carbon Footprint Calculator
+==============================================
+
+[*] Analyzing website: http://medium.com
+
+Results for http://medium.com:
+
+Is the website hosted on green hosting? Yes
+Website is cleaner than 64.00% of websites tested.
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┓
+┃ Metric                                          ┃ Value        ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━┩
+│ Carbon emitted per page view (grid energy)      │ 0.3827 grams │
+│ Carbon emitted per page view (renewable energy) │ 0.3318 grams │
+│ Energy consumed per page view                   │ 0.000866 kWh │
+└─────────────────────────────────────────────────┴──────────────┘
+
+
+=== CMS Detection ===
+
+=============================================
+Argus - CMS Enumeration Module
+=============================================
+
+[*] Enumerating CMS for: medium.com
+Error making request to http://medium.com/wp-content/: 404 Client Error: Not Found for url: https://medium.com/wp-content
+Error making request to http://medium.com/wp-includes/: 429 Client Error: Too Many Requests for url: https://medium.com/wp-includes
+Error making request to http://medium.com/wp-json/: 429 Client Error: Too Many Requests for url: https://medium.com/wp-json
+Error making request to http://medium.com/components/: 429 Client Error: Too Many Requests for url: https://medium.com/components/
+Error making request to http://medium.com/modules/: 429 Client Error: Too Many Requests for url: https://medium.com/modules/
+Error making request to http://medium.com/templates/: 429 Client Error: Too Many Requests for url: https://medium.com/templates/
+Error making request to http://medium.com/media/: 429 Client Error: Too Many Requests for url: https://medium.com/media
+Error making request to http://medium.com/sites/: 429 Client Error: Too Many Requests for url: https://medium.com/sites/
+Error making request to http://medium.com/core/: 429 Client Error: Too Many Requests for url: https://medium.com/core/
+Error making request to http://medium.com/misc/: 429 Client Error: Too Many Requests for url: https://medium.com/misc
+Error making request to http://medium.com/profiles/: 429 Client Error: Too Many Requests for url: https://medium.com/profiles/
+Error making request to http://medium.com/static/frontend/: 429 Client Error: Too Many Requests for url: https://medium.com/static/frontend/
+Error making request to http://medium.com/media/catalog/: 429 Client Error: Too Many Requests for url: https://medium.com/media/catalog/
+Error making request to http://medium.com/themes/: 429 Client Error: Too Many Requests for url: https://medium.com/themes
+Error making request to http://medium.com/modules/: 429 Client Error: Too Many Requests for url: https://medium.com/modules/
+Error making request to http://medium.com/img/: 429 Client Error: Too Many Requests for url: https://medium.com/img/
+Error making request to http://medium.com/js/: 429 Client Error: Too Many Requests for url: https://medium.com/js/
+Error making request to http://medium.com/catalog/view/: 429 Client Error: Too Many Requests for url: https://medium.com/catalog/view
+Error making request to http://medium.com/admin/controller/: 429 Client Error: Too Many Requests for url: https://medium.com/admin/controller/
+Error making request to http://medium.com/system/storage/: 429 Client Error: Too Many Requests for url: https://medium.com/system/storage/
+Error making request to http://medium.com/cdn.shopify.com: 429 Client Error: Too Many Requests for url: https://medium.com/cdn.shopify.com
+Error making request to http://medium.com/assets/: 429 Client Error: Too Many Requests for url: https://medium.com/assets
+Error making request to http://medium.com/typo3conf/: 429 Client Error: Too Many Requests for url: https://medium.com/typo3conf/
+Error making request to http://medium.com/typo3_src/: 429 Client Error: Too Many Requests for url: https://medium.com/typo3_src/
+Error making request to http://medium.com/typo3temp/: 429 Client Error: Too Many Requests for url: https://medium.com/typo3temp/
+Error making request to http://medium.com/ghost/: 429 Client Error: Too Many Requests for url: https://medium.com/ghost
+Error making request to http://medium.com/content/: 429 Client Error: Too Many Requests for url: https://medium.com/content/
+Error making request to http://medium.com/themes/ee/: 429 Client Error: Too Many Requests for url: https://medium.com/themes/ee/
+Error making request to http://medium.com/wixpress/: 429 Client Error: Too Many Requests for url: https://medium.com/wixpress/
+Error making request to http://medium.com/files/theme/: 429 Client Error: Too Many Requests for url: https://medium.com/files/theme
+Error making request to http://medium.com/config.json: 429 Client Error: Too Many Requests for url: https://medium.com/config.json
+Error making request to http://medium.com/universal/: 429 Client Error: Too Many Requests for url: https://medium.com/universal/
+Error making request to http://medium.com/feeds/posts/: 429 Client Error: Too Many Requests for url: https://medium.com/feeds/posts/
+Error making request to http://medium.com/bitrix/: 429 Client Error: Too Many Requests for url: https://medium.com/bitrix
+Error making request to http://medium.com/static/django/: 429 Client Error: Too Many Requests for url: https://medium.com/static/django/
+Error making request to http://medium.com/craft/: 429 Client Error: Too Many Requests for url: https://medium.com/craft/
+Error making request to http://medium.com/umbraco/: 429 Client Error: Too Many Requests for url: https://medium.com/umbraco/
+Error making request to http://medium.com/manager/assets/: 429 Client Error: Too Many Requests for url: https://medium.com/manager/assets
+Error making request to http://medium.com/contao/: 429 Client Error: Too Many Requests for url: https://medium.com/contao/
+┏━━━━━━━━━━━━━━━━━━━━━━┓
+┃ CMS Detection Result ┃
+┡━━━━━━━━━━━━━━━━━━━━━━┩
+│ Unknown CMS          │
+└──────────────────────┘
+[*] CMS Enumeration completed.
+
+
+=== Cookies Analyzer ===
+
+=============================================
+Argus - Advanced Cookie Analyzer
+=============================================
+
+[*] Fetching cookies for: http://medium.com
+Cookies for http://medium.com
+╭─────────┬────────────────────────────────────────────────────────────────────────────┬─────────────┬──────┬────────┬──────────┬──────────╮
+│ Name    │ Value                                                                      │ Domain      │ Path │ Secure │ HttpOnly │ SameSite │
+├─────────┼────────────────────────────────────────────────────────────────────────────┼─────────────┼──────┼────────┼──────────┼──────────┤
+│ _cfuvid │ b7jsaP2Gjsrdd3WcHClBgPcQyWFtoN6IIjzD1KSXbYw-1729928325837-0.0.1.1-6048000… │ .medium.com │ /    │ Yes    │ Yes      │ None     │
+╰─────────┴────────────────────────────────────────────────────────────────────────────┴─────────────┴──────┴────────┴──────────┴──────────╯
+[+] No security issues detected with cookies.
+[*] Cookie analysis completed for http://medium.com.
+
+
+
+=== Content Discovery ===
+
+=============================================
+Argus - Content Discovery
+=============================================
+
+
+=============================================
+Argus - Content Discovery
+=============================================
+
+[*] Starting content discovery for http://medium.com
+[!] Failed to access http://medium.com, status code 429
+
+
+=== Crawler ===
+
+==============================================
+Argus - Advanced Web Crawler
+==============================================
+
+[+] Found: http://medium.com (Status: 200) (Content-Type: text/html; charset=utf-8)
+[+] Found: http://medium.com/about (Status: 200) (Content-Type: text/html; charset=utf-8)
+[+] Found: http://medium.com/membership (Status: 200) (Content-Type: text/html; charset=utf-8)
+[+] Found: http://medium.com/m/signin (Status: 200) (Content-Type: text/html; charset=utf-8)
+[+] Found: http://medium.com/jobs-at-medium/work-at-medium-959d1a85284e (Status: 429) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://medium.com/business (Status: 429) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://medium.com/new-story (Status: 200) (Content-Type: text/html; charset=utf-8)
+[+] Found: http://medium.com/plans (Status: 429) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://medium.com/@kozyrkov (Status: 429) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://medium.com/@edans (Status: 429) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://medium.com/@wenqiglantz (Status: 429) (Content-Type: text/html; charset=UTF-8)
+
+[+] Report saved to results/medium.com_web_crawler.txt
+
+
+=== Robots.txt Analyzer ===
+
+=============================================
+Argus - Crawl Rules Check
+=============================================
+
+[*] Fetching robots.txt from: http://medium.com
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ robots.txt                                      ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ User-Agent: *                                   │
+│ Disallow: /m/                                   │
+│ Disallow: /me/                                  │
+│ Disallow: /@me$                                 │
+│ Disallow: /@me/                                 │
+│ Disallow: /*/edit$                              │
+│ Disallow: /*/*/edit$                            │
+│ Disallow: /media/                               │
+│ Disallow: /p/*/share                            │
+│ Disallow: /r/                                   │
+│ Disallow: /trending                             │
+│ Disallow: /search?q$                            │
+│ Disallow: /search?q=                            │
+│ Disallow: /*/search?q=                          │
+│ Disallow: /*/search/*?q=                        │
+│ Disallow: /*/*source=                           │
+│ Allow: /_/                                      │
+│ Allow: /_/api/users/*/meta                      │
+│ Allow: /_/api/users/*/profile/stream            │
+│ Allow: /_/api/posts/*/responses                 │
+│ Allow: /_/api/posts/*/responsesStream           │
+│ Allow: /_/api/posts/*/related                   │
+│ Sitemap: https://medium.com/sitemap/sitemap.xml │
+│ User-Agent: GPTBot                              │
+│ Disallow: /                                     │
+│                                                 │
+└─────────────────────────────────────────────────┘
+[*] Crawl rules analysis completed.
+
+
+=== Directory Finder ===
+
+=============================================
+Argus - Directory Finder
+=============================================
+
+[*] Target base URL set to: http://medium.com
+[*] Loading paths from wordlists/directory_wordlists.txt...
+[!] Wordlist file not found: wordlists/directory_wordlists.txt
+
+
+=== Email Harvesting ===
+
+
+=============================================
+Argus - Email Harvesting Module
+=============================================
+
+
+[*] Starting email harvesting on http://medium.com...
+[+] Found email: pressinquiries@medium.com
+[+] Found email: uULpIlImcO5TDuBZ6lm7Lg@2x.png
+[+] Found email: 9ygdqoKprhwuTVKUM0DLPA@2x.png
+[+] Found email: angelgarcia.mail@gmail.com
+[+] Found email: haCUs0wF6TgOOvfoY-jEoQ@2x.png
+Total emails found so far: 5
+[*] Crawled: http://medium.com
+[*] Crawled:
+http://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=--------------------------new_post_topnav
+-----------
+[!] Skipped http://medium.com/about?autoplay=1 (Status code: 429)
+[!] Skipped
+http://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F&source=--------------------------lo_home_nav-----------
+(Status code: 429)
+[*] Crawled: http://medium.com/membership
+[!] Skipped http://medium.com/jobs-at-medium/work-at-medium-959d1a85284e (Status code: 429)
+[!] Skipped
+http://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2F&source=--------------------------lo_home_nav-----------
+(Status code: 429)
+[*] Crawled: http://medium.com/
+[!] Skipped http://medium.com/business (Status code: 429)
+[!] Skipped http://medium.com/about (Status code: 429)
+[!] Skipped http://medium.com/@edans?source=---landing_membership---------------------------------- (Status code: 429)
+[!] Skipped http://medium.com/plans?source=---landing_membership---------------------------------- (Status code: 429)
+[!] Skipped http://medium.com/@kozyrkov?source=---landing_membership---------------------------------- (Status code: 429)
+[!] Skipped http://medium.com/@wenqiglantz?source=---landing_membership---------------------------------- (Status code: 429)
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Email Addresses Found         ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ 9ygdqoKprhwuTVKUM0DLPA@2x.png │
+│ angelgarcia.mail@gmail.com    │
+│ haCUs0wF6TgOOvfoY-jEoQ@2x.png │
+│ pressinquiries@medium.com     │
+│ uULpIlImcO5TDuBZ6lm7Lg@2x.png │
+└───────────────────────────────┘
+
+[*] Email harvesting completed. Total emails found: 5
+
+
+=== Performance Monitoring ===
+Traceback (most recent call last):
+File "/Users/orangecloud/Desktop/PROJECTS/TOOLS/jasonxtn_Argus/modules/performance_monitoring.py", line 10, in <module>
+from config.settings import DEFAULT_TIMEOUT, GOOGLE_API_KEY
+ImportError: cannot import name 'GOOGLE_API_KEY' from 'config.settings' (/Users/orangecloud/Desktop/PROJECTS/TOOLS/jasonxtn_Argus/config/settings.py)
+
+
+=== Quality Metrics ===
+
+=============================================
+Argus - Quality Metrics Check
+=============================================
+
+[*] Fetching quality metrics for: medium.com
+┏━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Metric               ┃ Value ┃ Analysis                                                 ┃
+┡━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Status Code          │ 200   │                                                          │
+│ Load Time (s)        │ 0.81  │ Load time is excellent.                                  │
+│ Page Size (KB)       │ 37.79 │ Page size is small.                                      │
+│ Total Requests       │ 17    │ Number of requests is low.                               │
+│ Compression Enabled  │ Yes   │ Content is compressed.                                   │
+│ HTTPS                │ No    │ Not using HTTPS. It is recommended for security and SEO. │
+│ Mobile-Friendly      │ Yes   │ Page is mobile-friendly.                                 │
+│ Scripts Minified     │ 1/15  │ Consider minifying scripts to improve performance.       │
+│ Stylesheets Minified │ 0/1   │ Consider minifying stylesheets to improve performance.   │
+└──────────────────────┴───────┴──────────────────────────────────────────────────────────┘
+[*] Quality metrics retrieval completed.
+
+
+=== Redirect Chain ===
+
+=============================================
+Argus - Redirect Chain Tracking
+=============================================
+
+[*] Fetching redirect chain for: http://medium.com
+┏━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
+┃ Redirect URL       ┃ Status Code ┃
+┡━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
+│ http://medium.com/ │ 301         │
+└────────────────────┴─────────────┘
+[*] Redirect chain tracking completed.
+
+
+=== Sitemap Parsing ===
+
+=============================================
+Argus - Sitemap Analysis
+=============================================
+
+[*] Fetching sitemaps for: http://medium.com
+[*] Found 1 sitemap(s).
+[*] Parsing sitemap: http://medium.com/sitemap/sitemap.xml
+[!] Unsupported sitemap content type at http://medium.com/sitemap/sitemap.xml
+[!] No URLs found in the sitemap(s).
+
+
+=== Social Media Presence Scan ===
+
+=============================================
+Argus - Social Media Presence Check
+=============================================
+
+[*] Please wait, this may take some time...
+[*] Detecting social media presence for: http://medium.com
+[!] No social media profiles found in the HTML page source. Trying DuckDuckGo search...
+[!] No social media profiles found using DuckDuckGo. Trying internal page links...
+[!] Error detecting social media profiles from internal links: 429 Client Error: Too Many Requests for url: https://medium.com/
+[!] No social media profiles found in internal links. Trying metadata...
+[!] Error detecting social media profiles from metadata: 429 Client Error: Too Many Requests for url: https://medium.com/
+[!] No social media profiles found in metadata. Trying Google search...
+┏━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Platform ┃ Profile URL                    ┃
+┡━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ No Data  │ No social media profiles found │
+└──────────┴────────────────────────────────┘
+[*] Social media presence check completed.
+
+
+=== Technology Stack Detection ===
+
+=============================================
+Argus - Technology Stack Detection
+=============================================
+
+[*] Detecting technology stack for: medium.com
+[*] Analyzing HTML content...
+[!] Error retrieving HTML content: 429 Client Error: Too Many Requests for url: https://medium.com/
+[*] Analyzing HTTP headers...
+[!] Error retrieving HTTP headers: 429 Client Error: Too Many Requests for url: https://medium.com/
+[*] Checking for specific files and endpoints...
+[+] Technologies detected:
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Technology ┃ Categories              ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Drupal     │ CMS                     │
+│ phpMyAdmin │ Database Administration │
+└────────────┴─────────────────────────┘
+[+] Results saved to /Users/orangecloud/Desktop/PROJECTS/TOOLS/jasonxtn_Argus/modules/../Results/technology_stack_http_medium.com.txt
+[*] Technology stack detection completed.
+
+
+=== Third-Party Integrations ===
+
+=============================================
+Argus - Third-Party Integrations Check
+=============================================
+
+[*] Detecting third-party integrations for: medium.com
+[*] Analyzing HTML content...
+[*] Analyzing HTTP headers...
+[!] Error retrieving HTTP headers: 429 Client Error: Too Many Requests for url: https://medium.com/
+[*] Analyzing meta tags and JavaScript references...
+[!] No third-party integrations found.
+[*] Third-party integrations check completed.
+
+

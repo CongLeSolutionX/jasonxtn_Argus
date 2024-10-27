@@ -1,0 +1,1662 @@
+=== Associated Hosts ===
+
+=============================================
+Argus - Associated Hosts Detection
+=============================================
+
+[*] Detecting associated hosts for: area52.com
+[!] Shodan API error: 401
+[!] No results from Shodan, falling back to HackerTarget...
+
+[*] Associated Hosts:
+============================================================
+37win2.com
+4dayweek.io
+ad.game-game.com
+admin.i2-ethics.com
+ai-assistant.webchart.app
+al.game-game.com
+allturtles.com
+americascollection.com
+am.game-game.com
+antaresinc.me
+api.upaycard.co.il
+app.craftaxethrowing.com
+apps.upaycard.co.il
+app.upaycard.co.il
+arcticpeptides.com
+area52.com
+areagestion.i2-ethics.com
+assets.finestore.ro
+aulaprueba.bsginstitute.com
+autodiscover.knbcabinets.com
+az.game-game.com
+ba.game-game.com
+balancerehazentrum.de
+banala.life
+beta.fisheriessupply.com
+beta.signmycode.com
+blackfriday.finestore.ro
+blacksheepfarmoils.com.au
+blog.nairaex.com
+blog.uspatriotflags.com
+bloomyours.com
+bn.game-game.com
+boinkstream.com
+borregooutfitters.com
+bridgebee.app
+brigandsbrowncoats.gf9games.com
+bsginstitute.com
+buffroids.com
+bwhlgc.com
+canaldenuncias-gruposantalucia.i2-ethics.com
+canaletico.i2-ethics.com
+canaletico-institucional.i2-ethics.com
+caragencia.eu
+carvhr.com
+casinowow.com
+chambrekids.com
+classani.org
+clientdev1.finestore.ro
+cliffyoungltd.com
+cloud.antaresinc.me
+cloudberry.se
+cn.game-game.com
+confederate.uspatriotflags.com
+connectsafely.org
+cpanel.connectsafely.org
+cpanel.hwzn.sa
+cpcalendars.balancerehazentrum.de
+cpcalendars.knbcabinets.com
+cpcontacts.balancerehazentrum.de
+cpcontacts.knbcabinets.com
+crsinfosolutions.com
+cryptobets.global
+cu.game-game.com
+cursos.bsginstitute.com
+demo.i2-ethics.com
+denuncias-anticipa.i2-ethics.com
+dev.blacksheepfarmoils.com.au
+dev.casinowow.com
+dev.fisheriessupply.com
+dev.fxasports.com
+dnd.gf9games.com
+docker.salutinc.com
+docs.craftaxethrowing.com
+domainhomes.com
+ear.upkeeply.com
+ecotel.au
+fencescreen.com
+fi.game-game.com
+finanzautostet.i2-ethics.com
+finestore.ro
+fisheriessupply.com
+floorsureflooring.com
+fxasports.com
+game-game.com
+ge.game-game.com
+gestao.pigz.com.br
+gf9games.com
+gf.game-game.com
+hatstore.de
+hepatitisc.xyz
+hudsonbond.com.au
+hwzn.sa
+i2-ethics.com
+images.ui8.net
+imaginepropertiesspain.com
+img.bsginstitute.com
+intranet.finestore.ro
+ir.game-game.com
+jobs.nycbud.com
+kapi.kronircle.com
+kapp.kronircle.com
+knbcabinets.com
+kronircle.com
+la.game-game.com
+lastingthedistance.com
+magic.hwzn.sa
+mail.bloomyours.com
+mail.carvhr.com
+mail.ecotel.au
+mail.hwzn.sa
+mail.knbcabinets.com
+mail.picknickmedia.se
+mail.vipperhead.ag
+mail.weingut-laicher.de
+main-db-pma.finestore.ro
+mansionsseniorliving.com
+masakor.com
+menu.craftaxethrowing.com
+merch.nycbud.com
+ml.game-game.com
+mo.game-game.com
+mx.tenutalemandorlaie.it
+nairaex.com
+navascuba.com
+new.imaginepropertiesspain.com
+nf.game-game.com
+np.game-game.com
+o1.ptr1099.bridgebee.app
+old.cliffyoungltd.com
+om.game-game.com
+openproject.bsginstitute.com
+panalopoker5.com
+payperheadmexico.com
+phonecasecenter.com
+picknickmedia.se
+pigz.com.br
+pop.picknickmedia.se
+portal.craftaxethrowing.com
+prod4.fisheriessupply.com
+pruebabackup.bsginstitute.com
+pubemail.upkeeply.com
+rebel.uspatriotflags.com
+recipes.antaresinc.me
+rsm.fencescreen.com
+ruggedat.com
+salutinc.com
+sapiens.ui8.net
+signmycode.com
+simulation-de-credit.be
+smtp.picknickmedia.se
+soa.gf9games.com
+ss.salutinc.com
+stage.fencescreen.com
+staging1.allturtles.com
+staging6.fxasports.com
+staging.blacksheepfarmoils.com.au
+stark.antaresinc.me
+static.webchart.app
+storybook.ui8.net
+telehealth.webchart.app
+tenutalemandorlaie.it
+testapi.upaycard.co.il
+testapp.upaycard.co.il
+thecove.chat
+themdprocess.com
+th.game-game.com
+tw.game-game.com
+ui8.net
+upaycard.co.il
+up.fisheriessupply.com
+upkeeply.com
+uspatriotflags.com
+vipperhead.ag
+vpsaulasandbox.bsginstitute.com
+wamos.i2-ethics.com
+warehousejobsforyou.today
+warehousejobsnearyou.today
+webdisk.hwzn.sa
+webdisk.knbcabinets.com
+webmail.balancerehazentrum.de
+webmail.hwzn.sa
+wegetjustice.com
+weingut-laicher.de
+www.4dayweek.io
+www.allturtles.com
+www.allturtles.com.cdn.cloudflare.net
+www.assets.finestore.ro
+www.balancerehazentrum.de
+www.banala.life
+www.blackfriday.finestore.ro
+www.blacksheepfarmoils.com.au
+www.bloomyours.com
+www.carvhr.com
+www.charmescorts.com.cdn.cloudflare.net
+www.cliffyoungltd.com
+www.cloudberry.se
+www.crsinfosolutions.com
+www.crsinfosolutions.com.cdn.cloudflare.net
+www.domainhomes.com
+www.ecotel.au
+www.fencescreen.com
+www.finestore.ro
+www.fisheriessupply.com
+www.hatstore.de
+www.hwzn.sa
+www.imaginepropertiesspain.com
+www.kronircle.com
+www.lastingthedistance.com
+www.lastingthedistance.com.cdn.cloudflare.net
+www.navascuba.com
+www.nycbud.com
+www.phonecasecenter.com
+www.picknickmedia.se
+www.ruggedat.com
+www.salutinc.com
+www.signmycode.com
+www.simulation-de-credit.be
+www.staging4.fxasports.com
+www.themdprocess.com
+www.upaycard.co.il
+www.uspatriotflags.com
+www.vipperhead.ag
+www.wegetjustice.com
+www.weingut-laicher.de
+xmas.finestore.ro
+zeeklog.com
+============================================================
+[*] Associated hosts detection completed.
+
+
+=== DNS Over HTTPS ===
+
+=============================================
+Argus - DNS Over HTTPS (DoH) Check
+=============================================
+
+[*] Checking DNS over HTTPS support for: area52.com
+┏━━━━━━━━━━━━┓
+┃ DoH Status ┃
+┡━━━━━━━━━━━━┩
+│ Supported  │
+└────────────┘
+[*] DNS Over HTTPS check completed.
+
+
+=== DNS Records ===
+
+=============================================
+Argus - DNS Records Check
+=============================================
+
+[*] Fetching DNS records for: area52.com
+[!] No CNAME records found for area52.com.
+┏━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Record Type ┃ Record Value                                                                                ┃
+┡━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ A           │ 172.66.43.128                                                                               │
+│             │ 172.66.40.128                                                                               │
+│ AAAA        │ 2606:4700:3108::ac42:2b80                                                                   │
+│             │ 2606:4700:3108::ac42:2880                                                                   │
+│ MX          │ 10 mx.zoho.com.                                                                             │
+│             │ 20 mx2.zoho.com.                                                                            │
+│             │ 50 mx3.zoho.com.                                                                            │
+│ NS          │ monroe.ns.cloudflare.com.                                                                   │
+│             │ austin.ns.cloudflare.com.                                                                   │
+│ TXT         │ "google-site-verification=Gb4lZV9VVv8ZDsOGXBf7qm0_9_j_Ob4Dhh0KFQw2Qhw"                      │
+│             │ "klaviyo-site-verification=WqUmXD"                                                          │
+│             │ "v=spf1 include:zoho.com include:mail.zendesk.com ~all"                                     │
+│             │ "zoho-verification=zb16390383.zmverify.zoho.com"                                            │
+│             │ "ahrefs-site-verification_dd63c2da00a63879e36ef24cc850d2284fcef1053f2b962c4604cd9ebea17223" │
+│ SOA         │ austin.ns.cloudflare.com. dns.cloudflare.com. 2355226265 10000 2400 604800 1800             │
+└─────────────┴─────────────────────────────────────────────────────────────────────────────────────────────┘
+[*] DNS records retrieval completed.
+
+
+=== DNSSEC Check ===
+
+=============================================
+Argus - DNSSEC Check
+=============================================
+
+[*] Checking DNSSEC for: area52.com
+[!] No DNSSEC records found.
+[!] No DNSSEC records found.
+[*] DNSSEC check completed.
+
+
+=== Domain Info ===
+
+=============================================
+Argus - Domain Information
+=============================================
+
+[*] Fetching domain information for: area52.com
+┏━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Field       ┃ Details                                                                                                                  ┃
+┡━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ domain      │ zzxx8.com                                                                                                                │
+│ create_date │ 2024-10-27T04:18:09.100437                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.100440                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ ['ns7.cnmsn.net', 'ns8.cnmsn.net']                                                                                       │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zzy-114.com                                                                                                              │
+│ create_date │ 2024-10-27T04:18:09.100956                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.100958                                                                                               │
+│ country     │ CN                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['125.211.197.147']                                                                                                      │
+│ NS          │ ['ns18.xincache.com', 'ns17.xincache.com']                                                                               │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ [{'exchange': 'nm.hljyp.com', 'priority': 20}]                                                                           │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zzxs88.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.100253                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.100256                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['162.159.209.39', '162.159.208.39']                                                                                     │
+│ NS          │ ['n1005.ns.yunjiasu.com', 'n1798.ns.yunjiasu.com']                                                                       │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zzx44.com                                                                                                                │
+│ create_date │ 2024-10-27T04:18:09.099186                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.099188                                                                                               │
+│ country     │ US                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['184.168.221.61']                                                                                                       │
+│ NS          │ ['ns40.domaincontrol.com', 'ns39.domaincontrol.com']                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zzss5.com                                                                                                                │
+│ create_date │ 2024-10-27T04:18:09.098391                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.098394                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zzly888.com                                                                                                              │
+│ create_date │ 2024-10-27T04:18:09.096735                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.096737                                                                                               │
+│ country     │ CN                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['222.76.212.103']                                                                                                       │
+│ NS          │ ['ns4.dns-diy.com', 'ns3.dns-diy.com']                                                                                   │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zzhg0371.com                                                                                                             │
+│ create_date │ 2024-10-27T04:18:09.095325                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.095327                                                                                               │
+│ country     │ US                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['147.255.161.17']                                                                                                       │
+│ NS          │ ['jm1.dns.com', 'jm2.dns.com']                                                                                           │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zzcc1.com                                                                                                                │
+│ create_date │ 2024-10-27T04:18:09.092444                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.092446                                                                                               │
+│ country     │ US                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['35.186.234.11']                                                                                                        │
+│ NS          │ ['dns17.hichina.com', 'dns18.hichina.com']                                                                               │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zzbx365.com                                                                                                              │
+│ create_date │ 2024-10-27T04:18:09.092261                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.092264                                                                                               │
+│ country     │ CN                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['115.28.214.127']                                                                                                       │
+│ NS          │ ['ns11.72dns.com', 'ns12.72dns.com']                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ [{'exchange': 'mxbiz2.qq.com', 'priority': 10}, {'exchange': 'mxbiz1.qq.com', 'priority': 5}]                            │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zz58r4mfb8.com                                                                                                           │
+│ create_date │ 2024-10-27T04:18:09.091021                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.091023                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zz-99.com                                                                                                                │
+│ create_date │ 2024-10-27T04:18:09.090474                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.090476                                                                                               │
+│ country     │ CN                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['119.8.99.231']                                                                                                         │
+│ NS          │ ['boyce.dnspod.net', 'begonia.dnspod.net']                                                                               │
+│ CNAME       │ ['o39139.openfireweb.com']                                                                                               │
+│ MX          │ []                                                                                                                       │
+│ TXT         │ []                                                                                                                       │
+│ domain      │ zy0832.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.080041                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.080043                                                                                               │
+│ country     │ US                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['107.151.161.158']                                                                                                      │
+│ NS          │ ['dns9.hichina.com', 'dns10.hichina.com']                                                                                │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zybk365.com                                                                                                              │
+│ create_date │ 2024-10-27T04:18:09.080988                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.080990                                                                                               │
+│ country     │ CN                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['43.226.157.88']                                                                                                        │
+│ NS          │ ['ns2.zhujiwu.com', 'ns1.zhujiwu.com']                                                                                   │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zy6088.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.080225                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.080227                                                                                               │
+│ country     │ US                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['104.25.198.151']                                                                                                       │
+│ NS          │ ['ns1.dnsdun.com', 'ns1.dnsdun.net']                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zxtv1.com                                                                                                                │
+│ create_date │ 2024-10-27T04:18:09.078765                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.078767                                                                                               │
+│ country     │ US                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['23.234.27.100']                                                                                                        │
+│ NS          │ ['ns2.myhostadmin.net', 'ns6.myhostadmin.net', 'ns3.myhostadmin.net', 'ns1.myhostadmin.net', 'ns5.myhostadmin.net',      │
+│             │ 'ns4.myhostadmin.net']                                                                                                   │
+│ CNAME       │ ['freeurl.vhostgo.com']                                                                                                  │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zxczxc1.com                                                                                                              │
+│ create_date │ 2024-10-27T04:18:09.076579                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.076581                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zw9g5.com                                                                                                                │
+│ create_date │ 2024-10-27T04:18:09.073451                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.073453                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zvision10.com                                                                                                            │
+│ create_date │ 2024-10-27T04:18:09.072877                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.072880                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zuv581.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.071964                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.071967                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zuozhilei20241024.com                                                                                                    │
+│ create_date │ 2024-10-27T04:18:09.069846                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.069848                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zulin365.com                                                                                                             │
+│ create_date │ 2024-10-27T04:18:09.066546                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.066548                                                                                               │
+│ country     │ HK                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['47.91.157.125']                                                                                                        │
+│ NS          │ ['pk3.22.cn', 'pk4.22.cn']                                                                                               │
+│ CNAME       │ ['pk.22.cn']                                                                                                             │
+│ MX          │ []                                                                                                                       │
+│ TXT         │ []                                                                                                                       │
+│ domain      │ zuir9.com                                                                                                                │
+│ create_date │ 2024-10-27T04:18:09.065939                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.065941                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zu1c1.com                                                                                                                │
+│ create_date │ 2024-10-27T04:18:09.062521                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.062523                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ ztwu4.com                                                                                                                │
+│ create_date │ 2024-10-27T04:18:09.062006                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.062008                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ ztir4h4.com                                                                                                              │
+│ create_date │ 2024-10-27T04:18:09.061498                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.061500                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ ztgcq3.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.061208                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.061210                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ ztd2024.com                                                                                                              │
+│ create_date │ 2024-10-27T04:18:09.060885                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.060887                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zt0cj1.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.059947                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.059949                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zspco88.com                                                                                                              │
+│ create_date │ 2024-10-27T04:18:09.058534                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.058536                                                                                               │
+│ country     │ US                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['136.0.134.158']                                                                                                        │
+│ NS          │ ['juming.dnsdun.com', 'juming.dnsdun.net']                                                                               │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zsgz428.com                                                                                                              │
+│ create_date │ 2024-10-27T04:18:09.057336                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.057338                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zsbwl1.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.055110                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.055112                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zsc555.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.055622                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.055624                                                                                               │
+│ country     │ HK                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['45.120.30.51']                                                                                                         │
+│ NS          │ ['f1g1ns1.dnspod.net', 'f1g1ns2.dnspod.net']                                                                             │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ [{'exchange': 'linux2.52host.net', 'priority': 5}]                                                                       │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zsbwl2.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.055298                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.055300                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zsbwl3.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.055456                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.055458                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zsb166.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.054944                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.054947                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zqzj20-23.com                                                                                                            │
+│ create_date │ 2024-10-27T04:18:09.052501                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.052503                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zqxkx3.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.052180                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.052182                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zqug7.com                                                                                                                │
+│ create_date │ 2024-10-27T04:18:09.051875                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.051877                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zph87.com                                                                                                                │
+│ create_date │ 2024-10-27T04:18:09.049394                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.049396                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zp888888.com                                                                                                             │
+│ create_date │ 2024-10-27T04:18:09.048612                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.048615                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ ['f1g1ns2.dnspod.net', 'f1g1ns1.dnspod.net']                                                                             │
+│ CNAME       │ ['15a19.whg7.com']                                                                                                       │
+│ MX          │ []                                                                                                                       │
+│ TXT         │ []                                                                                                                       │
+│ domain      │ zonghedizhi2024.com                                                                                                      │
+│ create_date │ 2024-10-27T04:18:09.041873                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.041875                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zold58.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.036517                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.036520                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zogwguprs2401024.com                                                                                                     │
+│ create_date │ 2024-10-27T04:18:09.035976                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.035978                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ znzb168.com                                                                                                              │
+│ create_date │ 2024-10-27T04:18:09.032909                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.032912                                                                                               │
+│ country     │ US                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['54.147.20.239', '54.152.156.248']                                                                                      │
+│ NS          │ ['ns1.namebrightdns.com', 'ns2.namebrightdns.com']                                                                       │
+│ CNAME       │ ['comingsoon.namebright.com']                                                                                            │
+│ MX          │ [{'exchange': 'mail1.namebrightmail.com', 'priority': 10}, {'exchange': 'mail2.namebrightmail.com', 'priority': 10}]     │
+│ TXT         │ ['google-site-verification=YourUniqueGoogleVerificationCode']                                                            │
+│ domain      │ zmsen7.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.028430                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.028432                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zmg3.com                                                                                                                 │
+│ create_date │ 2024-10-27T04:18:09.027305                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.027307                                                                                               │
+│ country     │ US                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['198.44.250.124']                                                                                                       │
+│ NS          │ ['ns73.domaincontrol.com', 'ns74.domaincontrol.com']                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zmfk120.com                                                                                                              │
+│ create_date │ 2024-10-27T04:18:09.026881                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.026883                                                                                               │
+│ country     │ HK                                                                                                                       │
+│ isDead      │ False                                                                                                                    │
+│ A           │ ['47.90.7.128']                                                                                                          │
+│ NS          │ ['f1g1ns1.dnspod.net', 'f1g1ns2.dnspod.net']                                                                             │
+│ CNAME       │ ['fast011.cdn.dns12345.com']                                                                                             │
+│ MX          │ []                                                                                                                       │
+│ TXT         │ []                                                                                                                       │
+│ domain      │ zman69.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.025598                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.025600                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zlota7.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.024005                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.024007                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+│ domain      │ zlota9.com                                                                                                               │
+│ create_date │ 2024-10-27T04:18:09.024193                                                                                               │
+│ update_date │ 2024-10-27T04:18:09.024195                                                                                               │
+│ country     │ None                                                                                                                     │
+│ isDead      │ False                                                                                                                    │
+│ A           │ None                                                                                                                     │
+│ NS          │ None                                                                                                                     │
+│ CNAME       │ None                                                                                                                     │
+│ MX          │ None                                                                                                                     │
+│ TXT         │ None                                                                                                                     │
+└─────────────┴──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+[*] Domain information retrieval completed.
+
+
+=== Domain Reputation Check ===
+
+=============================================
+Argus - Advanced Domain Reputation Check
+=============================================
+
+[*] Checking reputation for domain: area52.com
+[!] Error retrieving domain reputation for area52.com: 401 Client Error: Unauthorized for url:
+https://www.virustotal.com/api/v3/domains/area52.com
+[!] No reputation data available for area52.com.
+[*] Domain Reputation Check completed.
+
+
+=== HTTP/2 and HTTP/3 Support Checker ===
+
+
+=================================================
+Argus - HTTP/2 and HTTP/3 Support Checker
+=================================================
+
+
+[*] Checking for HTTP/2 support on https://area52.com...
+[-] HTTP/2 is not supported.
+[*] Checking for HTTP/3 support on https://area52.com...
+[-] HTTP/3 is not supported:
+
+
+=== IP Info ===
+
+=============================================
+Argus - IP Information
+=============================================
+
+[*] Fetching IP info for: area52.com
+┏━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Key             ┃ Value                                              ┃
+┡━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ status          │ success                                            │
+│ country         │ Canada                                             │
+│ countryCode     │ CA                                                 │
+│ region          │ QC                                                 │
+│ regionName      │ Quebec                                             │
+│ city            │ Montreal                                           │
+│ zip             │ H4X                                                │
+│ lat             │ 45.5019                                            │
+│ lon             │ -73.5674                                           │
+│ timezone        │ America/Toronto                                    │
+│ isp             │ Cloudflare, Inc.                                   │
+│ org             │ Cloudflare, Inc.                                   │
+│ as              │ AS13335 Cloudflare, Inc.                           │
+│ query           │ 2606:4700:3108::ac42:2880                          │
+│ map_link        │ https://www.google.com/maps?q=45.5019,-73.5674     │
+└─────────────────┴────────────────────────────────────────────────────┘
+
+[+] View location on map: https://www.google.com/maps?q=45.5019,-73.5674
+[*] IP info retrieval completed.
+
+
+=== Open Ports Scan ===
+
+=============================================
+Argus - Open Ports Scanning
+=============================================
+
+[*] Scanning open ports for: area52.com
+┏━━━━━━━━━━━━┓
+┃ Open Ports ┃
+┡━━━━━━━━━━━━┩
+│ 53         │
+│ 80         │
+│ 443        │
+└────────────┘
+[*] Open ports scanning completed.
+
+
+=== Server Info ===
+
+=============================================
+Argus - Server Information
+=============================================
+
+[!] 'area52.com' is not a valid IP address, attempting to resolve to an IP...
+[+] Resolved domain 'area52.com' to IP: 172.66.40.128
+[*] Fetching server information for: 172.66.40.128
+┏━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Field       ┃ Details                  ┃
+┡━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ status      │ success                  │
+│ country     │ Canada                   │
+│ countryCode │ CA                       │
+│ region      │ ON                       │
+│ regionName  │ Ontario                  │
+│ city        │ Toronto                  │
+│ zip         │ M5A                      │
+│ lat         │ 43.6532                  │
+│ lon         │ -79.3832                 │
+│ timezone    │ America/Toronto          │
+│ isp         │ Cloudflare, Inc.         │
+│ org         │ Cloudflare, Inc.         │
+│ as          │ AS13335 Cloudflare, Inc. │
+│ query       │ 172.66.40.128            │
+└─────────────┴──────────────────────────┘
+[*] Server information retrieval completed.
+
+
+=== Server Location ===
+
+=============================================
+Argus - Server Location Detection
+=============================================
+
+[!] Invalid IP address. Please check the input and try again.
+
+
+=== SSL Chain Analysis ===
+
+=============================================
+Argus - SSL Chain Check
+=============================================
+
+[*] Fetching SSL chain for: area52.com
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Certificate Chain                                                ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ -----BEGIN CERTIFICATE-----                                      │
+│ MIIDozCCA0igAwIBAgIQdk4A5bCeT9kOzmGQMaYcsDAKBggqhkjOPQQDAjA7MQsw │
+│ CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD │
+│ VQQDEwNXRTEwHhcNMjQxMDEyMDI1MzM5WhcNMjUwMTEwMDI1MzM4WjAVMRMwEQYD │
+│ VQQDEwphcmVhNTIuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEywdQ84pC │
+│ F6nfVyMKvAVR2jJUZHgugteueK2bnCvHr+x/cTxl7Jhbo7SQAcQfrj4KljmT+J8/ │
+│ YOG3WqkwK31uG6OCAlIwggJOMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggr │
+│ BgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ0ZjYPOQ8QzUbmv7E4Iz/p │
+│ pYJbKjAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEFBQcB │
+│ AQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL2RrNDAl │
+│ BggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAjBgNVHREEHDAa │
+│ ggphcmVhNTIuY29tggwqLmFyZWE1Mi5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEw │
+│ NgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL2lvQ1dmTGx5 │
+│ X0dnLmNybDCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AH1ZHhLheCp7HGFnfF79 │
+│ +NCHXBSgTpWeuQMv2Q6MLnm4AAABkn7cTEkAAAQDAEgwRgIhAMeQ9XK3I7DskBz9 │
+│ Di/7AdFCuFPiN9UsK8ech1AAwCQuAiEAt3aev4IFW7EnRITdp0zPXT1UUGYrNCRO │
+│ FKhuDgwEQRcAdgBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAZJ+ │
+│ 3Eu9AAAEAwBHMEUCIHYcldPCln9O+z95QpxVDZ2GbTF74iWGKAQCDhrQwa4cAiEA │
+│ yVxGqVn3VUhNkkpH40FSsNNlr9ouGmUYInj972BfGSwwCgYIKoZIzj0EAwIDSQAw │
+│ RgIhANx2pePvpR9VSqDdps7fRobxNGb3JHo6yb8yqniXl4CqAiEAkcH0kmEVt2vZ │
+│ L4ljkHKZ4v4L4fgZ3sa15IM2YGRQe0c=                                 │
+│ -----END CERTIFICATE-----                                        │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+SSL Certificate Analysis
+┏━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Attribute              ┃ Details                                                                                ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Subject                │ ((('commonName', 'area52.com'),),)                                                     │
+│ Issuer                 │ ((('countryName', 'US'),), (('organizationName', 'Google Trust Services'),),           │
+│                        │ (('commonName', 'WE1'),))                                                              │
+│ Valid From             │ 2024-10-12 02:53:39                                                                    │
+│ Valid Until            │ 2025-01-10 02:53:38                                                                    │
+│ Serial Number          │ 764E00E5B09E4FD90ECE619031A61CB0                                                       │
+│ Version                │ 3                                                                                      │
+│ Signature Algorithm    │ N/A                                                                                    │
+│ Validity Period (Days) │ 89                                                                                     │
+│ Days Until Expiry      │ 74                                                                                     │
+└────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────┘
+[*] SSL chain retrieval completed.
+
+
+=== SSL Expiry Alert ===
+
+=============================================
+Argus - Advanced SSL Expiry Check
+=============================================
+
+╭────────────────────┬─────────────────────╮
+│ SSL Expiry Details │ Value               │
+├────────────────────┼─────────────────────┤
+│ Domain             │ area52.com          │
+│ Expiry Date        │ 2025-01-10 02:53:38 │
+│ Days Left          │ 74                  │
+╰────────────────────┴─────────────────────╯
+╭────────────────────────┬────────────────────────────────────────────────────────────────────────╮
+│ Attribute              │ Details                                                                │
+├────────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ Subject                │ commonName=area52.com                                                  │
+│ Issuer                 │ countryName=US, organizationName=Google Trust Services, commonName=WE1 │
+│ Valid From             │ Oct 12 02:53:39 2024 GMT                                               │
+│ Valid Until            │ Jan 10 02:53:38 2025 GMT                                               │
+│ Validity Period (Days) │ 89                                                                     │
+│ Days Until Expiry      │ 74                                                                     │
+│ Serial Number          │ 764E00E5B09E4FD90ECE619031A61CB0                                       │
+│ Version                │ 3                                                                      │
+│ Signature Algorithm    │ N/A                                                                    │
+╰────────────────────────┴────────────────────────────────────────────────────────────────────────╯
+SSL Expiry Statistics
+╭───────────────────────────┬───────╮
+│ Metric                    │ Value │
+├───────────────────────────┼───────┤
+│ Total Domains Checked     │ 1     │
+│ Successfully Scanned      │ 1     │
+│ Failed to Scan            │ 0     │
+│ Expired Certificates      │ 0     │
+│ Expiring Within 30 Days   │ 0     │
+│ Healthy Certificates      │ 1     │
+│ Average Days Until Expiry │ 74.00 │
+╰───────────────────────────┴───────╯
+[*] SSL expiry check completed.
+
+
+=== TLS Cipher Suites ===
+
+=============================================
+Argus - Advanced TLS Cipher Analysis
+=============================================
+
+[*] Fetching TLS cipher suites for: area52.com
+Supported Cipher Suites for area52.com
+╭────────────────────────────────┬──────────────────╮
+│ Cipher Suite                   │ Protocol Version │
+├────────────────────────────────┼──────────────────┤
+│ ECDHE-ECDSA-CHACHA20-POLY1305  │ TLSv1.2          │
+│ ECDHE-ECDSA-AES128-SHA         │ TLSv1.2          │
+│ AES128-GCM-SHA256              │ TLSv1.2          │
+│ AES256-SHA256                  │ TLSv1.2          │
+│ ECDHE-ECDSA-AES256-SHA384      │ TLSv1.2          │
+│ ECDHE-RSA-AES128-SHA           │ TLSv1.2          │
+│ ECDHE-ECDSA-AES128-GCM-SHA256  │ TLSv1.2          │
+│ AES128-SHA256                  │ TLSv1.2          │
+│ ECDHE-RSA-AES128-SHA256        │ TLSv1.2          │
+│ ECDHE-RSA-AES256-GCM-SHA384    │ TLSv1.2          │
+│ AES256-SHA                     │ TLSv1.2          │
+│ AES256-GCM-SHA384              │ TLSv1.2          │
+│ ECDHE-RSA-AES256-SHA           │ TLSv1.2          │
+│ ECDHE-ECDSA-AES256-SHA         │ TLSv1.2          │
+│ ECDHE-RSA-AES128-GCM-SHA256    │ TLSv1.2          │
+│ ECDHE-RSA-AES256-SHA384        │ TLSv1.2          │
+│ ECDHE-RSA-CHACHA20-POLY1305    │ TLSv1.2          │
+│ ECDHE-ECDSA-AES128-SHA256      │ TLSv1.2          │
+│ ECDHE-ECDSA-AES256-GCM-SHA384  │ TLSv1.2          │
+│ AES128-SHA                     │ TLSv1.2          │
+│ ECDHE-ARIA128-GCM-SHA256       │ TLSv1.3          │
+│ ECDHE-ECDSA-CHACHA20-POLY1305  │ TLSv1.3          │
+│ RSA-PSK-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ PSK-CAMELLIA256-SHA384         │ TLSv1.3          │
+│ CAMELLIA256-SHA                │ TLSv1.3          │
+│ SRP-RSA-AES-256-CBC-SHA        │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-CCM         │ TLSv1.3          │
+│ SRP-AES-128-CBC-SHA            │ TLSv1.3          │
+│ PSK-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-SHA         │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ AECDH-AES256-SHA               │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA            │ TLSv1.3          │
+│ ARIA256-GCM-SHA384             │ TLSv1.3          │
+│ RSA-PSK-CHACHA20-POLY1305      │ TLSv1.3          │
+│ PSK-AES256-CCM8                │ TLSv1.3          │
+│ PSK-AES128-CCM8                │ TLSv1.3          │
+│ DHE-RSA-AES256-SHA             │ TLSv1.3          │
+│ AES128-CCM8                    │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ CAMELLIA128-SHA256             │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ AES256-CCM8                    │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ ADH-AES256-SHA                 │ TLSv1.3          │
+│ DHE-RSA-AES128-CCM             │ TLSv1.3          │
+│ DHE-DSS-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ SRP-AES-256-CBC-SHA            │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-GCM-SHA256  │ TLSv1.3          │
+│ CAMELLIA256-SHA256             │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA        │ TLSv1.3          │
+│ PSK-ARIA128-GCM-SHA256         │ TLSv1.3          │
+│ SRP-DSS-AES-256-CBC-SHA        │ TLSv1.3          │
+│ DHE-RSA-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-CCM8        │ TLSv1.3          │
+│ AES256-SHA256                  │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA128-SHA256 │ TLSv1.3          │
+│ DHE-RSA-AES256-CCM             │ TLSv1.3          │
+│ DHE-DSS-AES128-GCM-SHA256      │ TLSv1.3          │
+│ AES128-GCM-SHA256              │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-SHA384      │ TLSv1.3          │
+│ DHE-PSK-CHACHA20-POLY1305      │ TLSv1.3          │
+│ PSK-AES256-CCM                 │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA             │ TLSv1.3          │
+│ ECDHE-ARIA256-GCM-SHA384       │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA       │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA384          │ TLSv1.3          │
+│ ARIA128-GCM-SHA256             │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ DHE-RSA-AES128-CCM8            │ TLSv1.3          │
+│ ECDHE-PSK-CHACHA20-POLY1305    │ TLSv1.3          │
+│ ECDHE-RSA-AES128-SHA           │ TLSv1.3          │
+│ DHE-PSK-AES256-CCM8            │ TLSv1.3          │
+│ AES256-SHA                     │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA256          │ TLSv1.3          │
+│ AES128-SHA256                  │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ DHE-RSA-AES128-SHA256          │ TLSv1.3          │
+│ DHE-RSA-AES256-CCM8            │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA256    │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ ADH-AES128-SHA256              │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ PSK-AES128-GCM-SHA256          │ TLSv1.3          │
+│ DHE-RSA-CHACHA20-POLY1305      │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-CCM8        │ TLSv1.3          │
+│ DHE-PSK-AES256-CCM             │ TLSv1.3          │
+│ AES128-CCM                     │ TLSv1.3          │
+│ AES256-GCM-SHA384              │ TLSv1.3          │
+│ ECDHE-RSA-AES256-GCM-SHA384    │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ ECDHE-RSA-AES128-SHA256        │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA            │ TLSv1.3          │
+│ RSA-PSK-AES128-GCM-SHA256      │ TLSv1.3          │
+│ DHE-RSA-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ DHE-PSK-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ AES256-CCM                     │ TLSv1.3          │
+│ CAMELLIA128-SHA                │ TLSv1.3          │
+│ ECDHE-ECDSA-ARIA128-GCM-SHA256 │ TLSv1.3          │
+│ DHE-DSS-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ DHE-RSA-AES256-SHA256          │ TLSv1.3          │
+│ PSK-AES128-CCM                 │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA             │ TLSv1.3          │
+│ ADH-AES128-GCM-SHA256          │ TLSv1.3          │
+│ DHE-DSS-AES256-SHA256          │ TLSv1.3          │
+│ DHE-PSK-AES256-GCM-SHA384      │ TLSv1.3          │
+│ ADH-AES128-SHA                 │ TLSv1.3          │
+│ ECDHE-RSA-AES256-SHA           │ TLSv1.3          │
+│ DHE-RSA-AES256-GCM-SHA384      │ TLSv1.3          │
+│ ECDHE-ECDSA-ARIA256-GCM-SHA384 │ TLSv1.3          │
+│ ADH-AES256-GCM-SHA384          │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA256         │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA       │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-SHA         │ TLSv1.3          │
+│ PSK-ARIA256-GCM-SHA384         │ TLSv1.3          │
+│ DHE-DSS-AES128-SHA             │ TLSv1.3          │
+│ SRP-RSA-AES-128-CBC-SHA        │ TLSv1.3          │
+│ DHE-PSK-AES128-GCM-SHA256      │ TLSv1.3          │
+│ ECDHE-RSA-AES256-SHA384        │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-SHA256      │ TLSv1.3          │
+│ DHE-DSS-AES256-GCM-SHA384      │ TLSv1.3          │
+│ ECDHE-RSA-AES128-GCM-SHA256    │ TLSv1.3          │
+│ ECDHE-RSA-CHACHA20-POLY1305    │ TLSv1.3          │
+│ DHE-DSS-AES128-SHA256          │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-GCM-SHA384  │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA        │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA384    │ TLSv1.3          │
+│ RSA-PSK-AES256-GCM-SHA384      │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA        │ TLSv1.3          │
+│ SRP-DSS-AES-128-CBC-SHA        │ TLSv1.3          │
+│ DHE-RSA-AES128-SHA             │ TLSv1.3          │
+│ AES128-SHA                     │ TLSv1.3          │
+│ DHE-PSK-AES128-CCM             │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ PSK-AES256-GCM-SHA384          │ TLSv1.3          │
+│ DHE-DSS-AES256-SHA             │ TLSv1.3          │
+│ PSK-CHACHA20-POLY1305          │ TLSv1.3          │
+│ DHE-PSK-AES128-CCM8            │ TLSv1.3          │
+│ AECDH-AES128-SHA               │ TLSv1.3          │
+│ ECDHE-ARIA128-GCM-SHA256       │ TLSv1.3          │
+│ ADH-AES256-SHA256              │ TLSv1.3          │
+│ ECDHE-ECDSA-CHACHA20-POLY1305  │ TLSv1.3          │
+│ DHE-PSK-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ RSA-PSK-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ PSK-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ PSK-CAMELLIA256-SHA384         │ TLSv1.3          │
+│ RSA-PSK-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ DHE-RSA-AES128-GCM-SHA256      │ TLSv1.3          │
+│ ARIA256-GCM-SHA384             │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-CCM         │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA256-SHA384 │ TLSv1.3          │
+│ RSA-PSK-CHACHA20-POLY1305      │ TLSv1.3          │
+│ CAMELLIA256-SHA                │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ SRP-RSA-AES-256-CBC-SHA        │ TLSv1.3          │
+│ SRP-AES-128-CBC-SHA            │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA        │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA            │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-CCM         │ TLSv1.3          │
+│ AECDH-AES256-SHA               │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-SHA         │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ PSK-AES256-CCM8                │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ AES128-CCM8                    │ TLSv1.3          │
+│ AES256-CCM8                    │ TLSv1.3          │
+│ ADH-AES256-SHA                 │ TLSv1.3          │
+│ PSK-AES128-CCM8                │ TLSv1.3          │
+│ SRP-DSS-AES-256-CBC-SHA        │ TLSv1.3          │
+│ DHE-DSS-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ DHE-RSA-AES256-SHA             │ TLSv1.3          │
+│ PSK-ARIA128-GCM-SHA256         │ TLSv1.3          │
+│ DHE-DSS-AES128-GCM-SHA256      │ TLSv1.3          │
+│ DHE-RSA-AES128-CCM             │ TLSv1.3          │
+│ AES128-GCM-SHA256              │ TLSv1.3          │
+│ SRP-AES-256-CBC-SHA            │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ CAMELLIA128-SHA256             │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-CCM8        │ TLSv1.3          │
+│ AES256-SHA256                  │ TLSv1.3          │
+│ DHE-RSA-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-GCM-SHA256  │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA        │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA128-SHA256 │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-SHA384      │ TLSv1.3          │
+│ CAMELLIA256-SHA256             │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA384          │ TLSv1.3          │
+│ ECDHE-PSK-CHACHA20-POLY1305    │ TLSv1.3          │
+│ ARIA128-GCM-SHA256             │ TLSv1.3          │
+│ ECDHE-ARIA256-GCM-SHA384       │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA             │ TLSv1.3          │
+│ DHE-RSA-AES128-CCM8            │ TLSv1.3          │
+│ PSK-AES256-CCM                 │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA       │ TLSv1.3          │
+│ DHE-PSK-CHACHA20-POLY1305      │ TLSv1.3          │
+│ DHE-RSA-AES128-SHA256          │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ DHE-PSK-AES256-CCM8            │ TLSv1.3          │
+│ AES128-SHA256                  │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ DHE-RSA-AES256-CCM8            │ TLSv1.3          │
+│ DHE-RSA-AES256-CCM             │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ ECDHE-RSA-AES128-SHA           │ TLSv1.3          │
+│ PSK-AES128-GCM-SHA256          │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA256          │ TLSv1.3          │
+│ ADH-AES128-SHA256              │ TLSv1.3          │
+│ AES256-SHA                     │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA256    │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ AES256-GCM-SHA384              │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-CCM8        │ TLSv1.3          │
+│ DHE-RSA-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ ECDHE-RSA-AES256-GCM-SHA384    │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ ECDHE-RSA-AES128-SHA256        │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ DHE-PSK-AES256-CCM             │ TLSv1.3          │
+│ AES128-CCM                     │ TLSv1.3          │
+│ DHE-RSA-CHACHA20-POLY1305      │ TLSv1.3          │
+│ DHE-PSK-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ RSA-PSK-AES128-GCM-SHA256      │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA            │ TLSv1.3          │
+│ CAMELLIA128-SHA                │ TLSv1.3          │
+│ ECDHE-RSA-AES256-SHA           │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ DHE-RSA-AES256-SHA256          │ TLSv1.3          │
+│ DHE-DSS-AES256-SHA256          │ TLSv1.3          │
+│ PSK-AES128-CCM                 │ TLSv1.3          │
+│ ADH-AES128-GCM-SHA256          │ TLSv1.3          │
+│ AES256-CCM                     │ TLSv1.3          │
+│ DHE-PSK-AES256-GCM-SHA384      │ TLSv1.3          │
+│ ADH-AES256-GCM-SHA384          │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-SHA         │ TLSv1.3          │
+│ ECDHE-ECDSA-ARIA256-GCM-SHA384 │ TLSv1.3          │
+│ PSK-ARIA256-GCM-SHA384         │ TLSv1.3          │
+│ DHE-DSS-AES128-SHA             │ TLSv1.3          │
+│ DHE-DSS-AES256-GCM-SHA384      │ TLSv1.3          │
+│ DHE-DSS-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA256         │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA             │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA       │ TLSv1.3          │
+│ ECDHE-RSA-AES256-SHA384        │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-SHA256      │ TLSv1.3          │
+│ ECDHE-ECDSA-ARIA128-GCM-SHA256 │ TLSv1.3          │
+│ DHE-PSK-AES128-GCM-SHA256      │ TLSv1.3          │
+│ ADH-AES128-SHA                 │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-GCM-SHA384  │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ DHE-RSA-AES256-GCM-SHA384      │ TLSv1.3          │
+│ ECDHE-RSA-AES128-GCM-SHA256    │ TLSv1.3          │
+│ SRP-RSA-AES-128-CBC-SHA        │ TLSv1.3          │
+│ DHE-DSS-AES128-SHA256          │ TLSv1.3          │
+│ DHE-PSK-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ DHE-PSK-AES128-CCM             │ TLSv1.3          │
+│ AES128-SHA                     │ TLSv1.3          │
+│ ECDHE-RSA-CHACHA20-POLY1305    │ TLSv1.3          │
+│ DHE-PSK-AES128-CCM8            │ TLSv1.3          │
+│ PSK-AES256-GCM-SHA384          │ TLSv1.3          │
+│ AECDH-AES128-SHA               │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ RSA-PSK-AES256-GCM-SHA384      │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA        │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA        │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA        │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA384    │ TLSv1.3          │
+│ SRP-DSS-AES-128-CBC-SHA        │ TLSv1.3          │
+│ DHE-RSA-AES128-GCM-SHA256      │ TLSv1.3          │
+│ DHE-RSA-AES128-SHA             │ TLSv1.3          │
+│ RSA-PSK-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ DHE-DSS-AES256-SHA             │ TLSv1.3          │
+│ PSK-CHACHA20-POLY1305          │ TLSv1.3          │
+│ ADH-AES256-SHA256              │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA256-SHA384 │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-CCM         │ TLSv1.3          │
+╰────────────────────────────────┴──────────────────╯
+[*] Weak or insecure cipher suites detected:
+Weak Cipher Suites
+╭────────────────────────────────┬──────────────────╮
+│ Cipher Suite                   │ Protocol Version │
+├────────────────────────────────┼──────────────────┤
+│ PSK-CAMELLIA256-SHA384         │ TLSv1.3          │
+│ CAMELLIA256-SHA                │ TLSv1.3          │
+│ SRP-RSA-AES-256-CBC-SHA        │ TLSv1.3          │
+│ SRP-AES-128-CBC-SHA            │ TLSv1.3          │
+│ PSK-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA            │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ CAMELLIA128-SHA256             │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ SRP-AES-256-CBC-SHA            │ TLSv1.3          │
+│ CAMELLIA256-SHA256             │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA        │ TLSv1.3          │
+│ SRP-DSS-AES-256-CBC-SHA        │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA128-SHA256 │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA             │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA       │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA384          │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA256          │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA256    │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA            │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ CAMELLIA128-SHA                │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA             │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA256         │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA       │ TLSv1.3          │
+│ SRP-RSA-AES-128-CBC-SHA        │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA        │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA384    │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA        │ TLSv1.3          │
+│ SRP-DSS-AES-128-CBC-SHA        │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ PSK-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ PSK-CAMELLIA256-SHA384         │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA256-SHA384 │ TLSv1.3          │
+│ CAMELLIA256-SHA                │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ SRP-RSA-AES-256-CBC-SHA        │ TLSv1.3          │
+│ SRP-AES-128-CBC-SHA            │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA        │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA            │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ SRP-DSS-AES-256-CBC-SHA        │ TLSv1.3          │
+│ SRP-AES-256-CBC-SHA            │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ CAMELLIA128-SHA256             │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA        │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA128-SHA256 │ TLSv1.3          │
+│ CAMELLIA256-SHA256             │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA384          │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA             │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA       │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA256          │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA256    │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA            │ TLSv1.3          │
+│ CAMELLIA128-SHA                │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA256         │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA             │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA       │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ SRP-RSA-AES-128-CBC-SHA        │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA        │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA        │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA        │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA384    │ TLSv1.3          │
+│ SRP-DSS-AES-128-CBC-SHA        │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA256-SHA384 │ TLSv1.3          │
+╰────────────────────────────────┴──────────────────╯
+[*] TLS cipher suites analysis completed.
+
+
+=== TLS Handshake Simulation ===
+
+=============================================
+Argus - Advanced TLS Handshake Simulation
+=============================================
+
+TLS Handshake Details for area52.com (Resolved IP) - TLSv1_2
+
+Protocol Version:            TLSv1.2
+Cipher Suite:                ECDHE-ECDSA-AES128-GCM-SHA256
+Cipher Protocol:             TLSv1.2
+Cipher Bits:                 128
+Certificate Subject:         {}
+Certificate Issuer:          {}
+Valid From:
+Valid To:
+Serial Number:
+Subject Alternative Names:
+
+TLS Handshake Details for area52.com (Resolved IP) -
+TLSv1_3
+
+Protocol Version:            TLSv1.3
+Cipher Suite:                TLS_AES_256_GCM_SHA384
+Cipher Protocol:             TLSv1.3
+Cipher Bits:                 256
+Certificate Subject:         {}
+Certificate Issuer:          {}
+Valid From:
+Valid To:
+Serial Number:
+Subject Alternative Names:
+
+[*] TLS handshake simulation completed.
+
+
+=== Traceroute ===
+
+
+=============================================
+Argus - Email Harvesting Module
+=============================================
+
+
+[*] Starting email harvesting on http://area52.com...
+[!] Error crawling area52.com: Invalid URL 'area52.com': No scheme supplied. Perhaps you meant https://area52.com?
+[!] No email addresses found.
+
+
+=== TXT Records ===
+
+=============================================
+Argus - TXT Record Retrieval Module
+=============================================
+
+[*] Retrieving TXT records for domain: area52.com
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ TXT Record                                                                                ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ v=spf1 include:zoho.com include:mail.zendesk.com ~all                                     │
+│ zoho-verification=zb16390383.zmverify.zoho.com                                            │
+│ ahrefs-site-verification_dd63c2da00a63879e36ef24cc850d2284fcef1053f2b962c4604cd9ebea17223 │
+│ google-site-verification=Gb4lZV9VVv8ZDsOGXBf7qm0_9_j_Ob4Dhh0KFQw2Qhw                      │
+│ klaviyo-site-verification=WqUmXD                                                          │
+└───────────────────────────────────────────────────────────────────────────────────────────┘
+
+[*] TXT record retrieval completed for area52.com.
+
+
+=== WHOIS Lookup ===
+
+=============================================
+Argus - WHOIS Lookup Module
+=============================================
+
+[*] Performing WHOIS lookup for domain: area52.com
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Key                                                  ┃ Value                                                    ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ % for more information on IANA, visit http           │ //www.iana.org                                           │
+│ refer                                                │ whois.verisign-grs.com                                   │
+│ domain                                               │ COM                                                      │
+│ organisation                                         │ VeriSign Global Registry Services                        │
+│ address                                              │ 12061 Bluemont Way                                       │
+│ address                                              │ Reston VA 20190                                          │
+│ address                                              │ United States of America (the)                           │
+│ contact                                              │ administrative                                           │
+│ name                                                 │ Registry Customer Service                                │
+│ organisation                                         │ VeriSign Global Registry Services                        │
+│ address                                              │ 12061 Bluemont Way                                       │
+│ address                                              │ Reston VA 20190                                          │
+│ address                                              │ United States of America (the)                           │
+│ phone                                                │ +1 703 925-6999                                          │
+│ fax-no                                               │ +1 703 948 3978                                          │
+│ e-mail                                               │ info@verisign-grs.com                                    │
+│ contact                                              │ technical                                                │
+│ name                                                 │ Registry Customer Service                                │
+│ organisation                                         │ VeriSign Global Registry Services                        │
+│ address                                              │ 12061 Bluemont Way                                       │
+│ address                                              │ Reston VA 20190                                          │
+│ address                                              │ United States of America (the)                           │
+│ phone                                                │ +1 703 925-6999                                          │
+│ fax-no                                               │ +1 703 948 3978                                          │
+│ e-mail                                               │ info@verisign-grs.com                                    │
+│ nserver                                              │ A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30   │
+│ nserver                                              │ B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30 │
+│ nserver                                              │ C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30 │
+│ nserver                                              │ D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30 │
+│ nserver                                              │ E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30 │
+│ nserver                                              │ F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30 │
+│ nserver                                              │ G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30 │
+│ nserver                                              │ H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30 │
+│ nserver                                              │ I.GTLD-SERVERS.NET 192.43.172.30                         │
+│                                                      │ 2001:503:39c1:0:0:0:0:30                                 │
+│ nserver                                              │ J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30 │
+│ nserver                                              │ K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30 │
+│ nserver                                              │ L.GTLD-SERVERS.NET 192.41.162.30                         │
+│                                                      │ 2001:500:d937:0:0:0:0:30                                 │
+│ nserver                                              │ M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30 │
+│ ds-rdata                                             │ 19718 13 2                                               │
+│                                                      │ 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d… │
+│ whois                                                │ whois.verisign-grs.com                                   │
+│ status                                               │ ACTIVE                                                   │
+│ remarks                                              │ Registration information: http://www.verisigninc.com     │
+│ created                                              │ 1985-01-01                                               │
+│ changed                                              │ 2023-12-07                                               │
+│ source                                               │ IANA                                                     │
+│ Domain Name                                          │ AREA52.COM                                               │
+│ Registry Domain ID                                   │ 2582375653_DOMAIN_COM-VRSN                               │
+│ Registrar WHOIS Server                               │ whois.porkbun.com                                        │
+│ Registrar URL                                        │ http://porkbun.com                                       │
+│ Updated Date                                         │ 2023-01-13T00:44:03Z                                     │
+│ Creation Date                                        │ 2021-01-03T19:02:03Z                                     │
+│ Registry Expiry Date                                 │ 2031-01-03T19:02:03Z                                     │
+│ Registrar                                            │ Porkbun LLC                                              │
+│ Registrar IANA ID                                    │ 1861                                                     │
+│ Registrar Abuse Contact Email                        │ abuse@porkbun.com                                        │
+│ Registrar Abuse Contact Phone                        │ 5038508351                                               │
+│ Domain Status                                        │ clientDeleteProhibited                                   │
+│                                                      │ https://icann.org/epp#clientDeleteProhibited             │
+│ Domain Status                                        │ clientTransferProhibited                                 │
+│                                                      │ https://icann.org/epp#clientTransferProhibited           │
+│ Name Server                                          │ AUSTIN.NS.CLOUDFLARE.COM                                 │
+│ Name Server                                          │ MONROE.NS.CLOUDFLARE.COM                                 │
+│ DNSSEC                                               │ unsigned                                                 │
+│ URL of the ICANN Whois Inaccuracy Complaint Form     │ https://www.icann.org/wicf/                              │
+│ >>> Last update of whois database                    │ 2024-10-27T06:05:28Z <<<                                 │
+│ Domain Name                                          │ AREA52.COM                                               │
+│ Registry Domain ID                                   │ 2582375653_DOMAIN_COM-VRSN                               │
+│ Registrar WHOIS Server                               │ whois.porkbun.com                                        │
+│ Registrar URL                                        │ http://www.porkbun.com                                   │
+│ Updated Date                                         │ 2023-01-13 00:44:03                                      │
+│ Created Date                                         │ 2021-01-03 19:02:03                                      │
+│ Registrar Registration Expiration Date               │ 2031-01-03 19:02:03                                      │
+│ Registrar                                            │ Porkbun LLC                                              │
+│ Registrar IANA ID                                    │ 1861                                                     │
+│ Registrar Abuse Contact Email                        │ abuse@porkbun.com                                        │
+│ Registrar Abuse Contact Phone                        │ +1.5038508351                                            │
+│ Domain Status                                        │ clientDeleteProhibited                                   │
+│                                                      │ http://icann.org/epp#clientDeleteProhibited              │
+│ Domain Status                                        │ clientTransferProhibited                                 │
+│                                                      │ http://icann.org/epp#clientTransferProhibited            │
+│ Registry Registrant ID                               │                                                          │
+│ Registrant Name                                      │ Whois Privacy                                            │
+│ Registrant Organization                              │ Private by Design, LLC                                   │
+│ Registrant Street                                    │ 500 Westover Dr #9816                                    │
+│ Registrant City                                      │ Sanford                                                  │
+│ Registrant State/Province                            │ NC                                                       │
+│ Registrant Postal Code                               │ 27330                                                    │
+│ Registrant Country                                   │ US                                                       │
+│ Registrant Phone                                     │ +1.9712666028                                            │
+│ Registrant Phone Ext                                 │                                                          │
+│ Registrant Fax                                       │                                                          │
+│ Registrant Fax Ext                                   │                                                          │
+│ Registrant Email                                     │ https://porkbun.com/whois/contact/registrant/area52.com  │
+│ Registry Admin ID                                    │                                                          │
+│ Admin Name                                           │ Whois Privacy                                            │
+│ Admin Organization                                   │ Private by Design, LLC                                   │
+│ Admin Street                                         │ 500 Westover Dr #9816                                    │
+│ Admin City                                           │ Sanford                                                  │
+│ Admin State/Province                                 │ NC                                                       │
+│ Admin Postal Code                                    │ 27330                                                    │
+│ Admin Country                                        │ US                                                       │
+│ Admin Phone                                          │ +1.9712666028                                            │
+│ Admin Phone Ext                                      │                                                          │
+│ Admin Fax                                            │                                                          │
+│ Admin Fax Ext                                        │                                                          │
+│ Admin Email                                          │ https://porkbun.com/whois/contact/admin/area52.com       │
+│ Registry Tech ID                                     │                                                          │
+│ Tech Name                                            │ Whois Privacy                                            │
+│ Tech Organization                                    │ Private by Design, LLC                                   │
+│ Tech Street                                          │ 500 Westover Dr #9816                                    │
+│ Tech City                                            │ Sanford                                                  │
+│ Tech State/Province                                  │ NC                                                       │
+│ Tech Postal Code                                     │ 27330                                                    │
+│ Tech Country                                         │ US                                                       │
+│ Tech Phone                                           │ +1.9712666028                                            │
+│ Tech Phone Ext                                       │                                                          │
+│ Tech Fax                                             │                                                          │
+│ Tech Fax Ext                                         │                                                          │
+│ Tech Email                                           │ https://porkbun.com/whois/contact/tech/area52.com        │
+│ Name Server                                          │ austin.ns.cloudflare.com                                 │
+│ Name Server                                          │ monroe.ns.cloudflare.com                                 │
+│ URL of the ICANN WHOIS Data Problem Reporting System │ http://wdprs.internic.net                                │
+│ >>> Last update of WHOIS database                    │ 2023-01-13 00:44:03 <<<                                  │
+└──────────────────────────────────────────────────────┴──────────────────────────────────────────────────────────┘
+
+[*] WHOIS lookup completed.
+
+
+=== Zone Transfer ===
+
+
+=============================================
+Argus - DNS Zone Transfer Module
+=============================================
+
+
+[*] Querying name servers for domain: area52.com
+[*] Attempting zone transfer with austin.ns.cloudflare.com....
+[!] An error occurred during zone transfer with austin.ns.cloudflare.com.:
+[*] Attempting zone transfer with monroe.ns.cloudflare.com....
+[!] An error occurred during zone transfer with monroe.ns.cloudflare.com.:
+[!] No zone transfer records found for area52.com.
+
+

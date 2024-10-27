@@ -1,0 +1,1016 @@
+=== Archive History ===
+
+=============================================
+Argus - Archive History Lookup
+=============================================
+
+[*] Retrieving archive history for domain: area52.com
+[!] Failed to retrieve archive history: 503 - Service Temporarily Unavailable
+[!] No archive history found for area52.com.
+
+
+=== Broken Links Detection ===
+
+=============================================
+Argus - Broken Links Detection
+=============================================
+
+[*] Checking links on: http://area52.com
+
+[+] No broken links found for http://area52.com.
+
+
+=== Carbon Footprint ===
+
+==============================================
+Argus - Website Carbon Footprint Calculator
+==============================================
+
+[*] Analyzing website: http://area52.com
+
+Results for http://area52.com:
+
+Is the website hosted on green hosting? Yes
+Website is cleaner than 44.00% of websites tested.
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┓
+┃ Metric                                          ┃ Value        ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━┩
+│ Carbon emitted per page view (grid energy)      │ 0.6432 grams │
+│ Carbon emitted per page view (renewable energy) │ 0.5576 grams │
+│ Energy consumed per page view                   │ 0.001455 kWh │
+└─────────────────────────────────────────────────┴──────────────┘
+
+
+=== CMS Detection ===
+
+=============================================
+Argus - CMS Enumeration Module
+=============================================
+
+[*] Enumerating CMS for: area52.com
+┏━━━━━━━━━━━━━━━━━━━━━━┓
+┃ CMS Detection Result ┃
+┡━━━━━━━━━━━━━━━━━━━━━━┩
+│ WordPress            │
+└──────────────────────┘
+[*] CMS Enumeration completed.
+
+
+=== Cookies Analyzer ===
+
+=============================================
+Argus - Advanced Cookie Analyzer
+=============================================
+
+[*] Fetching cookies for: http://area52.com
+Cookies for http://area52.com
+╭─────────────┬─────────────┬────────────┬──────┬────────┬──────────┬──────────╮
+│ Name        │ Value       │ Domain     │ Path │ Secure │ HttpOnly │ SameSite │
+├─────────────┼─────────────┼────────────┼──────┼────────┼──────────┼──────────┤
+│ a52_city    │ Springfield │ area52.com │ /    │ Yes    │ Yes      │ Lax      │
+│ a52_country │ US          │ area52.com │ /    │ Yes    │ Yes      │ Lax      │
+│ a52_state   │ MA          │ area52.com │ /    │ Yes    │ Yes      │ Lax      │
+╰─────────────┴─────────────┴────────────┴──────┴────────┴──────────┴──────────╯
+[+] No security issues detected with cookies.
+[*] Cookie analysis completed for http://area52.com.
+
+
+
+=== Content Discovery ===
+
+=============================================
+Argus - Content Discovery
+=============================================
+
+
+=============================================
+Argus - Content Discovery
+=============================================
+
+[*] Starting content discovery for http://area52.com
+[*] Fetching robots.txt from: http://area52.com/robots.txt
+[+] Found robots.txt
+[*] Checking http://area52.com/sitemap.xml
+[+] Found sitemap.xml
+/Users/orangecloud/.pyenv/versions/3.10.0/lib/python3.10/html/parser.py:170: XMLParsedAsHTMLWarning: It looks like you're parsing an XML document using an HTML parser. If this really is an HTML document (maybe it's XHTML?), you can ignore or filter this warning. If it's XML, you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the lxml package installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+k = self.parse_starttag(i)
+[*] Discovering internal links...
+[*] Discovering external links...
+[*] Discovering CSS files...
+[*] Discovering JS files...
+
+[*] Asset Files Found:
+Asset Type  Link
+CSS File    https://area52.com/xmlrpc.php
+CSS File    https://area52.com/
+CSS File    https://gmpg.org/xfn/11
+CSS File    https://area52.com/wp-content/cache/autoptimize/css/autoptimize_single_d7a8127861fe37f332ec855349a23c
+3d.css?ver=wc-9.2.3
+CSS File    https://area52.com/wp-content/cache/autoptimize/css/autoptimize_single_3762bb6a59bd1f255befe3d19d8eea
+d3.css?ver=8.0.1
+CSS File    https://area52.com/wp-content/themes/area52/style.css?ver=1656401051
+CSS File    https://area52.com/xmlrpc.php?rsd
+CSS File    https://area52.com/wp-content/cache/autoptimize/css/autoptimize_single_38af491859227cb528d871d361c0a6
+a4.css?ver=4.7.3
+CSS File    https://area52.com/wp-content/uploads/2021/01/favicon_bl.png
+CSS File    https://area52.com/wp-content/plugins/affiliate-wp/assets/css/forms.min.css?ver=2.24.5
+CSS File    https://area52.com/wp-content/cache/autoptimize/css/autoptimize_single_db5b7d30254da124a246093d7f0ec8
+d0.css?ver=0d76feeb8167b2e621eb654642649a04
+CSS File    http://area52.com//static.klaviyo.com
+CSS File    http://area52.com//trustspot.io
+CSS File    https://area52.com/wp-content/plugins/wt-import-export-for-woo/public/css/wt-import-export-for-woo-pu
+blic.css?ver=1.1.5
+CSS File    https://area52.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farea52.com%2F
+CSS File    https://area52.com/wp-content/cache/autoptimize/css/autoptimize_single_83ae19ede00346a95b34845679c3ef
+5a.css?ver=1.8.6
+CSS File    https://area52.com/wp-content/cache/autoptimize/css/autoptimize_single_e2847f5ba014fc02ea79d12859574a
+09.css?ver=2.1.0
+CSS File    https://area52.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farea52.com%2F&format=xml
+CSS File    https://area52.com/wp-content/cache/autoptimize/css/autoptimize_single_07720af2ad1093d58afe7f38f79d44
+a5.css?ver=7.5.0
+CSS File    https://area52.com/wp-json/wp/v2/pages/38
+CSS File    https://area52.com/wp-json/
+CSS File    https://area52.com/wp-content/cache/autoptimize/css/autoptimize_single_0003b1a63df03dbbd82274cbf1bc19
+b9.css?ver=1729975470
+CSS File    https://area52.com/wp-content/uploads/2021/01/favicon_bl-55x55.png
+JS File     https://area52.com/wp-content/cache/autoptimize/js/autoptimize_single_8287c6dba01c2d1e23e916b34906c9d
+6.js?ver=2.1.0
+JS File     https://area52.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+JS File     https://trustspot.io/assets/js/trustspot_product_reviews.js
+JS File     http://area52.com//static.klaviyo.com/onsite/js/klaviyo.js?company_id=WqUmXD&ver=3.3.5
+JS File     https://area52.com/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=3.1
+.12
+JS File     http://area52.com//static.getclicky.com/js
+JS File     https://area52.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.
+4.1-wc.9.2.3
+JS File     http://area52.com//d3ty4og90bdf2f.cloudfront.net/code_snippets/woocommerce_redirect.js
+JS File     https://www.google.com/recaptcha/api.js?render=6LetmaMhAAAAAHVPPorfuYTYVeZYr0lLjMz3dQoA&ver=3.0
+JS File     https://area52.com/wp-content/cache/autoptimize/js/autoptimize_c29eea22a6d41d180928191419e33a1f.js
+JS File     https://area52.com/wp-content/plugins/affiliate-wp/assets/js/tracking.min.js?ver=2.24.5
+JS File     https://area52.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+JS File     https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=WqUmXD
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┓
+┃ Category       ┃ Count     ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━┩
+│ robots.txt     │ Available │
+│ Sitemap Links  │ 5         │
+│ Internal Links │ 51        │
+│ External Links │ 26        │
+│ CSS Files      │ 23        │
+│ JS Files       │ 13        │
+└────────────────┴───────────┘
+
+
+=== Crawler ===
+
+==============================================
+Argus - Advanced Web Crawler
+==============================================
+
+[+] Found: http://area52.com (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/thc-oil (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/mars-cbg-gummies (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/thc-gummies (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/cbd-cbn-sleep-gummies-neptune (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/about (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/moon-cbd-gummies (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/delta-9-thc-products-ufo (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/blog (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/my-account (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/delta-8-products (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/magic-pluto-mushroom-gummies (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: http://area52.com/thca-products (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/full-spectrum-ufo-max-gummies (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/products/thca-flower (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/cbd-cbn-sleep-tincture (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: http://area52.com/products (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/thca-pre-rolls (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/full-spectrum-ufo-gummies (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/products/delta-8-gummies (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/delta-8-tincture (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/delta-8-disposable-vape-pen (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: http://area52.com/ufo-products (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/full-spectrum-cbd-thc-oil (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/what-is-thc-o (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-thcp (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/delta-8-tinctures (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/delta-8-gummies (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-thcv (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/privacy-policy (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/terms-conditions (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/ https:/area52.com/products/full-spectrum-ufo-max-gummies (Status: 404) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: https://area52.com/wholesale (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/ https:/area52.com/products/moon-cbd-gummies (Status: 404) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: http://area52.com/my-account (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/ https:/area52.com/products/cbd-cbn-sleep-gummies-neptune (Status: 404) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: http://area52.com/contact (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/ https:/area52.com/products/thca-flower (Status: 404) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/cdn-cgi/l/email-protection (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-9-thc-products-ufo (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-products (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/thca-products (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-tinctures (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/contact (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-gummies (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/privacy-policy (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/ https:/area52.com/products/full-spectrum-ufo-max-gummies (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/terms-conditions (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/ https:/area52.com/products/moon-cbd-gummies (Status: 404) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/ https:/area52.com/products/cbd-cbn-sleep-gummies-neptune (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/cbd-products (Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/ https:/area52.com/products/thca-flower (Status: 404) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/delta-8-vapes (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/thca-vapes (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/ https:/area52.com/products/full-spectrum-ufo-max-gummies (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/ https:/area52.com/products/thca-flower (Status: 404) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/ https:/area52.com/products/moon-cbd-gummies (Status: 404) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/ https:/area52.com/products/cbd-cbn-sleep-gummies-neptune (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-9-thc-gummies-ufo (Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/neptune-cbn-gummies (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/cbn-products (Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/category/blog (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/category/cannabis (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-live-resin (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/category/legal (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/most-exotic-cannabis-strains (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-georgia (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-ohio (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-california (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-new-hampshire (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-oregon (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-vermont (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-north-carolina (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-south-carolina (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-nebraska (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-west-virginia (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-illinois (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/6 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/2 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/3 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/4 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/8 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/5 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/7 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/cdn-cgi/l/email-protection (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/my-account/lost-password (Status: 403) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/9 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/ufo-products (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/thca-disposable-vape-pen (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/blog/page/10 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/11 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/thca-vape-cartridge (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/12 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/thca-gummies (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/blog (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/ufo-gummies (Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-thc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-vs-delta-9-thc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-vs-delta-10-thc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/ https:/area52.com/products/ https:/area52.com/products/full-spectrum-ufo-max-gummies
+(Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/ https:/area52.com/products/ https:/area52.com/products/moon-cbd-gummies (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/hemp-vs-marijuana (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-delta-8-high-feels-like (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/ https:/area52.com/products/ https:/area52.com/products/cbd-cbn-sleep-gummies-neptune
+(Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/ https:/area52.com/products/ https:/area52.com/products/thca-flower (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/cbd-hemp-wholesale (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/cannabis (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-wholesale (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/legal (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/ https:/area52.com/products/ https:/area52.com/products/full-spectrum-ufo-max-gummies
+(Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/ https:/area52.com/products/ https:/area52.com/products/moon-cbd-gummies (Status:
+404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/ https:/area52.com/products/ https:/area52.com/products/cbd-cbn-sleep-gummies-neptune
+(Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/ https:/area52.com/products/ https:/area52.com/products/thca-flower (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/ https:/area52.com/products/
+https:/area52.com/products/full-spectrum-ufo-max-gummies (Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/ https:/area52.com/products/ https:/area52.com/products/moon-cbd-gummies
+(Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/ https:/area52.com/products/ https:/area52.com/products/thca-flower (Status:
+404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/ https:/area52.com/products/
+https:/area52.com/products/cbd-cbn-sleep-gummies-neptune (Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/each-nation-primary-stressor (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/is-delta-8-thc-legal (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/states-benefit-most-from-marijuana-legalization (Status: 200) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: https://area52.com/hhc-vs-delta-9-delta-8-thc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/how-to-roll-the-perfect-joint (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/endocannabinoid-deficiency (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/how-to-take-cbg-oil (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-cbga (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/hhc-drug-test (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/cannabinoids-for-productivity (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/best-stoner-movies (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/blog/page/2 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/blog/page/3 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/blog/page/5 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/category/ https:/area52.com/products/full-spectrum-ufo-max-gummies (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/blog/page/4 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/blog/page/6 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/category/ https:/area52.com/products/moon-cbd-gummies (Status: 404) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/blog/page/7 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/blog/page/8 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/category/ https:/area52.com/products/cbd-cbn-sleep-gummies-neptune (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/category/ https:/area52.com/products/thca-flower (Status: 404) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: https://area52.com/difference-between-spliffs-blunts-joints (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/how-long-does-a-weed-high-last (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-michigan (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/legal/page/2 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-rosin (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/how-to-use-a-dab-rig (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-marijuana-dabbing (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-florida (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/legal/page/3 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/how-much-thc-is-in-weed (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/legal/page/5 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/legal/page/4 (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/best-hemp-flower-strains (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-iowa (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/marijuana-legality-by-state (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/products/delta-8-vape-cartridge (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-near-me (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/best-ways-to-use-delta-8-thc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-mississippi (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-new-york (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/why-more-users-are-turning-to-delta-8-thc-edibles (Status: 200) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: https://area52.com/cannabis-entourage-effect (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/how-is-delta-8-thc-made (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/how-to-use-delta-8-thc-tinctures (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-dosage (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/how-to-vape-delta-8-thc-properly (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-tolerance (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/how-delta-8-thc-affects-marijuana-legalization (Status: 200) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: https://area52.com/edibles-vs-smoking-vaping (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/thcv-vs-thc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-free-samples (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/how-to-clean-a-vape-pen (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/how-to-smoke-hemp-flower (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-chs (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-are-cannabis-terpenes (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-does-cbg-feel-like (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/ https:/area52.com/products/full-spectrum-ufo-max-gummies (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/ https:/area52.com/products/moon-cbd-gummies (Status: 404) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: https://area52.com/does-cbg-affect-appetite (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/ https:/area52.com/products/cbd-cbn-sleep-gummies-neptune (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/blog/page/ https:/area52.com/products/thca-flower (Status: 404) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-tennessee (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-massachusetts (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-virginia (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-texas (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-maryland (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-idaho (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-pennsylvania (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-utah (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-kentucky (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-rhode-island (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-north-dakota (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-kansas (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-arkansas (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-alaska (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-wyoming (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-arizona (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-minnesota (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-alabama (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-connecticut (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-new-jersey (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-delaware (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-louisiana (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-nevada (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-colorado (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-hawaii (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-new-mexico (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-wisconsin (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-south-dakota (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-oklahoma (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-washington (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-indiana (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/marijuana-paranoia (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/is-hhc-legal (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-montana (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/cbg-vs-cbn (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/list-of-cannabinoids (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/phobia-fears-statistics (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/how-to-stop-being-high (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/cannabis-legalization-history (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/microdosing-delta-8-thc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-cbda (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-cbgv (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-farm-bill (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/history-of-marijuana (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/cbn-hemp-flower (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/herbs-to-mix-with-weed (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/why-does-weed-make-you-tired (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/edibles-vs-vape (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-delivery (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-cbl (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/strongest-cannabinoids (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/cbg-vs-cbd (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/endocannabinoid-system (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-cbd (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-delta-10-thc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/decriminalization-vs-legalization (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/cannabinoids-and-coffee (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-cbg-flower (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-thcc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-hhc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-myths-facts (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-sativa-indica-hybrid (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-10-thc-vs-cbd (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-10-vs-delta-9-thc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-cbg (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-cbc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/cannabis-third-party-lab-testing (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/do-delta-8-carts-expire (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/is-delta-8-thc-synthetic (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/vape-pen-cartridge-no-airflow (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/is-delta-8-thc-addictive (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/what-is-cbn (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/is-delta-8-thc-safe-for-pets (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/reasons-to-switch-to-delta-8-thc (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/foods-to-combine-with-delta-8-thc (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/delta-8-color (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/cdt-carts-vs-non-cdt-carts (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-maine (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/is-delta-8-thc-safe (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-drug-test (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-missouri (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-reviews (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/benefits-of-delta-8-thc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/best-time-of-day-to-take-delta-8-thc (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/what-is-delta-8-thc (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/ https:/area52.com/products/full-spectrum-ufo-max-gummies (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/delta-8-thc-vs-cbd (Status: 200) (Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/how-long-does-delta-8-thc-stay-in-your-system (Status: 200) (Content-Type: text/html;
+charset=UTF-8)
+[+] Found: https://area52.com/category/ https:/area52.com/products/moon-cbd-gummies (Status: 404) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/ https:/area52.com/products/cbd-cbn-sleep-gummies-neptune (Status: 404)
+(Content-Type: text/html; charset=UTF-8)
+[+] Found: https://area52.com/category/ https:/area52.com/products/thca-flower (Status: 404) (Content-Type:
+text/html; charset=UTF-8)
+[+] Found: http://area52.com/ https:/area52.com/products/ https:/area52.com/products/
+https:/area52.com/products/full-spectrum-ufo-max-gummies (Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/ https:/area52.com/products/ https:/area52.com/products/
+https:/area52.com/products/cbd-cbn-sleep-gummies-neptune (Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/ https:/area52.com/products/ https:/area52.com/products/
+https:/area52.com/products/moon-cbd-gummies (Status: 404) (Content-Type: text/html; charset=UTF-8)
+[+] Found: http://area52.com/ https:/area52.com/products/ https:/area52.com/products/
+https:/area52.com/products/thca-flower (Status: 404) (Content-Type: text/html; charset=UTF-8)
+
+[+] Report saved to results/area52.com_web_crawler.txt
+
+
+=== Robots.txt Analyzer ===
+
+=============================================
+Argus - Crawl Rules Check
+=============================================
+
+[*] Fetching robots.txt from: http://area52.com
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ robots.txt                                                 ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ User-agent: *                                              │
+│ Disallow: /wp-content/uploads/wc-logs/                     │
+│ Disallow: /wp-content/uploads/woocommerce_transient_files/ │
+│ Disallow: /wp-content/uploads/woocommerce_uploads/         │
+│ Disallow: /wp-admin/                                       │
+│ Allow: /wp-admin/admin-ajax.php                            │
+│                                                            │
+│ Sitemap: https://area52.com/sitemaps.xml                   │
+└────────────────────────────────────────────────────────────┘
+[*] Crawl rules analysis completed.
+
+
+=== Directory Finder ===
+
+=============================================
+Argus - Directory Finder
+=============================================
+
+[*] Target base URL set to: http://area52.com
+[*] Loading paths from wordlists/directory_wordlists.txt...
+[!] Wordlist file not found: wordlists/directory_wordlists.txt
+
+
+=== Email Harvesting ===
+
+
+=============================================
+Argus - Email Harvesting Module
+=============================================
+
+
+[*] Starting email harvesting on http://area52.com...
+[*] Crawled: http://area52.com
+[*] Crawled: http://area52.com?add-to-cart=1318232
+[*] Crawled: https://area52.com/what-is-thcv/
+[*] Crawled: http://area52.com/my-account/
+[!] Skipped http://area52.com/ https:/area52.com/products/cbd-cbn-sleep-gummies-neptune/ (Status code: 404)
+[*] Crawled: https://area52.com/products/full-spectrum-cbd-thc-oil/?attribute_pa_flavor=strawberry
+[*] Crawled: http://area52.com/blog/
+[*] Crawled: https://area52.com/products/full-spectrum-ufo-max-gummies/
+[*] Crawled: http://area52.com/?add-to-cart=294
+[*] Crawled: https://area52.com/thc-gummies/
+[*] Crawled: https://area52.com/about/
+[*] Crawled: https://area52.com/thc-oil/
+[*] Crawled: https://area52.com/products/moon-cbd-gummies/
+[!] Skipped http://area52.com/ https:/area52.com/products/full-spectrum-ufo-max-gummies/ (Status code: 404)
+[*] Crawled: https://area52.com/products/delta-8-tincture/?attribute_pa_flavor=cherry
+[*] Crawled: http://area52.com/thca-products
+[*] Crawled: http://area52.com/?add-to-cart=33930
+[*] Crawled: https://area52.com/products/cbd-cbn-sleep-gummies-neptune/
+[*] Crawled: http://area52.com?add-to-cart=33930
+[*] Crawled: https://area52.com/what-is-thcp/
+[*] Crawled: http://area52.com/delta-9-thc-products-ufo
+[*] Crawled: http://area52.com/?add-to-cart=20348
+[*] Crawled: http://area52.com/products/
+[*] Crawled: http://area52.com/?add-to-cart=471433
+[*] Crawled: http://area52.com/privacy-policy/
+[*] Crawled: https://area52.com/products/thca-pre-rolls/
+[*] Crawled: http://area52.com/contact/
+[*] Crawled: http://area52.com/terms-conditions/
+[*] Crawled: https://area52.com/products/mars-cbg-gummies/
+[*] Crawled: https://area52.com/products/thca-flower/
+[*] Crawled: https://area52.com/products/cbd-cbn-sleep-tincture/
+[*] Crawled: https://area52.com/my-account/
+[*] Crawled: http://area52.com/delta-8-products
+[*] Crawled: http://area52.com?add-to-cart=1319534
+[*] Crawled: http://area52.com/?add-to-cart=463487
+[*] Crawled: http://area52.com/delta-8-products/
+[*] Crawled: https://area52.com
+[*] Crawled: http://area52.com/delta-8-tinctures/
+[*] Crawled: https://area52.com/products/delta-8-disposable-vape-pen/?attribute_pa_flavor=blue-dream
+[*] Crawled: http://area52.com/#area52_reviews
+[*] Crawled: http://area52.com/?add-to-cart=5329
+[!] Skipped http://area52.com/ https:/area52.com/products/moon-cbd-gummies/ (Status code: 404)
+[*] Crawled: https://area52.com/wholesale/
+[*] Crawled: http://area52.com?add-to-cart=471433
+[*] Crawled: http://area52.com/delta-8-gummies/
+[!] Skipped http://area52.com/ https:/area52.com/products/thca-flower/ (Status code: 404)
+[*] Crawled: http://area52.com/
+[*] Crawled: http://area52.com/?add-to-cart=33782
+[*] Crawled: https://area52.com/products/full-spectrum-ufo-gummies/
+[*] Crawled: https://area52.com/products/delta-8-gummies/
+[*] Crawled: http://area52.com/?add-to-cart=4688
+[*] Crawled: http://area52.com/?add-to-cart=1319534
+[*] Crawled: https://area52.com/what-is-thc-o/
+[*] Crawled: https://area52.com/products/
+[*] Crawled: http://area52.com/?add-to-cart=1279359
+[*] Crawled: http://area52.com/ufo-products/
+[*] Crawled: http://area52.com?add-to-cart=463487
+[*] Crawled: https://area52.com/products/magic-pluto-mushroom-gummies/
+[*] Crawled: http://area52.com?add-to-cart=33782
+[*] Crawled: https://area52.com/what-delta-8-high-feels-like/
+[*] Crawled: https://area52.com/delta-8-products
+[*] Crawled: https://area52.com/privacy-policy/
+[!] Skipped https://area52.com/what-is-thcv/ https:/area52.com/products/cbd-cbn-sleep-gummies-neptune/ (Status
+code: 404)
+[*] Crawled: https://area52.com/category/blog
+[*] Crawled: https://area52.com/
+[!] Skipped https://area52.com/what-is-thcv/ https:/area52.com/products/thca-flower/ (Status code: 404)
+[*] Crawled: https://area52.com/delta-9-thc-products-ufo
+[*] Crawled: https://area52.com/ufo-products/
+[!] Skipped https://area52.com/what-is-thcv/ https:/area52.com/products/moon-cbd-gummies/ (Status code: 404)
+[*] Crawled: https://area52.com/delta-8-vs-delta-9-thc/
+[*] Crawled: https://area52.com/contact/
+[!] Skipped https://area52.com/what-is-thcv/ https:/area52.com/products/full-spectrum-ufo-max-gummies/ (Status
+code: 404)
+[*] Crawled: https://area52.com/thca-products
+[*] Crawled: https://area52.com/terms-conditions/
+[*] Crawled: https://area52.com/blog/
+[!] Skipped http://area52.com/my-account/ https:/area52.com/products/cbd-cbn-sleep-gummies-neptune/ (Status code:
+404)
+[!] Skipped http://area52.com/my-account/ https:/area52.com/products/full-spectrum-ufo-max-gummies/ (Status code:
+404)
+[!] Skipped http://area52.com/my-account/ https:/area52.com/products/thca-flower/ (Status code: 404)
+[!] Skipped http://area52.com/my-account/ https:/area52.com/products/moon-cbd-gummies/ (Status code: 404)
+[!] Skipped https://area52.com/my-account/lost-password/ (Status code: 403)
+[!] Skipped https://area52.com/products/full-spectrum-cbd-thc-oil/
+https:/area52.com/products/full-spectrum-ufo-max-gummies/ (Status code: 404)
+[!] Skipped https://area52.com/products/full-spectrum-cbd-thc-oil/ https:/area52.com/products/thca-flower/ (Status
+code: 404)
+[!] Skipped https://area52.com/products/full-spectrum-cbd-thc-oil/ https:/area52.com/products/moon-cbd-gummies/
+(Status code: 404)
+[!] Skipped https://area52.com/products/full-spectrum-cbd-thc-oil/
+https:/area52.com/products/cbd-cbn-sleep-gummies-neptune/ (Status code: 404)
+[*] Crawled: https://area52.com/delta-8-thc-oregon/
+[*] Crawled: https://area52.com/blog/page/8/
+[*] Crawled: https://area52.com/delta-8-thc-north-carolina/
+[*] Crawled: https://area52.com/delta-8-thc-ohio/
+[*] Crawled: https://area52.com/blog/page/12/
+[*] Crawled: https://area52.com/delta-8-thc-illinois/
+[*] Crawled: https://area52.com/blog/page/9/
+[*] Crawled: https://area52.com/blog/page/3/
+[*] Crawled: https://area52.com/blog/page/2/
+[!] Skipped http://area52.com/blog/ https:/area52.com/products/thca-flower/ (Status code: 404)
+[*] Crawled: https://area52.com/blog/page/5/
+[*] Crawled: https://area52.com/blog/page/7/
+[*] Crawled: http://area52.com/category/blog
+[*] Crawled: https://area52.com/delta-8-thc-west-virginia/
+[*] Crawled: http://area52.com/category/legal
+[*] Crawled: https://area52.com/blog/page/10/
+[!] No email addresses found.
+
+
+=== Performance Monitoring ===
+Traceback (most recent call last):
+File "/Users/orangecloud/Desktop/PROJECTS/TOOLS/jasonxtn_Argus/modules/performance_monitoring.py", line 10, in <module>
+from config.settings import DEFAULT_TIMEOUT, GOOGLE_API_KEY
+ImportError: cannot import name 'GOOGLE_API_KEY' from 'config.settings' (/Users/orangecloud/Desktop/PROJECTS/TOOLS/jasonxtn_Argus/config/settings.py)
+
+
+=== Quality Metrics ===
+
+=============================================
+Argus - Quality Metrics Check
+=============================================
+
+[*] Fetching quality metrics for: area52.com
+┏━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Metric               ┃ Value  ┃ Analysis                                                 ┃
+┡━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Status Code          │ 200    │                                                          │
+│ Load Time (s)        │ 0.26   │ Load time is excellent.                                  │
+│ Page Size (KB)       │ 195.33 │ Page size is small.                                      │
+│ Total Requests       │ 169    │ High number of requests may slow down the page.          │
+│ Compression Enabled  │ Yes    │ Content is compressed.                                   │
+│ HTTPS                │ No     │ Not using HTTPS. It is recommended for security and SEO. │
+│ Mobile-Friendly      │ Yes    │ Page is mobile-friendly.                                 │
+│ Scripts Minified     │ 10/42  │ Consider minifying scripts to improve performance.       │
+│ Stylesheets Minified │ 9/11   │ Most stylesheets are minified.                           │
+└──────────────────────┴────────┴──────────────────────────────────────────────────────────┘
+[*] Quality metrics retrieval completed.
+
+
+=== Redirect Chain ===
+
+=============================================
+Argus - Redirect Chain Tracking
+=============================================
+
+[*] Fetching redirect chain for: http://area52.com
+┏━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
+┃ Redirect URL       ┃ Status Code ┃
+┡━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
+│ http://area52.com/ │ 301         │
+└────────────────────┴─────────────┘
+[*] Redirect chain tracking completed.
+
+
+=== Sitemap Parsing ===
+
+=============================================
+Argus - Sitemap Analysis
+=============================================
+
+[*] Fetching sitemaps for: http://area52.com
+[*] Found 3 sitemap(s).
+[*] Parsing sitemap: http://area52.com/sitemap.xml
+/Users/orangecloud/.pyenv/versions/3.10.0/lib/python3.10/html/parser.py:170: XMLParsedAsHTMLWarning: It looks like you're parsing an XML document using an HTML parser. If this really is an HTML document (maybe it's XHTML?), you can ignore or filter this warning. If it's XML, you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the lxml package installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+k = self.parse_starttag(i)
+[*] Parsing sitemap: https://area52.com/post-sitemap1.xml
+[*] Parsing sitemap: https://area52.com/product-sitemap1.xml
+[*] Parsing sitemap: https://area52.com/category-sitemap1.xml
+[*] Parsing sitemap: https://area52.com/post_tag-sitemap1.xml
+[*] Parsing sitemap: http://area52.com/sitemap_index.xml
+[*] Parsing sitemap: https://area52.com/page-sitemap1.xml
+[*] Parsing sitemap: https://area52.com/post-sitemap1.xml
+[*] Parsing sitemap: https://area52.com/product-sitemap1.xml
+[*] Parsing sitemap: https://area52.com/category-sitemap1.xml
+[*] Parsing sitemap: https://area52.com/post_tag-sitemap1.xml
+[*] Checking status codes for URLs...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━━━━┓
+┃ URL                                     ┃ Status ┃ Last Modified             ┃ Changefreq ┃ Priority ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━━━━┩
+│ https://area52.com/blog/                │ 200    │ N/A                       │ N/A        │ N/A      │
+│ https://area52.com/what-is-live-resin/  │ 200    │ 2024-04-05T17:46:56-07:00 │ N/A        │ N/A      │
+│ https://area52.com/most-exotic-cannabi… │ 200    │ 2024-04-05T17:46:52-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-minneso… │ 200    │ 2023-06-22T16:38:33-07:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-cbn/         │ 200    │ 2023-04-27T22:38:19-07:00 │ N/A        │ N/A      │
+│ https://area52.com/is-hhc-legal/        │ 200    │ 2023-04-24T07:09:31-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-missour… │ 200    │ 2023-04-05T23:13:21-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-maine/   │ 200    │ 2023-04-05T22:55:13-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-ohio/    │ 200    │ 2023-03-28T07:54:40-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-oregon/  │ 200    │ 2023-03-28T07:53:59-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-south-c… │ 200    │ 2023-03-28T07:53:40-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-vermont/ │ 200    │ 2023-03-28T07:53:23-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-new-ham… │ 200    │ 2023-03-28T07:53:04-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-georgia/ │ 200    │ 2023-03-28T07:52:47-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-alaska/  │ 200    │ 2023-03-28T07:52:25-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-north-c… │ 200    │ 2023-03-28T07:52:06-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-virgini… │ 200    │ 2023-03-28T07:51:45-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-rhode-i… │ 200    │ 2023-03-28T07:51:25-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-arkansa… │ 200    │ 2023-03-28T07:51:00-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-califor… │ 200    │ 2023-03-28T07:50:40-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-west-vi… │ 200    │ 2023-03-28T07:50:19-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-new-yor… │ 200    │ 2023-03-28T07:49:57-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-michiga… │ 200    │ 2023-03-28T07:49:39-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-alabama/ │ 200    │ 2023-03-28T07:49:23-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-tenness… │ 200    │ 2023-03-28T07:48:59-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-south-d… │ 200    │ 2023-03-28T07:48:39-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-texas/   │ 200    │ 2023-03-28T07:48:19-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-new-mex… │ 200    │ 2023-03-28T07:47:55-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-mississ… │ 200    │ 2023-03-28T07:47:40-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-kentuck… │ 200    │ 2023-03-28T07:47:22-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-new-jer… │ 200    │ 2023-03-28T07:47:01-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-north-d… │ 200    │ 2023-03-27T13:23:06-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-montana/ │ 200    │ 2023-03-27T13:20:31-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-indiana/ │ 200    │ 2023-03-27T13:20:12-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-nebrask… │ 200    │ 2023-03-27T13:19:57-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-florida/ │ 200    │ 2023-03-27T13:19:38-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-kansas/  │ 200    │ 2023-03-27T13:19:12-07:00 │ N/A        │ N/A      │
+│ https://area52.com/best-hemp-flower-st… │ 200    │ 2023-03-27T13:18:46-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-utah/    │ 200    │ 2023-03-27T13:18:32-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-louisia… │ 200    │ 2023-03-27T13:18:04-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-wiscons… │ 200    │ 2023-03-27T13:17:51-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-iowa/    │ 200    │ 2023-03-27T13:17:34-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-colorad… │ 200    │ 2023-03-27T13:17:16-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-marylan… │ 200    │ 2023-03-27T13:17:03-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-arizona/ │ 200    │ 2023-03-27T13:16:22-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-wyoming/ │ 200    │ 2023-03-27T13:16:02-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-pennsyl… │ 200    │ 2023-03-27T13:15:44-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-oklahom… │ 200    │ 2023-03-27T13:15:25-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-nevada/  │ 200    │ 2023-03-27T13:15:03-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-washing… │ 200    │ 2023-03-27T13:14:45-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-connect… │ 200    │ 2023-03-27T13:14:24-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-hawaii/  │ 200    │ 2023-03-27T13:13:56-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-idaho/   │ 200    │ 2023-03-27T13:13:35-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-delawar… │ 200    │ 2023-03-27T13:12:22-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-massach… │ 200    │ 2023-03-27T13:09:01-07:00 │ N/A        │ N/A      │
+│ https://area52.com/is-delta-8-thc-lega… │ 200    │ 2023-02-27T14:15:55-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-delta-10-th… │ 200    │ 2023-02-21T09:14:34-08:00 │ N/A        │ N/A      │
+│ https://area52.com/strongest-cannabino… │ 200    │ 2023-02-21T09:03:20-08:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-vs-delta-10… │ 200    │ 2023-02-20T23:52:30-08:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-10-vs-delta-9… │ 200    │ 2023-02-20T23:49:46-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-cbc/         │ 200    │ 2023-02-20T23:42:55-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-cbg/         │ 200    │ 2023-02-20T23:38:51-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-thcv/        │ 200    │ 2023-02-20T23:32:11-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-thcc/        │ 200    │ 2023-02-20T23:26:50-08:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-10-thc-vs-cbd/ │ 200    │ 2023-02-20T23:21:22-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-hhc/         │ 200    │ 2023-02-20T23:08:30-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-thc/         │ 200    │ 2023-02-20T22:59:15-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-cbgv/        │ 200    │ 2023-02-20T22:26:10-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-thc-o/       │ 200    │ 2023-02-20T22:23:55-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-cbd/         │ 200    │ 2023-02-20T22:20:20-08:00 │ N/A        │ N/A      │
+│ https://area52.com/endocannabinoid-sys… │ 200    │ 2023-02-20T21:59:31-08:00 │ N/A        │ N/A      │
+│ https://area52.com/cbg-vs-cbd/          │ 200    │ 2023-02-20T21:35:59-08:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-deliver… │ 200    │ 2023-02-20T11:49:32-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-cbl/         │ 200    │ 2023-02-20T11:37:08-08:00 │ N/A        │ N/A      │
+│ https://area52.com/hhc-vs-delta-9-delt… │ 200    │ 2023-02-20T11:14:01-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-are-cannabis-t… │ 200    │ 2023-02-20T10:31:37-08:00 │ N/A        │ N/A      │
+│ https://area52.com/edibles-vs-smoking-… │ 200    │ 2023-02-20T10:03:46-08:00 │ N/A        │ N/A      │
+│ https://area52.com/thcv-vs-thc/         │ 200    │ 2023-02-20T09:59:58-08:00 │ N/A        │ N/A      │
+│ https://area52.com/cbn-hemp-flower/     │ 200    │ 2023-02-20T09:53:32-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-cbda/        │ 200    │ 2023-02-20T09:33:16-08:00 │ N/A        │ N/A      │
+│ https://area52.com/states-benefit-most… │ 200    │ 2023-02-13T16:32:30-08:00 │ N/A        │ N/A      │
+│ https://area52.com/primary-stressor/    │ 200    │ 2023-02-10T11:27:33-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-cbga/        │ 200    │ 2023-01-18T16:20:19-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-delta-8-thc/ │ 200    │ 2022-12-12T16:46:41-08:00 │ N/A        │ N/A      │
+│ https://area52.com/endocannabinoid-def… │ 200    │ 2022-10-17T11:20:32-07:00 │ N/A        │ N/A      │
+│ https://area52.com/herbs-to-mix-with-w… │ 200    │ 2022-07-31T06:54:56-07:00 │ N/A        │ N/A      │
+│ https://area52.com/best-ways-to-use-de… │ 200    │ 2022-07-31T06:25:41-07:00 │ N/A        │ N/A      │
+│ https://area52.com/difference-between-… │ 200    │ 2022-07-31T06:08:35-07:00 │ N/A        │ N/A      │
+│ https://area52.com/how-long-does-delta… │ 200    │ 2022-07-27T16:18:01-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-drug-te… │ 200    │ 2022-07-19T21:33:43-07:00 │ N/A        │ N/A      │
+│ https://area52.com/list-of-cannabinoid… │ 200    │ 2022-07-18T13:51:35-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-myths-f… │ 200    │ 2022-07-17T12:30:50-07:00 │ N/A        │ N/A      │
+│ https://area52.com/marijuana-legality-… │ 200    │ 2022-07-16T18:29:11-07:00 │ N/A        │ N/A      │
+│ https://area52.com/is-delta-8-thc-synt… │ 200    │ 2022-07-16T17:15:01-07:00 │ N/A        │ N/A      │
+│ https://area52.com/is-delta-8-thc-safe/ │ 200    │ 2022-07-16T17:09:08-07:00 │ N/A        │ N/A      │
+│ https://area52.com/is-delta-8-thc-safe… │ 200    │ 2022-07-16T16:59:29-07:00 │ N/A        │ N/A      │
+│ https://area52.com/is-delta-8-thc-addi… │ 200    │ 2022-07-16T16:21:49-07:00 │ N/A        │ N/A      │
+│ https://area52.com/how-to-vape-delta-8… │ 200    │ 2022-07-11T09:14:07-07:00 │ N/A        │ N/A      │
+│ https://area52.com/how-to-use-delta-8-… │ 200    │ 2022-07-11T09:10:42-07:00 │ N/A        │ N/A      │
+│ https://area52.com/how-to-take-cbg-oil/ │ 200    │ 2022-07-11T09:00:28-07:00 │ N/A        │ N/A      │
+│ https://area52.com/vape-pen-cartridge-… │ 200    │ 2022-07-11T08:23:12-07:00 │ N/A        │ N/A      │
+│ https://area52.com/how-to-clean-a-vape… │ 200    │ 2022-07-11T08:20:07-07:00 │ N/A        │ N/A      │
+│ https://area52.com/how-long-does-a-wee… │ 200    │ 2022-07-11T08:05:30-07:00 │ N/A        │ N/A      │
+│ https://area52.com/how-delta-8-thc-aff… │ 200    │ 2022-07-11T07:39:39-07:00 │ N/A        │ N/A      │
+│ https://area52.com/hemp-vs-marijuana/   │ 200    │ 2022-07-11T06:52:02-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-sativa-indi… │ 200    │ 2022-07-11T06:36:54-07:00 │ N/A        │ N/A      │
+│ https://area52.com/cannabis-entourage-… │ 200    │ 2022-07-04T14:35:35-07:00 │ N/A        │ N/A      │
+│ https://area52.com/hhc-drug-test/       │ 200    │ 2022-07-04T11:31:41-07:00 │ N/A        │ N/A      │
+│ https://area52.com/does-cbg-affect-app… │ 200    │ 2022-07-04T11:18:44-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-vs-delta-9-… │ 200    │ 2022-07-03T14:42:47-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-vs-cbd/  │ 200    │ 2022-07-03T14:34:24-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-toleran… │ 200    │ 2022-07-02T18:30:24-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-near-me/ │ 200    │ 2022-07-02T17:38:47-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-dosage/  │ 200    │ 2022-07-02T14:02:23-07:00 │ N/A        │ N/A      │
+│ https://area52.com/benefits-of-delta-8… │ 200    │ 2022-07-02T13:53:54-07:00 │ N/A        │ N/A      │
+│ https://area52.com/cdt-carts-vs-non-cd… │ 200    │ 2022-07-02T09:28:08-07:00 │ N/A        │ N/A      │
+│ https://area52.com/cbg-vs-cbn/          │ 200    │ 2022-07-02T07:25:04-07:00 │ N/A        │ N/A      │
+│ https://area52.com/cannabinoids-for-pr… │ 200    │ 2022-07-01T17:52:08-07:00 │ N/A        │ N/A      │
+│ https://area52.com/microdosing-delta-8… │ 200    │ 2022-07-01T15:11:10-07:00 │ N/A        │ N/A      │
+│ https://area52.com/foods-to-combine-wi… │ 200    │ 2022-07-01T14:02:18-07:00 │ N/A        │ N/A      │
+│ https://area52.com/best-time-of-day-to… │ 200    │ 2022-07-01T13:35:45-07:00 │ N/A        │ N/A      │
+│ https://area52.com/how-much-thc-is-in-… │ 200    │ 2022-06-30T10:22:46-07:00 │ N/A        │ N/A      │
+│ https://area52.com/how-to-smoke-hemp-f… │ 200    │ 2022-06-30T10:19:29-07:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-chs/         │ 200    │ 2022-06-30T10:15:36-07:00 │ N/A        │ N/A      │
+│ https://area52.com/history-of-marijuan… │ 200    │ 2022-06-30T10:01:14-07:00 │ N/A        │ N/A      │
+│ https://area52.com/what-does-cbg-feel-… │ 200    │ 2022-06-30T08:59:13-07:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-thcp/        │ 200    │ 2022-06-29T12:00:28-07:00 │ N/A        │ N/A      │
+│ https://area52.com/marijuana-paranoia/  │ 200    │ 2022-06-29T11:15:16-07:00 │ N/A        │ N/A      │
+│ https://area52.com/edibles-vs-vape/     │ 200    │ 2022-06-29T09:53:02-07:00 │ N/A        │ N/A      │
+│ https://area52.com/what-delta-8-high-f… │ 200    │ 2022-06-29T08:02:06-07:00 │ N/A        │ N/A      │
+│ https://area52.com/how-to-roll-the-per… │ 200    │ 2022-05-07T10:56:45-07:00 │ N/A        │ N/A      │
+│ https://area52.com/best-stoner-movies/  │ 200    │ 2022-04-16T11:50:55-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-free-sample… │ 200    │ 2022-03-14T14:25:13-07:00 │ N/A        │ N/A      │
+│ https://area52.com/how-to-use-a-dab-ri… │ 200    │ 2022-02-22T07:21:47-08:00 │ N/A        │ N/A      │
+│ https://area52.com/cannabis-legalizati… │ 200    │ 2022-02-11T21:12:31-08:00 │ N/A        │ N/A      │
+│ https://area52.com/decriminalization-v… │ 200    │ 2022-02-11T20:32:13-08:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-thc-reviews/ │ 200    │ 2022-02-11T13:44:36-08:00 │ N/A        │ N/A      │
+│ https://area52.com/how-is-delta-8-thc-… │ 200    │ 2022-02-11T10:44:47-08:00 │ N/A        │ N/A      │
+│ https://area52.com/why-more-users-are-… │ 200    │ 2022-02-11T10:44:10-08:00 │ N/A        │ N/A      │
+│ https://area52.com/reasons-to-switch-t… │ 200    │ 2022-02-11T09:49:54-08:00 │ N/A        │ N/A      │
+│ https://area52.com/do-delta-8-carts-ex… │ 200    │ 2022-02-11T09:46:29-08:00 │ N/A        │ N/A      │
+│ https://area52.com/how-to-stop-being-h… │ 200    │ 2022-02-11T09:18:15-08:00 │ N/A        │ N/A      │
+│ https://area52.com/why-does-weed-make-… │ 200    │ 2022-02-11T08:41:41-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-cbg-flower/  │ 200    │ 2021-12-28T09:39:56-08:00 │ N/A        │ N/A      │
+│ https://area52.com/cannabinoids-and-co… │ 200    │ 2021-11-22T15:44:42-08:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-marijuana-d… │ 200    │ 2021-11-08T10:40:09-08:00 │ N/A        │ N/A      │
+│ https://area52.com/phobia-fears-statis… │ 200    │ 2021-10-27T10:22:22-07:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-rosin/       │ 200    │ 2021-10-04T14:33:15-07:00 │ N/A        │ N/A      │
+│ https://area52.com/what-is-farm-bill/   │ 200    │ 2021-10-04T14:24:26-07:00 │ N/A        │ N/A      │
+│ https://area52.com/cannabis-third-part… │ 200    │ 2021-08-23T16:12:26-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-color/       │ Error  │ 2021-07-29T10:39:00-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/            │ Error  │ 2024-10-22T11:46:35-07:00 │ N/A        │ N/A      │
+│ https://area52.com/                     │ 200    │ 2024-10-22T10:23:47-07:00 │ N/A        │ N/A      │
+│ https://area52.com/thc-edibles/         │ Error  │ 2024-10-18T14:35:18-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-vapes/       │ Error  │ 2024-10-17T16:39:46-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-products/    │ Error  │ 2024-10-17T15:09:51-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-9-gummies/     │ Error  │ 2024-10-17T14:03:12-07:00 │ N/A        │ N/A      │
+│ https://area52.com/thca-vapes/          │ Error  │ 2024-10-17T13:19:46-07:00 │ N/A        │ N/A      │
+│ https://area52.com/thca-products/       │ Error  │ 2024-10-17T12:29:36-07:00 │ N/A        │ N/A      │
+│ https://area52.com/thc-gummies/         │ Error  │ 2024-10-16T08:14:02-07:00 │ N/A        │ N/A      │
+│ https://area52.com/thc-vapes/           │ Error  │ 2024-10-16T08:12:58-07:00 │ N/A        │ N/A      │
+│ https://area52.com/thca-gummies/        │ Error  │ 2024-10-15T18:43:37-07:00 │ N/A        │ N/A      │
+│ https://area52.com/thc-oil/             │ Error  │ 2024-10-15T18:38:15-07:00 │ N/A        │ N/A      │
+│ https://area52.com/wholesale-submissio… │ Error  │ 2024-10-13T15:42:16-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-gummies/     │ 200    │ 2024-10-13T15:41:41-07:00 │ N/A        │ N/A      │
+│ https://area52.com/wholesale/           │ Error  │ 2024-10-13T15:41:21-07:00 │ N/A        │ N/A      │
+│ https://area52.com/hhc-products/        │ Error  │ 2024-10-13T15:38:42-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-wholesale/   │ Error  │ 2024-10-13T15:38:21-07:00 │ N/A        │ N/A      │
+│ https://area52.com/about/               │ Error  │ 2024-10-13T14:26:01-07:00 │ N/A        │ N/A      │
+│ https://area52.com/cbd-hemp-wholesale/  │ Error  │ 2024-10-12T20:42:25-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-9-thc-product… │ Error  │ 2024-06-15T11:16:31-07:00 │ N/A        │ N/A      │
+│ https://area52.com/maintenance/         │ Error  │ 2024-05-06T22:14:23-07:00 │ N/A        │ N/A      │
+│ https://area52.com/delta-8-tinctures/   │ 200    │ 2024-05-06T21:40:29-07:00 │ N/A        │ N/A      │
+│ https://area52.com/shop/                │ Error  │ 2021-08-18T08:10:08-07:00 │ N/A        │ N/A      │
+│ https://area52.com/contact/             │ Error  │ 2021-07-24T03:50:44-07:00 │ N/A        │ N/A      │
+│ https://area52.com/affiliate-area/      │ Error  │ 2021-07-14T07:06:14-07:00 │ N/A        │ N/A      │
+│ https://area52.com/terms-conditions/    │ Error  │ 2021-05-20T19:00:52-07:00 │ N/A        │ N/A      │
+│ https://area52.com/privacy-policy/      │ Error  │ 2021-04-12T12:42:56-07:00 │ N/A        │ N/A      │
+│ https://area52.com/faq/                 │ Error  │ 2021-02-03T13:12:25-08:00 │ N/A        │ N/A      │
+│ https://area52.com/products/delta-8-va… │ Error  │ 2024-10-26T23:17:49-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/hhc-vape-c… │ Error  │ 2024-10-26T23:17:49-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/hhc-pre-ro… │ Error  │ 2024-10-26T23:17:49-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/delta-8-pr… │ Error  │ 2024-10-26T23:17:49-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/magic-plut… │ Error  │ 2024-10-26T23:12:35-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/moon-cbd-g… │ Error  │ 2024-10-26T23:12:35-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/full-spect… │ Error  │ 2024-10-26T22:57:43-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/delta-8-gu… │ Error  │ 2024-10-26T20:04:59-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/full-spect… │ Error  │ 2024-10-26T20:04:59-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/mars-cbg-g… │ 200    │ 2024-10-26T20:04:59-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/cbd-cbn-sl… │ 200    │ 2024-10-26T18:52:24-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/thca-pre-r… │ Error  │ 2024-10-26T13:38:45-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/thca-flowe… │ Error  │ 2024-10-26T11:27:44-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/full-spect… │ Error  │ 2024-10-26T06:50:17-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/delta-8-ti… │ Error  │ 2024-10-25T22:26:34-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/cbd-cbn-sl… │ Error  │ 2024-10-25T22:26:33-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/thca-dispo… │ Error  │ 2024-10-25T14:31:19-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/thca-vape-… │ Error  │ 2024-10-22T12:26:54-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/vape-batte… │ Error  │ 2024-10-21T09:40:21-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/delta-8-ho… │ Error  │ 2024-10-16T08:00:04-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/cbd-oil/    │ Error  │ 2024-10-12T17:00:08-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/delta-8-di… │ Error  │ 2024-10-12T16:59:58-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/earth-immu… │ Error  │ 2024-10-12T16:58:33-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/hhc-gummie… │ Error  │ 2024-10-12T16:57:59-07:00 │ N/A        │ N/A      │
+│ https://area52.com/products/thc-o-gumm… │ Error  │ 2024-10-12T16:57:48-07:00 │ N/A        │ N/A      │
+│ https://area52.com/category/blog/       │ Error  │ N/A                       │ N/A        │ N/A      │
+│ https://area52.com/category/blog/canna… │ Error  │ N/A                       │ N/A        │ N/A      │
+│ https://area52.com/category/legal/      │ Error  │ N/A                       │ N/A        │ N/A      │
+│ https://area52.com/category/uncategori… │ Error  │ N/A                       │ N/A        │ N/A      │
+└─────────────────────────────────────────┴────────┴───────────────────────────┴────────────┴──────────┘
+
+Total URLs: 208
+Unique URLs: 208
+Broken URLs: 53
+[*] Sitemap analysis completed.
+
+
+=== Social Media Presence Scan ===
+
+=============================================
+Argus - Social Media Presence Check
+=============================================
+
+[*] Please wait, this may take some time...
+[*] Detecting social media presence for: http://area52.com
+[+] Found Instagram profile: https://instagram.com
+[+] Found Facebook profile: https://facebook.com
+[+] Found Twitter profile: https://twitter.com
+┏━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Platform  ┃ Profile URL           ┃
+┡━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Twitter   │ https://twitter.com   │
+│ Instagram │ https://instagram.com │
+│ Facebook  │ https://facebook.com  │
+└───────────┴───────────────────────┘
+[*] Social media presence check completed.
+
+
+=== Technology Stack Detection ===
+
+=============================================
+Argus - Technology Stack Detection
+=============================================
+
+[*] Detecting technology stack for: area52.com
+[*] Analyzing HTML content...
+[*] Analyzing HTTP headers...
+[*] Checking for specific files and endpoints...
+[+] Technologies detected:
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━┓
+┃ Technology ┃ Categories         ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━┩
+│ WordPress  │ CMS                │
+│ jQuery     │ JavaScript Library │
+│ Robots.txt │ Miscellaneous      │
+└────────────┴────────────────────┘
+[+] Results saved to /Users/orangecloud/Desktop/PROJECTS/TOOLS/jasonxtn_Argus/modules/../Results/technology_stack_http_area52.com.txt
+[*] Technology stack detection completed.
+
+
+=== Third-Party Integrations ===
+
+=============================================
+Argus - Third-Party Integrations Check
+=============================================
+
+[*] Detecting third-party integrations for: area52.com
+[*] Analyzing HTML content...
+[*] Analyzing HTTP headers...
+[*] Analyzing meta tags and JavaScript references...
+[+] Third-party integrations detected:
+┏━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Integration ┃ Details                        ┃
+┡━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Cloudflare  │ Content Delivery Network (CDN) │
+│ WordPress   │ CMS                            │
+└─────────────┴────────────────────────────────┘
+[+] Results saved to /Users/orangecloud/Desktop/PROJECTS/TOOLS/jasonxtn_Argus/modules/../Results/third_party_integrations_http_area52.com.txt
+[*] Third-party integrations check completed.
+
+

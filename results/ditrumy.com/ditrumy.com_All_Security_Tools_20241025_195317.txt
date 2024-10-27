@@ -1,0 +1,493 @@
+=== Censys Reconnaissance ===
+
+=============================================
+Argus - Censys Exposure Analyzer
+=============================================
+
+[!] Unauthorized. Check your Censys API credentials.
+[!] 64.62.246.152: Unauthorized
+
+[*] Censys Recon completed.
+
+
+=== Certificate Authority Recon ===
+
+=============================================
+Argus - Advanced Certificate Recon
+=============================================
+
+[*] Fetching certificate details for: ditrumy.com
+[!] Error retrieving certificate from ditrumy.com: embedded null byte
+[!] No certificate details found for ditrumy.com.
+[*] Certificate Authority Recon completed.
+
+
+=== Data Leak Detection ===
+
+=============================================
+Argus - Advanced Data Leak Checker
+=============================================
+
+[*] Checking data leaks for domain: ditrumy.com
+[*] Checking admin@ditrumy.com
+[*] Checking contact@ditrumy.com
+[*] Checking info@ditrumy.com
+[*] Checking support@ditrumy.com
+[*] Checking sales@ditrumy.com
+Breaches for support@ditrumy.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+[*] Checking webmaster@ditrumy.com
+Breaches for sales@ditrumy.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for info@ditrumy.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for contact@ditrumy.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+[*] Checking postmaster@ditrumy.com
+Breaches for admin@ditrumy.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for webmaster@ditrumy.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for postmaster@ditrumy.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+[*] Data leak check completed.
+
+
+=== Exposed Environment Files Checker ===
+
+
+=============================================
+Argus - Exposed Environment Files Checker
+=============================================
+
+
+[*] Checking for publicly exposed environment files on ditrumy.com...
+[!] Error checking .env: Invalid URL 'ditrumy.com/.env': No scheme supplied. Perhaps you meant https://ditrumy.com/.env?
+[!] Error checking env: Invalid URL 'ditrumy.com/env': No scheme supplied. Perhaps you meant https://ditrumy.com/env?
+[!] Error checking environment: Invalid URL 'ditrumy.com/environment': No scheme supplied. Perhaps you meant
+https://ditrumy.com/environment?
+[!] Error checking .env.php: Invalid URL 'ditrumy.com/.env.php': No scheme supplied. Perhaps you meant https://ditrumy.com/.env.php?
+[!] Error checking config.php: Invalid URL 'ditrumy.com/config.php': No scheme supplied. Perhaps you meant https://ditrumy.com/config.php?
+[!] Error checking config.yaml: Invalid URL 'ditrumy.com/config.yaml': No scheme supplied. Perhaps you meant
+https://ditrumy.com/config.yaml?
+[!] Error checking config.yml: Invalid URL 'ditrumy.com/config.yml': No scheme supplied. Perhaps you meant https://ditrumy.com/config.yml?
+[!] Error checking config.json: Invalid URL 'ditrumy.com/config.json': No scheme supplied. Perhaps you meant
+https://ditrumy.com/config.json?
+[!] Error checking config.ini: Invalid URL 'ditrumy.com/config.ini': No scheme supplied. Perhaps you meant https://ditrumy.com/config.ini?
+[!] Error checking localsettings.php: Invalid URL 'ditrumy.com/localsettings.php': No scheme supplied. Perhaps you meant
+https://ditrumy.com/localsettings.php?
+[!] Error checking settings.php: Invalid URL 'ditrumy.com/settings.php': No scheme supplied. Perhaps you meant
+https://ditrumy.com/settings.php?
+[!] Error checking db.php: Invalid URL 'ditrumy.com/db.php': No scheme supplied. Perhaps you meant https://ditrumy.com/db.php?
+[!] Error checking database.php: Invalid URL 'ditrumy.com/database.php': No scheme supplied. Perhaps you meant
+https://ditrumy.com/database.php?
+[!] Error checking wp-config.php: Invalid URL 'ditrumy.com/wp-config.php': No scheme supplied. Perhaps you meant
+https://ditrumy.com/wp-config.php?
+[!] Error checking appsettings.json: Invalid URL 'ditrumy.com/appsettings.json': No scheme supplied. Perhaps you meant
+https://ditrumy.com/appsettings.json?
+[!] Error checking web.config: Invalid URL 'ditrumy.com/web.config': No scheme supplied. Perhaps you meant https://ditrumy.com/web.config?
+[!] Error checking .git/config: Invalid URL 'ditrumy.com/.git/config': No scheme supplied. Perhaps you meant
+https://ditrumy.com/.git/config?
+[!] Error checking .svn/entries: Invalid URL 'ditrumy.com/.svn/entries': No scheme supplied. Perhaps you meant
+https://ditrumy.com/.svn/entries?
+[!] Error checking .hg/.hgignore: Invalid URL 'ditrumy.com/.hg/.hgignore': No scheme supplied. Perhaps you meant
+https://ditrumy.com/.hg/.hgignore?
+[!] Error checking .gitignore: Invalid URL 'ditrumy.com/.gitignore': No scheme supplied. Perhaps you meant https://ditrumy.com/.gitignore?
+[!] Error checking composer.lock: Invalid URL 'ditrumy.com/composer.lock': No scheme supplied. Perhaps you meant
+https://ditrumy.com/composer.lock?
+[!] Error checking package-lock.json: Invalid URL 'ditrumy.com/package-lock.json': No scheme supplied. Perhaps you meant
+https://ditrumy.com/package-lock.json?
+[!] Error checking yarn.lock: Invalid URL 'ditrumy.com/yarn.lock': No scheme supplied. Perhaps you meant https://ditrumy.com/yarn.lock?
+[!] Error checking Dockerfile: Invalid URL 'ditrumy.com/Dockerfile': No scheme supplied. Perhaps you meant https://ditrumy.com/Dockerfile?
+[!] Error checking docker-compose.yml: Invalid URL 'ditrumy.com/docker-compose.yml': No scheme supplied. Perhaps you meant
+https://ditrumy.com/docker-compose.yml?
+[!] Error checking Makefile: Invalid URL 'ditrumy.com/Makefile': No scheme supplied. Perhaps you meant https://ditrumy.com/Makefile?
+[!] Error checking requirements.txt: Invalid URL 'ditrumy.com/requirements.txt': No scheme supplied. Perhaps you meant
+https://ditrumy.com/requirements.txt?
+[!] Error checking Gemfile: Invalid URL 'ditrumy.com/Gemfile': No scheme supplied. Perhaps you meant https://ditrumy.com/Gemfile?
+[!] Error checking Pipfile: Invalid URL 'ditrumy.com/Pipfile': No scheme supplied. Perhaps you meant https://ditrumy.com/Pipfile?
+[!] Error checking Pipfile.lock: Invalid URL 'ditrumy.com/Pipfile.lock': No scheme supplied. Perhaps you meant
+https://ditrumy.com/Pipfile.lock?
+[!] Error checking setup.py: Invalid URL 'ditrumy.com/setup.py': No scheme supplied. Perhaps you meant https://ditrumy.com/setup.py?
+[!] Error checking phpinfo.php: Invalid URL 'ditrumy.com/phpinfo.php': No scheme supplied. Perhaps you meant
+https://ditrumy.com/phpinfo.php?
+[!] Error checking php.ini: Invalid URL 'ditrumy.com/php.ini': No scheme supplied. Perhaps you meant https://ditrumy.com/php.ini?
+[!] Error checking backup.sql: Invalid URL 'ditrumy.com/backup.sql': No scheme supplied. Perhaps you meant https://ditrumy.com/backup.sql?
+[!] Error checking dump.sql: Invalid URL 'ditrumy.com/dump.sql': No scheme supplied. Perhaps you meant https://ditrumy.com/dump.sql?
+[!] Error checking database.sql: Invalid URL 'ditrumy.com/database.sql': No scheme supplied. Perhaps you meant
+https://ditrumy.com/database.sql?
+[+] No publicly exposed environment files found.
+
+
+=== Firewall Detection ===
+
+=============================================
+Argus - Advanced Firewall Detection
+=============================================
+
+[*] Detecting firewall for: ditrumy.com
+[!] Error retrieving firewall information: Invalid URL 'ditrumy.com': No scheme supplied. Perhaps you meant https://ditrumy.com?
+[!] No firewall information found.
+[*] Firewall detection completed.
+
+
+=== Global Ranking ===
+
+=============================================
+Argus - Global Ranking Analysis
+=============================================
+
+[*] Retrieving current Tranco list ID...
+[*] Fetching global ranking for: ditrumy.com
+[!] ditrumy.com is not ranked in the current Tranco list.
+[*] Global ranking analysis completed.
+
+
+=== HTTP Headers ===
+
+=============================================
+Argus - Advanced HTTP Header Analysis
+=============================================
+
+[*] Fetching HTTP headers for: http://ditrumy.com
+[*] Displaying HTTP headers...
+┏━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Header            ┃ Value                                                                                                               ┃
+┡━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Content-Type      │ text/html; charset=utf-8                                                                                            │
+│ Transfer-Encoding │ chunked                                                                                                             │
+│ Connection        │ keep-alive                                                                                                          │
+│ Set-Cookie        │ fn.ses=i=28271233&t=638655073265251043&e=2041893860&k=YdP8qVnq22xKCaO6&c=XDnncfKR7qGcM--v8GQHcAASbO10u82CD3JLZL6Xa… │
+│                   │ 26 Oct 2034 02:42:06 GMT;path=/, fn.user=;expires=Thu, 26 Oct 2023 02:42:06 GMT;path=/, fn.gzip=2;expires=Thu, 26   │
+│                   │ Oct 2034 02:42:06 GMT;path=/                                                                                        │
+│ Cache-Control     │ no-cache                                                                                                            │
+│ Vary              │ Accept-Encoding,Cookie                                                                                              │
+│ Content-Encoding  │ deflate                                                                                                             │
+│ __time            │ 00:00:00.0924511                                                                                                    │
+└───────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+[*] Analyzing security headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━┓
+┃ Security Header           ┃ Status  ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━┩
+│ Content-Security-Policy   │ Not Set │
+│ Strict-Transport-Security │ Not Set │
+│ X-Content-Type-Options    │ Not Set │
+│ X-Frame-Options           │ Not Set │
+│ X-XSS-Protection          │ Not Set │
+│ Referrer-Policy           │ Not Set │
+│ Permissions-Policy        │ Not Set │
+└───────────────────────────┴─────────┘
+[!] Missing Security Headers: Content-Security-Policy, Strict-Transport-Security, X-Content-Type-Options, X-Frame-Options,
+X-XSS-Protection, Referrer-Policy, Permissions-Policy
+[*] Detecting server technology...
+┏━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┓
+┃ Server  ┃ Detected Technology ┃
+┡━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━┩
+│ Unknown │ Unknown             │
+└─────────┴─────────────────────┘
+[*] Scanning for vulnerabilities based on headers...
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Vulnerability  ┃ Issue                                                ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Security Issue │ X-Content-Type-Options is not set to 'nosniff'       │
+│ Security Issue │ X-Frame-Options is not set to 'DENY' or 'SAMEORIGIN' │
+└────────────────┴──────────────────────────────────────────────────────┘
+[*] Analyzing cookies for security flags...
+[*] Analyzing cookies for security flags...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Cookie                                                                                                               ┃ Attributes ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ fn.ses=i=28271233&t=638655073265251043&e=2041893860&k=YdP8qVnq22xKCaO6&c=XDnncfKR7qGcM--v8GQHcAASbO10u82CD3JLZL6XaLY │ None       │
+│ 26 Oct 2034 02:42:06 GMT                                                                                             │ None       │
+│ fn.user=                                                                                                             │ None       │
+│ 26 Oct 2023 02:42:06 GMT                                                                                             │ None       │
+│ fn.gzip=2                                                                                                            │ None       │
+│ 26 Oct 2034 02:42:06 GMT                                                                                             │ None       │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┴────────────┘
+[*] Detecting frameworks based on response content...
+[!] No common frameworks detected.
+[*] HTTP header analysis completed.
+
+
+=== HTTP Security Features ===
+
+=============================================
+Argus - Advanced HTTP Security Headers Check
+=============================================
+
+[*] Fetching HTTP headers for: http://ditrumy.com
+[*] Displaying HTTP headers...
+┏━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Header            ┃ Value                                                                                                                    ┃
+┡━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Content-Type      │ text/html; charset=utf-8                                                                                                 │
+│ Transfer-Encoding │ chunked                                                                                                                  │
+│ Connection        │ keep-alive                                                                                                               │
+│ Set-Cookie        │ fn.ses=i=28271234&t=638655073277284425&e=876888277&k=wo3hjBZcxmHjbW6U&c=sdKkZBQpNP5s-YCbeElNi68L2W5V-ZEBEOqCDsScxxc;exp… │
+│                   │ 26 Oct 2034 02:42:07 GMT;path=/, fn.user=;expires=Thu, 26 Oct 2023 02:42:07 GMT;path=/, fn.gzip=2;expires=Thu, 26 Oct    │
+│                   │ 2034 02:42:07 GMT;path=/                                                                                                 │
+│ Cache-Control     │ no-cache                                                                                                                 │
+│ Vary              │ Accept-Encoding,Cookie                                                                                                   │
+│ Content-Encoding  │ deflate                                                                                                                  │
+│ __time            │ 00:00:00.0737943                                                                                                         │
+└───────────────────┴──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+[*] Analyzing security headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━┓
+┃ Security Header           ┃ Status  ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━┩
+│ Content-Security-Policy   │ Not Set │
+│ Strict-Transport-Security │ Not Set │
+│ X-Content-Type-Options    │ Not Set │
+│ X-Frame-Options           │ Not Set │
+│ X-XSS-Protection          │ Not Set │
+│ Referrer-Policy           │ Not Set │
+│ Permissions-Policy        │ Not Set │
+└───────────────────────────┴─────────┘
+[!] Missing Security Headers: Content-Security-Policy, Strict-Transport-Security, X-Content-Type-Options, X-Frame-Options, X-XSS-Protection,
+Referrer-Policy, Permissions-Policy
+[*] Detecting server technology...
+┏━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┓
+┃ Server  ┃ Detected Technology ┃
+┡━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━┩
+│ Unknown │ Unknown             │
+└─────────┴─────────────────────┘
+[*] Scanning for vulnerabilities based on headers...
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Vulnerability  ┃ Issue                                                ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Security Issue │ X-Content-Type-Options is not set to 'nosniff'       │
+│ Security Issue │ X-Frame-Options is not set to 'DENY' or 'SAMEORIGIN' │
+└────────────────┴──────────────────────────────────────────────────────┘
+[*] Analyzing cookies for security flags...
+[*] Analyzing cookies for security flags...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Cookie                                                                                                              ┃ Attributes ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ fn.ses=i=28271234&t=638655073277284425&e=876888277&k=wo3hjBZcxmHjbW6U&c=sdKkZBQpNP5s-YCbeElNi68L2W5V-ZEBEOqCDsScxxc │ None       │
+│ 26 Oct 2034 02:42:07 GMT                                                                                            │ None       │
+│ fn.user=                                                                                                            │ None       │
+│ 26 Oct 2023 02:42:07 GMT                                                                                            │ None       │
+│ fn.gzip=2                                                                                                           │ None       │
+│ 26 Oct 2034 02:42:07 GMT                                                                                            │ None       │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┴────────────┘
+[*] Detecting frameworks based on response content...
+[!] No common frameworks detected.
+[*] HTTP header analysis completed.
+
+
+=== Malware & Phishing Check ===
+
+=============================================
+Argus - Advanced Malware & Phishing Check
+=============================================
+
+[*] Checking for malware and phishing threats for: http://ditrumy.com
+[*] Performing heuristic analysis...
+[+] No suspicious keywords found in URL path.
+[*] Performing additional heuristic checks...
+[!] URL does not use HTTPS. Potential security risk.
+[*] Checking URLhaus...
+[+] URL not found in URLhaus database.
+[*] Checking against public blacklist services...
+[+] IP not found in public blacklist services.
+[*] Checking VirusTotal...
+[!] VirusTotal scan failed with status code No Response.
+
+[*] Malware & Phishing checks completed.
+
+
+
+=== Pastebin Monitoring ===
+
+=============================================
+Argus - Advanced Paste Monitoring
+=============================================
+
+[*] Monitoring paste sites for query: ditrumy.com
+[*] Searching Pastebin - Page 1...
+[*] Searching Ghostbin - Page 1...
+[*] Searching Paste.ee - Page 1...
+[*] Searching ControlC - Page 1...
+[*] Searching Paste.org - Page 1...
+[!] Failed to fetch https://pastebin.com/search with status 403.
+[!] No more results found on ControlC at page 1.
+[!] POST request to https://api.paste.ee/v1/pastes/search failed with status 405.
+[!] Error fetching https://ghostbin.com/search: Cannot connect to host pst.klgrth.io:443 ssl:default
+[*] Searching Pastebin - Page 2...
+[*] Searching Paste.ee - Page 2...
+[!] POST request to https://api.paste.ee/v1/pastes/search failed with status 405.
+[!] Failed to fetch https://pastebin.com/search with status 403.
+[*] Searching Ghostbin - Page 2...
+[!] Error fetching https://ghostbin.com/search: Cannot connect to host pst.klgrth.io:443 ssl:default
+[!] No more results found on Paste.org at page 1.
+[!] No pastes found for the given query.
+[*] Paste monitoring completed.
+
+
+=== Privacy & GDPR Compliance ===
+
+=============================================
+Argus - Privacy & GDPR Compliance
+=============================================
+
+[*] Checking Privacy Policy, GDPR Compliance, and Cookie Policy for: http://ditrumy.com
+[*] Privacy Policy URL: http://ditrumy.com/privacy-policy
+[*] GDPR Compliance URL: http://ditrumy.com/gdpr-compliance
+[*] Cookie Policy URL: http://ditrumy.com/cookie-policy
+[!] Privacy Policy Not Found at http://ditrumy.com/privacy-policy (Status Code: 404)
+[!] GDPR Compliance Not Found at http://ditrumy.com/gdpr-compliance (Status Code: 404)
+[!] Cookie Policy Not Found at http://ditrumy.com/cookie-policy (Status Code: 404)
+┏━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Check           ┃ Result    ┃ Compliance ┃
+┡━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ Privacy Policy  │ Not Found │ No         │
+│ GDPR Compliance │ Not Found │ No         │
+│ Cookie Policy   │ Not Found │ No         │
+└─────────────────┴───────────┴────────────┘
+[*] Privacy & GDPR compliance check completed.
+
+
+=== Security.txt Check ===
+
+=============================================
+Argus - Security.txt Detection
+=============================================
+
+[*] Fetching security.txt for: http://ditrumy.com
+[!] No security.txt file found.
+[*] Security.txt detection and analysis completed.
+
+
+=== Shodan Reconnaissance ===
+
+=============================================
+Argus - Shodan Exposure Analyzer
+=============================================
+
+[!] 64.62.246.152: Unauthorized. Check your Shodan API key.
+[!] 64.62.246.152: Unauthorized. Check your Shodan API key.
+
+[*] Shodan Recon completed.
+
+
+=== SSL Labs Report ===
+
+=============================================
+Argus - Advanced SSL Labs Scanner
+=============================================
+
+[*] Fetching SSL Labs report for: ditrumy.com
+[*] Analysis in progress for ditrumy.com. Waiting for results...
+SSL Labs Report for ditrumy.com [64.62.246.152]
+╭──────────────────────────┬───────────────────────────╮
+│ Field                    │ Details                   │
+├──────────────────────────┼───────────────────────────┤
+│ Grade                    │ F                         │
+│ Protocols Supported      │ TLS 1.0, TLS 1.1, TLS 1.2 │
+│ Cipher Suites            │                           │
+│ Server Signature         │ N/A                       │
+│ OCSP Stapling            │ Yes                       │
+│ HSTS Policy              │ absent                    │
+│ Vulnerable to BEAST      │ Yes                       │
+│ POODLE TLS               │ 1                         │
+│ Heartbleed Vulnerability │ No                        │
+│ Supports RC4             │ No                        │
+╰──────────────────────────┴───────────────────────────╯
+[*] SSL Labs analysis completed.
+
+
+=== SSL Pinning Check ===
+
+=============================================
+Argus - Advanced SSL Pinning Check
+=============================================
+
+[*] Checking SSL pinning for: ditrumy.com
+SSL Pinning Check for ditrumy.com
+╭─────────────┬────────────────────╮
+│ Domain      │ SSL Pinning Status │
+├─────────────┼────────────────────┤
+│ ditrumy.com │ Not Enabled        │
+╰─────────────┴────────────────────╯
+[*] SSL pinning check completed.
+
+
+=== Subdomain Enumeration ===
+
+=============================================
+Argus - Subdomain Enumeration (crt.sh)
+=============================================
+
+[*] Fetching subdomains for: ditrumy.com
+┏━━━━━━━━━━━━━━━━━┓
+┃ Subdomains      ┃
+┡━━━━━━━━━━━━━━━━━┩
+│ ditrumy.com     │
+│ www.ditrumy.com │
+└─────────────────┘
+[*] Subdomain enumeration completed.
+
+
+=== Subdomain Takeover ===
+
+=============================================
+Argus - Advanced Subdomain Takeover Detection
+=============================================
+
+[*] Fetching subdomains for ditrumy.com from crt.sh...
+[+] Found 2 subdomains for ditrumy.com.
+[*] Checking www.ditrumy.com (HTTP)...
+[*] Checking ditrumy.com (HTTP)...
+[+] Safe: ditrumy.com (HTTP)
+[*] Checking ditrumy.com (HTTPS)...
+[+] Safe: www.ditrumy.com (HTTP)
+[*] Checking www.ditrumy.com (HTTPS)...
+[+] Safe: ditrumy.com (HTTPS)
+[+] Safe: www.ditrumy.com (HTTPS)
+[+] No vulnerable subdomains found.
+[*] Subdomain takeover check completed.
+
+
+=== VirusTotal Scan ===
+
+=============================================
+Argus - VirusTotal Scan Module
+=============================================
+
+[*] Initiating VirusTotal scans for 1 URL(s)...
+[*] Scanning URL: http://ditrumy.com
+[!] Error: Received status code 403 for URL: http://ditrumy.com
+[*] Processing results for: http://ditrumy.com
+[!] No data to display for URL: http://ditrumy.com
+
+[!] An unexpected error occurred: 'str' object has no attribute 'substitute'
+
+

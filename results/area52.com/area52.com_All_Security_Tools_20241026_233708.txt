@@ -1,0 +1,590 @@
+=== Censys Reconnaissance ===
+
+=============================================
+Argus - Censys Exposure Analyzer
+=============================================
+
+[!] Unauthorized. Check your Censys API credentials.
+[!] 172.66.43.128: Unauthorized
+[!] Unauthorized. Check your Censys API credentials.
+[!] 172.66.40.128: Unauthorized
+
+[*] Censys Recon completed.
+
+
+=== Certificate Authority Recon ===
+
+=============================================
+Argus - Advanced Certificate Recon
+=============================================
+
+[*] Fetching certificate details for: area52.com
+[!] Error retrieving certificate from area52.com: embedded null byte
+[!] No certificate details found for area52.com.
+[*] Certificate Authority Recon completed.
+
+
+=== Data Leak Detection ===
+
+=============================================
+Argus - Advanced Data Leak Checker
+=============================================
+
+[*] Checking data leaks for domain: area52.com
+[*] Checking admin@area52.com
+[*] Checking contact@area52.com
+[*] Checking info@area52.com
+[*] Checking support@area52.com
+[*] Checking sales@area52.com
+Breaches for sales@area52.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for admin@area52.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+[*] Checking webmaster@area52.com
+[*] Checking postmaster@area52.com
+Breaches for info@area52.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for contact@area52.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for support@area52.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for postmaster@area52.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for webmaster@area52.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+[*] Data leak check completed.
+
+
+=== Exposed Environment Files Checker ===
+
+
+=============================================
+Argus - Exposed Environment Files Checker
+=============================================
+
+
+[*] Checking for publicly exposed environment files on area52.com...
+[!] Error checking .env: Invalid URL 'area52.com/.env': No scheme supplied. Perhaps you meant
+https://area52.com/.env?
+[!] Error checking env: Invalid URL 'area52.com/env': No scheme supplied. Perhaps you meant https://area52.com/env?
+[!] Error checking environment: Invalid URL 'area52.com/environment': No scheme supplied. Perhaps you meant
+https://area52.com/environment?
+[!] Error checking .env.php: Invalid URL 'area52.com/.env.php': No scheme supplied. Perhaps you meant
+https://area52.com/.env.php?
+[!] Error checking config.php: Invalid URL 'area52.com/config.php': No scheme supplied. Perhaps you meant
+https://area52.com/config.php?
+[!] Error checking config.yaml: Invalid URL 'area52.com/config.yaml': No scheme supplied. Perhaps you meant
+https://area52.com/config.yaml?
+[!] Error checking config.yml: Invalid URL 'area52.com/config.yml': No scheme supplied. Perhaps you meant
+https://area52.com/config.yml?
+[!] Error checking config.json: Invalid URL 'area52.com/config.json': No scheme supplied. Perhaps you meant
+https://area52.com/config.json?
+[!] Error checking config.ini: Invalid URL 'area52.com/config.ini': No scheme supplied. Perhaps you meant
+https://area52.com/config.ini?
+[!] Error checking localsettings.php: Invalid URL 'area52.com/localsettings.php': No scheme supplied. Perhaps you
+meant https://area52.com/localsettings.php?
+[!] Error checking settings.php: Invalid URL 'area52.com/settings.php': No scheme supplied. Perhaps you meant
+https://area52.com/settings.php?
+[!] Error checking db.php: Invalid URL 'area52.com/db.php': No scheme supplied. Perhaps you meant
+https://area52.com/db.php?
+[!] Error checking database.php: Invalid URL 'area52.com/database.php': No scheme supplied. Perhaps you meant
+https://area52.com/database.php?
+[!] Error checking wp-config.php: Invalid URL 'area52.com/wp-config.php': No scheme supplied. Perhaps you meant
+https://area52.com/wp-config.php?
+[!] Error checking appsettings.json: Invalid URL 'area52.com/appsettings.json': No scheme supplied. Perhaps you
+meant https://area52.com/appsettings.json?
+[!] Error checking web.config: Invalid URL 'area52.com/web.config': No scheme supplied. Perhaps you meant
+https://area52.com/web.config?
+[!] Error checking .git/config: Invalid URL 'area52.com/.git/config': No scheme supplied. Perhaps you meant
+https://area52.com/.git/config?
+[!] Error checking .svn/entries: Invalid URL 'area52.com/.svn/entries': No scheme supplied. Perhaps you meant
+https://area52.com/.svn/entries?
+[!] Error checking .hg/.hgignore: Invalid URL 'area52.com/.hg/.hgignore': No scheme supplied. Perhaps you meant
+https://area52.com/.hg/.hgignore?
+[!] Error checking .gitignore: Invalid URL 'area52.com/.gitignore': No scheme supplied. Perhaps you meant
+https://area52.com/.gitignore?
+[!] Error checking composer.lock: Invalid URL 'area52.com/composer.lock': No scheme supplied. Perhaps you meant
+https://area52.com/composer.lock?
+[!] Error checking package-lock.json: Invalid URL 'area52.com/package-lock.json': No scheme supplied. Perhaps you
+meant https://area52.com/package-lock.json?
+[!] Error checking yarn.lock: Invalid URL 'area52.com/yarn.lock': No scheme supplied. Perhaps you meant
+https://area52.com/yarn.lock?
+[!] Error checking Dockerfile: Invalid URL 'area52.com/Dockerfile': No scheme supplied. Perhaps you meant
+https://area52.com/Dockerfile?
+[!] Error checking docker-compose.yml: Invalid URL 'area52.com/docker-compose.yml': No scheme supplied. Perhaps you
+meant https://area52.com/docker-compose.yml?
+[!] Error checking Makefile: Invalid URL 'area52.com/Makefile': No scheme supplied. Perhaps you meant
+https://area52.com/Makefile?
+[!] Error checking requirements.txt: Invalid URL 'area52.com/requirements.txt': No scheme supplied. Perhaps you
+meant https://area52.com/requirements.txt?
+[!] Error checking Gemfile: Invalid URL 'area52.com/Gemfile': No scheme supplied. Perhaps you meant
+https://area52.com/Gemfile?
+[!] Error checking Pipfile: Invalid URL 'area52.com/Pipfile': No scheme supplied. Perhaps you meant
+https://area52.com/Pipfile?
+[!] Error checking Pipfile.lock: Invalid URL 'area52.com/Pipfile.lock': No scheme supplied. Perhaps you meant
+https://area52.com/Pipfile.lock?
+[!] Error checking setup.py: Invalid URL 'area52.com/setup.py': No scheme supplied. Perhaps you meant
+https://area52.com/setup.py?
+[!] Error checking phpinfo.php: Invalid URL 'area52.com/phpinfo.php': No scheme supplied. Perhaps you meant
+https://area52.com/phpinfo.php?
+[!] Error checking php.ini: Invalid URL 'area52.com/php.ini': No scheme supplied. Perhaps you meant
+https://area52.com/php.ini?
+[!] Error checking backup.sql: Invalid URL 'area52.com/backup.sql': No scheme supplied. Perhaps you meant
+https://area52.com/backup.sql?
+[!] Error checking dump.sql: Invalid URL 'area52.com/dump.sql': No scheme supplied. Perhaps you meant
+https://area52.com/dump.sql?
+[!] Error checking database.sql: Invalid URL 'area52.com/database.sql': No scheme supplied. Perhaps you meant
+https://area52.com/database.sql?
+[+] No publicly exposed environment files found.
+
+
+=== Firewall Detection ===
+
+=============================================
+Argus - Advanced Firewall Detection
+=============================================
+
+[*] Detecting firewall for: area52.com
+[!] Error retrieving firewall information: Invalid URL 'area52.com': No scheme supplied. Perhaps you meant
+https://area52.com?
+[!] No firewall information found.
+[*] Firewall detection completed.
+
+
+=== Global Ranking ===
+
+=============================================
+Argus - Global Ranking Analysis
+=============================================
+
+[*] Retrieving current Tranco list ID...
+[*] Fetching global ranking for: area52.com
+[!] area52.com is not ranked in the current Tranco list.
+[*] Global ranking analysis completed.
+
+
+=== HTTP Headers ===
+
+=============================================
+Argus - Advanced HTTP Header Analysis
+=============================================
+
+[*] Fetching HTTP headers for: http://area52.com
+[*] Displaying HTTP headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Header                 ┃ Value                                                                                  ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Date                   │ Sun, 27 Oct 2024 06:29:48 GMT                                                          │
+│ Content-Type           │ text/html; charset=UTF-8                                                               │
+│ Transfer-Encoding      │ chunked                                                                                │
+│ Connection             │ keep-alive                                                                             │
+│ vary                   │ Accept-Encoding                                                                        │
+│ Set-Cookie             │ a52_country=US; expires=Mon, 28-Oct-2024 04:46:26 GMT; Max-Age=86400; path=/; secure;  │
+│                        │ HttpOnly; SameSite=Lax, a52_state=MA; expires=Mon, 28-Oct-2024 04:46:26 GMT;           │
+│                        │ Max-Age=86400; path=/; secure; HttpOnly; SameSite=Lax, a52_city=Springfield;           │
+│                        │ expires=Mon, 28-Oct-2024 04:46:26 GMT; Max-Age=86400; path=/; secure; HttpOnly;        │
+│                        │ SameSite=Lax                                                                           │
+│ link                   │ <https://area52.com/wp-json/>; rel="https://api.w.org/",                               │
+│                        │ <https://area52.com/wp-json/wp/v2/pages/38>; rel="alternate"; title="JSON";            │
+│                        │ type="application/json", <https://area52.com/>; rel=shortlink                          │
+│ x-frame-options        │ SAMEORIGIN                                                                             │
+│ x-xss-protection       │ 1; mode=block                                                                          │
+│ x-content-type-options │ nosniff                                                                                │
+│ x-runcloud-cache       │ HIT                                                                                    │
+│ x-runcache-type        │ native                                                                                 │
+│ cf-cache-status        │ DYNAMIC                                                                                │
+│ Report-To              │ {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=v48Out19W9VQ2ploTg… │
+│ NEL                    │ {"success_fraction":0,"report_to":"cf-nel","max_age":604800}                           │
+│ Server                 │ cloudflare                                                                             │
+│ CF-RAY                 │ 8d90a241eb322f76-LAX                                                                   │
+│ Content-Encoding       │ gzip                                                                                   │
+└────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────┘
+[*] Analyzing security headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Security Header           ┃ Status     ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ Content-Security-Policy   │ Not Set    │
+│ Strict-Transport-Security │ Not Set    │
+│ X-Content-Type-Options    │ Configured │
+│ X-Frame-Options           │ Configured │
+│ X-XSS-Protection          │ Configured │
+│ Referrer-Policy           │ Not Set    │
+│ Permissions-Policy        │ Not Set    │
+└───────────────────────────┴────────────┘
+[!] Missing Security Headers: Content-Security-Policy, Strict-Transport-Security, Referrer-Policy,
+Permissions-Policy
+[*] Detecting server technology...
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┓
+┃ Server     ┃ Detected Technology ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━┩
+│ cloudflare │ Cloudflare CDN      │
+└────────────┴─────────────────────┘
+[*] Scanning for vulnerabilities based on headers...
+[+] No vulnerabilities detected based on HTTP headers.
+[*] Analyzing cookies for security flags...
+[*] Analyzing cookies for security flags...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Cookie                   ┃ Attributes                     ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ a52_country=US           │ None                           │
+│ 28-Oct-2024 04:46:26 GMT │ Secure, HttpOnly, SameSite=Lax │
+│ a52_state=MA             │ None                           │
+│ 28-Oct-2024 04:46:26 GMT │ Secure, HttpOnly, SameSite=Lax │
+│ a52_city=Springfield     │ None                           │
+│ 28-Oct-2024 04:46:26 GMT │ Secure, HttpOnly, SameSite=Lax │
+└──────────────────────────┴────────────────────────────────┘
+[*] Detecting frameworks based on response content...
+[+] Detected Frameworks: WordPress
+[*] HTTP header analysis completed.
+
+
+=== HTTP Security Features ===
+
+=============================================
+Argus - Advanced HTTP Security Headers Check
+=============================================
+
+[*] Fetching HTTP headers for: http://area52.com
+[*] Displaying HTTP headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Header                 ┃ Value                                                                                  ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Date                   │ Sun, 27 Oct 2024 06:29:49 GMT                                                          │
+│ Content-Type           │ text/html; charset=UTF-8                                                               │
+│ Transfer-Encoding      │ chunked                                                                                │
+│ Connection             │ keep-alive                                                                             │
+│ vary                   │ Accept-Encoding                                                                        │
+│ Set-Cookie             │ a52_country=US; expires=Mon, 28-Oct-2024 04:46:26 GMT; Max-Age=86400; path=/; secure;  │
+│                        │ HttpOnly; SameSite=Lax, a52_state=MA; expires=Mon, 28-Oct-2024 04:46:26 GMT;           │
+│                        │ Max-Age=86400; path=/; secure; HttpOnly; SameSite=Lax, a52_city=Springfield;           │
+│                        │ expires=Mon, 28-Oct-2024 04:46:26 GMT; Max-Age=86400; path=/; secure; HttpOnly;        │
+│                        │ SameSite=Lax                                                                           │
+│ link                   │ <https://area52.com/wp-json/>; rel="https://api.w.org/",                               │
+│                        │ <https://area52.com/wp-json/wp/v2/pages/38>; rel="alternate"; title="JSON";            │
+│                        │ type="application/json", <https://area52.com/>; rel=shortlink                          │
+│ x-frame-options        │ SAMEORIGIN                                                                             │
+│ x-xss-protection       │ 1; mode=block                                                                          │
+│ x-content-type-options │ nosniff                                                                                │
+│ x-runcloud-cache       │ HIT                                                                                    │
+│ x-runcache-type        │ native                                                                                 │
+│ cf-cache-status        │ DYNAMIC                                                                                │
+│ Report-To              │ {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=nsxXCMiY4h5hg0u%2B… │
+│ NEL                    │ {"success_fraction":0,"report_to":"cf-nel","max_age":604800}                           │
+│ Server                 │ cloudflare                                                                             │
+│ CF-RAY                 │ 8d90a24509080fbb-LAX                                                                   │
+│ Content-Encoding       │ gzip                                                                                   │
+└────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────┘
+[*] Analyzing security headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Security Header           ┃ Status     ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ Content-Security-Policy   │ Not Set    │
+│ Strict-Transport-Security │ Not Set    │
+│ X-Content-Type-Options    │ Configured │
+│ X-Frame-Options           │ Configured │
+│ X-XSS-Protection          │ Configured │
+│ Referrer-Policy           │ Not Set    │
+│ Permissions-Policy        │ Not Set    │
+└───────────────────────────┴────────────┘
+[!] Missing Security Headers: Content-Security-Policy, Strict-Transport-Security, Referrer-Policy,
+Permissions-Policy
+[*] Detecting server technology...
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┓
+┃ Server     ┃ Detected Technology ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━┩
+│ cloudflare │ Cloudflare CDN      │
+└────────────┴─────────────────────┘
+[*] Scanning for vulnerabilities based on headers...
+[+] No vulnerabilities detected based on HTTP headers.
+[*] Analyzing cookies for security flags...
+[*] Analyzing cookies for security flags...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Cookie                   ┃ Attributes                     ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ a52_country=US           │ None                           │
+│ 28-Oct-2024 04:46:26 GMT │ Secure, HttpOnly, SameSite=Lax │
+│ a52_state=MA             │ None                           │
+│ 28-Oct-2024 04:46:26 GMT │ Secure, HttpOnly, SameSite=Lax │
+│ a52_city=Springfield     │ None                           │
+│ 28-Oct-2024 04:46:26 GMT │ Secure, HttpOnly, SameSite=Lax │
+└──────────────────────────┴────────────────────────────────┘
+[*] Detecting frameworks based on response content...
+[+] Detected Frameworks: WordPress
+[*] HTTP header analysis completed.
+
+
+=== Malware & Phishing Check ===
+
+=============================================
+Argus - Advanced Malware & Phishing Check
+=============================================
+
+[*] Checking for malware and phishing threats for: http://area52.com
+[*] Performing heuristic analysis...
+[+] No suspicious keywords found in URL path.
+[*] Performing additional heuristic checks...
+[!] URL does not use HTTPS. Potential security risk.
+[*] Checking URLhaus...
+[+] URL not found in URLhaus database.
+[*] Checking against public blacklist services...
+[+] IP not found in public blacklist services.
+[*] Checking VirusTotal...
+[!] VirusTotal scan failed with status code No Response.
+
+[*] Malware & Phishing checks completed.
+
+
+
+=== Pastebin Monitoring ===
+
+=============================================
+Argus - Advanced Paste Monitoring
+=============================================
+
+[*] Monitoring paste sites for query: area52.com
+[*] Searching Pastebin - Page 1...
+[*] Searching Ghostbin - Page 1...
+[*] Searching Paste.ee - Page 1...
+[*] Searching ControlC - Page 1...
+[*] Searching Paste.org - Page 1...
+[!] POST request to https://api.paste.ee/v1/pastes/search failed with status 405.
+[!] Failed to fetch https://pastebin.com/search with status 403.
+[!] No more results found on ControlC at page 1.
+[!] Error fetching https://ghostbin.com/search: Cannot connect to host pst.klgrth.io:443 ssl:default
+[*] Searching Paste.ee - Page 2...
+[*] Searching Pastebin - Page 2...
+[!] POST request to https://api.paste.ee/v1/pastes/search failed with status 405.
+[*] Searching Ghostbin - Page 2...
+[!] Error fetching https://ghostbin.com/search: Cannot connect to host pst.klgrth.io:443 ssl:default
+[!] Failed to fetch https://pastebin.com/search with status 403.
+[!] No more results found on Paste.org at page 1.
+[!] No pastes found for the given query.
+[*] Paste monitoring completed.
+
+
+=== Privacy & GDPR Compliance ===
+
+=============================================
+Argus - Privacy & GDPR Compliance
+=============================================
+
+[*] Checking Privacy Policy, GDPR Compliance, and Cookie Policy for: http://area52.com
+[*] Privacy Policy URL: http://area52.com/privacy-policy/
+[*] GDPR Compliance URL: http://area52.com/gdpr-compliance
+[*] Cookie Policy URL: http://area52.com/cookie-policy
+[+] Privacy Policy Found: http://area52.com/privacy-policy/
+[+] Privacy Policy Keywords Found: data collection, information we collect, data retention
+[!] GDPR Compliance Not Found at http://area52.com/gdpr-compliance (Status Code: 404)
+[!] Cookie Policy Not Found at http://area52.com/cookie-policy (Status Code: 404)
+┏━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Check           ┃ Result    ┃ Compliance ┃
+┡━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ Privacy Policy  │ Found     │ Yes        │
+│ GDPR Compliance │ Not Found │ No         │
+│ Cookie Policy   │ Not Found │ No         │
+└─────────────────┴───────────┴────────────┘
+[*] Privacy & GDPR compliance check completed.
+
+
+=== Security.txt Check ===
+
+=============================================
+Argus - Security.txt Detection
+=============================================
+
+[*] Fetching security.txt for: http://area52.com
+[!] No security.txt file found.
+[*] Security.txt detection and analysis completed.
+
+
+=== Shodan Reconnaissance ===
+
+=============================================
+Argus - Shodan Exposure Analyzer
+=============================================
+
+[!] 172.66.43.128: Unauthorized. Check your Shodan API key.
+[!] 172.66.43.128: Unauthorized. Check your Shodan API key.
+
+[*] Shodan Recon completed.
+
+
+=== SSL Labs Report ===
+
+=============================================
+Argus - Advanced SSL Labs Scanner
+=============================================
+
+[*] Fetching SSL Labs report for: area52.com
+[*] Analysis in progress for area52.com. Waiting for results...
+SSL Labs Report for area52.com [2606:4700:3108:0:0:0:ac42:2b80]
+╭──────────────────────────┬────────────────────────────────────╮
+│ Field                    │ Details                            │
+├──────────────────────────┼────────────────────────────────────┤
+│ Grade                    │ B                                  │
+│ Protocols Supported      │ TLS 1.0, TLS 1.1, TLS 1.2, TLS 1.3 │
+│ Cipher Suites            │                                    │
+│ Server Signature         │ cloudflare                         │
+│ OCSP Stapling            │ Yes                                │
+│ HSTS Policy              │ absent                             │
+│ Vulnerable to BEAST      │ Yes                                │
+│ POODLE TLS               │ 1                                  │
+│ Heartbleed Vulnerability │ No                                 │
+│ Supports RC4             │ No                                 │
+╰──────────────────────────┴────────────────────────────────────╯
+SSL Labs Report for area52.com [2606:4700:3108:0:0:0:ac42:2880]
+╭──────────────────────────┬────────────────────────────────────╮
+│ Field                    │ Details                            │
+├──────────────────────────┼────────────────────────────────────┤
+│ Grade                    │ B                                  │
+│ Protocols Supported      │ TLS 1.0, TLS 1.1, TLS 1.2, TLS 1.3 │
+│ Cipher Suites            │                                    │
+│ Server Signature         │ cloudflare                         │
+│ OCSP Stapling            │ Yes                                │
+│ HSTS Policy              │ absent                             │
+│ Vulnerable to BEAST      │ Yes                                │
+│ POODLE TLS               │ 1                                  │
+│ Heartbleed Vulnerability │ No                                 │
+│ Supports RC4             │ No                                 │
+╰──────────────────────────┴────────────────────────────────────╯
+SSL Labs Report for area52.com [172.66.43.128]
+╭──────────────────────────┬────────────────────────────────────╮
+│ Field                    │ Details                            │
+├──────────────────────────┼────────────────────────────────────┤
+│ Grade                    │ B                                  │
+│ Protocols Supported      │ TLS 1.0, TLS 1.1, TLS 1.2, TLS 1.3 │
+│ Cipher Suites            │                                    │
+│ Server Signature         │ cloudflare                         │
+│ OCSP Stapling            │ Yes                                │
+│ HSTS Policy              │ absent                             │
+│ Vulnerable to BEAST      │ Yes                                │
+│ POODLE TLS               │ 1                                  │
+│ Heartbleed Vulnerability │ No                                 │
+│ Supports RC4             │ No                                 │
+╰──────────────────────────┴────────────────────────────────────╯
+SSL Labs Report for area52.com [172.66.40.128]
+╭──────────────────────────┬────────────────────────────────────╮
+│ Field                    │ Details                            │
+├──────────────────────────┼────────────────────────────────────┤
+│ Grade                    │ B                                  │
+│ Protocols Supported      │ TLS 1.0, TLS 1.1, TLS 1.2, TLS 1.3 │
+│ Cipher Suites            │                                    │
+│ Server Signature         │ cloudflare                         │
+│ OCSP Stapling            │ Yes                                │
+│ HSTS Policy              │ absent                             │
+│ Vulnerable to BEAST      │ Yes                                │
+│ POODLE TLS               │ 1                                  │
+│ Heartbleed Vulnerability │ No                                 │
+│ Supports RC4             │ No                                 │
+╰──────────────────────────┴────────────────────────────────────╯
+[*] SSL Labs analysis completed.
+
+
+=== SSL Pinning Check ===
+
+=============================================
+Argus - Advanced SSL Pinning Check
+=============================================
+
+[*] Checking SSL pinning for: area52.com
+SSL Pinning Check for area52.com
+╭────────────┬────────────────────╮
+│ Domain     │ SSL Pinning Status │
+├────────────┼────────────────────┤
+│ area52.com │ Not Enabled        │
+╰────────────┴────────────────────╯
+[*] SSL pinning check completed.
+
+
+=== Subdomain Enumeration ===
+
+=============================================
+Argus - Subdomain Enumeration (crt.sh)
+=============================================
+
+[*] Fetching subdomains for: area52.com
+┏━━━━━━━━━━━━━━━━━━┓
+┃ Subdomains       ┃
+┡━━━━━━━━━━━━━━━━━━┩
+│ ideas.area52.com │
+│ area52.com       │
+│ area52.com       │
+│ www.area52.com   │
+│ www.area52.com   │
+│ *.area52.com     │
+│ area52.com       │
+└──────────────────┘
+[*] Subdomain enumeration completed.
+
+
+=== Subdomain Takeover ===
+
+=============================================
+Argus - Advanced Subdomain Takeover Detection
+=============================================
+
+[*] Fetching subdomains for area52.com from crt.sh...
+[+] Found 4 subdomains for area52.com.
+[*] Checking area52.com (HTTP)...
+[*] Checking ideas.area52.com (HTTP)...
+[*] Checking www.area52.com (HTTP)...
+[*] Checking *.area52.com (HTTP)...
+[!] Error accessing: *.area52.com (HTTP)
+[*] Checking *.area52.com (HTTPS)...
+[!] Error accessing: *.area52.com (HTTPS)
+[!] Error accessing: ideas.area52.com (HTTP)
+[*] Checking ideas.area52.com (HTTPS)...
+[+] Safe: area52.com (HTTP)
+[*] Checking area52.com (HTTPS)...
+[!] Error accessing: ideas.area52.com (HTTPS)
+[+] Safe: area52.com (HTTPS)
+[+] Safe: www.area52.com (HTTP)
+[*] Checking www.area52.com (HTTPS)...
+[+] Safe: www.area52.com (HTTPS)
+[+] No vulnerable subdomains found.
+[*] Subdomain takeover check completed.
+
+
+=== VirusTotal Scan ===
+
+=============================================
+Argus - VirusTotal Scan Module
+=============================================
+
+[*] Initiating VirusTotal scans for 1 URL(s)...
+[*] Scanning URL: http://area52.com
+[!] Error: Received status code 403 for URL: http://area52.com
+[*] Processing results for: http://area52.com
+[!] No data to display for URL: http://area52.com
+
+[!] An unexpected error occurred: 'str' object has no attribute 'substitute'
+
+

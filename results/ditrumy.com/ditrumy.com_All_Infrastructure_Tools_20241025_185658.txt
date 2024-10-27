@@ -1,0 +1,642 @@
+=== Associated Hosts ===
+
+=============================================
+Argus - Associated Hosts Detection
+=============================================
+
+[*] Detecting associated hosts for: ditrumy.com
+[!] Shodan API error: 401
+[!] No results from Shodan, falling back to HackerTarget...
+
+[*] Associated Hosts:
+============================================================
+aihuubienhoa.com
+aksarbennails.com
+anandavietfoundation.org
+anhdao.org
+applenailsalon.com
+aptprecisioninc.com
+avconsultantgroup.com
+avraovat.com
+avvoip.com
+beauty20group.com
+blueoceanmusic.us
+bristoloptometry.com
+cali1strealty.com
+chuabodeus.com
+chuadilac.com
+chuatulam.net
+comvietnam.com
+dactai.com
+diendanpghh.com
+dieungu.org
+ditrumy.com
+doanquocsy.com
+dobuilder.com
+dpatlaw.com
+dpatlaws.com
+ducdangtaekwondo.com
+dutule.com
+firstandlastmiles.com
+firstclassnailspa.com
+hddaminhthanhlinh.net
+hoahao.org
+hoangfamily.biz
+hopluu.net
+htpatv.org
+hung-viet.org
+ibc565.com
+ibcnews.tv
+jasonmaphd.com
+kinhthanhkhoahoc.com
+localheatandac.com
+longhoahoithuong.org
+marshallironworks.com
+mombabymarket.com
+myancashew.com
+naturalhealthmc.com
+newportparagonline.com
+ngocbao.org
+nguoivietphone.com
+nguyenhuynhmai.com
+nhakhoa.net
+nhakhoa.org
+nhatbaovanhoa.com
+nhulaithientu.net
+onnguonsuviet.com
+originaltacofactory.com
+phaptangmeditation.org
+phatan.org
+phatgiaoucchau.com
+phovietnam.com
+phuocque-thuquan.com
+phuocquethuquan.net
+prestonellisco.com
+quyenduocbiet.com
+sankhoa.com
+sankhoa.org
+seaoneseafoods.com
+stfrancischarity.org
+tanhkhong.org
+tdmachineinc.com
+thienviensungnghiem.com
+thienviensungnghiem.org
+thienvienvouu.org
+tiengnoichanly.org
+tinhvaquehuong.com
+traitimyeuthuong.org
+tranchiphuc.com
+trungtam.com
+tuoitrephatgiaohoahao.com
+tusachtiengviet.com
+usaluatsu.com
+uscotrading.com
+us-vnpeople.com
+vaapa.com
+vegetigi.com
+vietbayshoppingmall.com
+vietdtv.com
+viettute.com
+viettute.org
+vjengineering.net
+vmconstructioninc.com
+vnatv.com
+volamdaovn.com
+vomonthientu.org
+vscosmetics.com
+wholesaleprintingweb.com
+www.quangduc.com
+zippostlogistics.com
+zippost.net
+============================================================
+[*] Associated hosts detection completed.
+
+
+=== DNS Over HTTPS ===
+
+=============================================
+Argus - DNS Over HTTPS (DoH) Check
+=============================================
+
+[*] Checking DNS over HTTPS support for: ditrumy.com
+┏━━━━━━━━━━━━┓
+┃ DoH Status ┃
+┡━━━━━━━━━━━━┩
+│ Supported  │
+└────────────┘
+[*] DNS Over HTTPS check completed.
+
+
+=== DNS Records ===
+
+=============================================
+Argus - DNS Records Check
+=============================================
+
+[*] Fetching DNS records for: ditrumy.com
+[!] No AAAA records found for ditrumy.com.
+[!] No CNAME records found for ditrumy.com.
+┏━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Record Type ┃ Record Value                                                                             ┃
+┡━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ A           │ 64.62.246.152                                                                            │
+│ MX          │ 5 alt1.aspmx.l.google.com.                                                               │
+│             │ 10 alt4.aspmx.l.google.com.                                                              │
+│             │ 10 alt3.aspmx.l.google.com.                                                              │
+│             │ 1 aspmx.l.google.com.                                                                    │
+│             │ 5 alt2.aspmx.l.google.com.                                                               │
+│ NS          │ ns-cloud-e2.googledomains.com.                                                           │
+│             │ ns-cloud-e3.googledomains.com.                                                           │
+│             │ ns-cloud-e4.googledomains.com.                                                           │
+│             │ ns-cloud-e1.googledomains.com.                                                           │
+│ TXT         │ "google-site-verification=uli9U8aay8fJu4RGiYBK0R9FSEkNphofBZn_VqKUpiw"                   │
+│ SOA         │ ns-cloud-e1.googledomains.com. cloud-dns-hostmaster.google.com. 25 21600 3600 259200 300 │
+└─────────────┴──────────────────────────────────────────────────────────────────────────────────────────┘
+[*] DNS records retrieval completed.
+
+
+=== DNSSEC Check ===
+
+=============================================
+Argus - DNSSEC Check
+=============================================
+
+[*] Checking DNSSEC for: ditrumy.com
+[!] No DNSSEC records found.
+[!] No DNSSEC records found.
+[*] DNSSEC check completed.
+
+
+=== Domain Info ===
+
+=============================================
+Argus - Domain Information
+=============================================
+
+[*] Fetching domain information for: ditrumy.com
+┏━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Field       ┃ Details                                                                                                                     ┃
+┡━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ domain      │ ditrumy.com                                                                                                                 │
+│ create_date │ 2023-08-27T10:11:38.751624                                                                                                  │
+│ update_date │ 2023-08-27T10:11:38.751626                                                                                                  │
+│ country     │ US                                                                                                                          │
+│ isDead      │ False                                                                                                                       │
+│ A           │ ['64.62.246.152']                                                                                                           │
+│ NS          │ ['ns-cloud-e1.googledomains.com', 'ns-cloud-e2.googledomains.com', 'ns-cloud-e3.googledomains.com',                         │
+│             │ 'ns-cloud-e4.googledomains.com']                                                                                            │
+│ CNAME       │ None                                                                                                                        │
+│ MX          │ [{'exchange': 'aspmx.l.google.com', 'priority': 1}, {'exchange': 'alt1.aspmx.l.google.com', 'priority': 5}, {'exchange':    │
+│             │ 'alt2.aspmx.l.google.com', 'priority': 5}, {'exchange': 'alt3.aspmx.l.google.com', 'priority': 10}, {'exchange':            │
+│             │ 'alt4.aspmx.l.google.com', 'priority': 10}]                                                                                 │
+│ TXT         │ None                                                                                                                        │
+└─────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+[*] Domain information retrieval completed.
+
+
+=== Domain Reputation Check ===
+
+=============================================
+Argus - Advanced Domain Reputation Check
+=============================================
+
+[*] Checking reputation for domain: ditrumy.com
+[!] Error retrieving domain reputation for ditrumy.com: 401 Client Error: Unauthorized for url:
+https://www.virustotal.com/api/v3/domains/ditrumy.com
+[!] No reputation data available for ditrumy.com.
+[*] Domain Reputation Check completed.
+
+
+=== HTTP/2 and HTTP/3 Support Checker ===
+
+
+=================================================
+Argus - HTTP/2 and HTTP/3 Support Checker
+=================================================
+
+
+[*] Checking for HTTP/2 support on https://ditrumy.com...
+[-] HTTP/2 is not supported.
+[*] Checking for HTTP/3 support on https://ditrumy.com...
+[-] HTTP/3 is not supported:
+
+
+=== IP Info ===
+
+=============================================
+Argus - IP Information
+=============================================
+
+[*] Fetching IP info for: ditrumy.com
+┏━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Key             ┃ Value                                              ┃
+┡━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ status          │ success                                            │
+│ country         │ United States                                      │
+│ countryCode     │ US                                                 │
+│ region          │ CA                                                 │
+│ regionName      │ California                                         │
+│ city            │ Fremont                                            │
+│ zip             │ 94539                                              │
+│ lat             │ 37.49                                              │
+│ lon             │ -121.931                                           │
+│ timezone        │ America/Los_Angeles                                │
+│ isp             │ Hurricane Electric LLC                             │
+│ org             │ Hurricane Electric                                 │
+│ as              │ AS6939 Hurricane Electric LLC                      │
+│ query           │ 64.62.246.152                                      │
+│ map_link        │ https://www.google.com/maps?q=37.49,-121.931       │
+└─────────────────┴────────────────────────────────────────────────────┘
+
+[+] View location on map: https://www.google.com/maps?q=37.49,-121.931
+[*] IP info retrieval completed.
+
+
+=== Open Ports Scan ===
+
+=============================================
+Argus - Open Ports Scanning
+=============================================
+
+[*] Scanning open ports for: ditrumy.com
+┏━━━━━━━━━━━━┓
+┃ Open Ports ┃
+┡━━━━━━━━━━━━┩
+│ 25         │
+│ 53         │
+│ 80         │
+│ 110        │
+│ 143        │
+│ 443        │
+│ 465        │
+│ 587        │
+│ 993        │
+│ 995        │
+└────────────┘
+[*] Open ports scanning completed.
+
+
+=== Server Info ===
+
+=============================================
+Argus - Server Information
+=============================================
+
+[!] 'ditrumy.com' is not a valid IP address, attempting to resolve to an IP...
+[+] Resolved domain 'ditrumy.com' to IP: 64.62.246.152
+[*] Fetching server information for: 64.62.246.152
+┏━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Field       ┃ Details                       ┃
+┡━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ status      │ success                       │
+│ country     │ United States                 │
+│ countryCode │ US                            │
+│ region      │ CA                            │
+│ regionName  │ California                    │
+│ city        │ Fremont                       │
+│ zip         │ 94539                         │
+│ lat         │ 37.49                         │
+│ lon         │ -121.931                      │
+│ timezone    │ America/Los_Angeles           │
+│ isp         │ Hurricane Electric LLC        │
+│ org         │ Hurricane Electric            │
+│ as          │ AS6939 Hurricane Electric LLC │
+│ query       │ 64.62.246.152                 │
+└─────────────┴───────────────────────────────┘
+[*] Server information retrieval completed.
+
+
+=== Server Location ===
+
+=============================================
+Argus - Server Location Detection
+=============================================
+
+[!] Invalid IP address. Please check the input and try again.
+
+
+=== SSL Chain Analysis ===
+
+=============================================
+Argus - SSL Chain Check
+=============================================
+
+[*] Fetching SSL chain for: ditrumy.com
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Certificate Chain                                                ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ -----BEGIN CERTIFICATE-----                                      │
+│ MIIDhzCCAw6gAwIBAgISA1GlXJwDWyfmNATop5cWxpR2MAoGCCqGSM49BAMDMDIx │
+│ CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF │
+│ NjAeFw0yNDA5MDMwOTE0MzJaFw0yNDEyMDIwOTE0MzFaMBYxFDASBgNVBAMTC2Rp │
+│ dHJ1bXkuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyB7+hdEZIr+kU33L │
+│ L5roX+l17WZRMKyTRndmwLnUzC2G0pQH5lZRfgk/2XRjtCs+RB0WhIjTW6rdrQDO │
+│ 4jeFjqOCAh4wggIaMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggrBgEFBQcD │
+│ AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUVpVECSD4edP/wa1e │
+│ FREPL6mMbFEwHwYDVR0jBBgwFoAUkydGmAOpUWiOmNbEQkjbI79YlNIwVQYIKwYB │
+│ BQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vZTYuby5sZW5jci5vcmcwIgYI │
+│ KwYBBQUHMAKGFmh0dHA6Ly9lNi5pLmxlbmNyLm9yZy8wJwYDVR0RBCAwHoILZGl0 │
+│ cnVteS5jb22CD3d3dy5kaXRydW15LmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATCC │
+│ AQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1AEiw42vapkc0D+VqAvqdMOscUgHLVt0s │
+│ gdm7v6s52IRzAAABkbdfn0EAAAQDAEYwRAIgNqg7ELApP5aF12gTRn5DpYkFtr3d │
+│ kejEaIFJwrmyHhYCIHiUXLlRtf8gX0OVkzgPu/PNnC+1XwmAsL0HA1+endnmAHcA │
+│ 3+FW66oFr7WcD4ZxjajAMk6uVtlup/WlagHRwTu+UlwAAAGRt1+gFwAABAMASDBG │
+│ AiEA5aMfGnadlJqz8x2F4ZIs2HO1ubYiUbEdeYG7EHjuKOcCIQCT6pfkHl7MSyIk │
+│ sH4U86f2XALus0Eo2mU5jVIkgkBAHjAKBggqhkjOPQQDAwNnADBkAjA8VF2bhteX │
+│ w0i6WcsyevLR+B1wzlgzZsOxtJMUnHR9t0BMXpPJsmmUgpS/hzXI/iQCMGG/ddXi │
+│ Js7/jqqitd9QP0JhsPrpj+uSuIH4dIv2Xie0/D1F6yOtAXHVl12FwQIHhw==     │
+│ -----END CERTIFICATE-----                                        │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+SSL Certificate Analysis
+┏━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Attribute              ┃ Details                                                                                       ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Subject                │ ((('commonName', 'ditrumy.com'),),)                                                           │
+│ Issuer                 │ ((('countryName', 'US'),), (('organizationName', "Let's Encrypt"),), (('commonName', 'E6'),)) │
+│ Valid From             │ 2024-09-03 09:14:32                                                                           │
+│ Valid Until            │ 2024-12-02 09:14:31                                                                           │
+│ Serial Number          │ 0351A55C9C035B27E63404E8A79716C69476                                                          │
+│ Version                │ 3                                                                                             │
+│ Signature Algorithm    │ N/A                                                                                           │
+│ Validity Period (Days) │ 89                                                                                            │
+│ Days Until Expiry      │ 37                                                                                            │
+└────────────────────────┴───────────────────────────────────────────────────────────────────────────────────────────────┘
+[*] SSL chain retrieval completed.
+
+
+=== SSL Expiry Alert ===
+
+=============================================
+Argus - Advanced SSL Expiry Check
+=============================================
+
+╭────────────────────┬─────────────────────╮
+│ SSL Expiry Details │ Value               │
+├────────────────────┼─────────────────────┤
+│ Domain             │ ditrumy.com         │
+│ Expiry Date        │ 2024-12-02 09:14:31 │
+│ Days Left          │ 37                  │
+╰────────────────────┴─────────────────────╯
+╭────────────────────────┬───────────────────────────────────────────────────────────────╮
+│ Attribute              │ Details                                                       │
+├────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ Subject                │ commonName=ditrumy.com                                        │
+│ Issuer                 │ countryName=US, organizationName=Let's Encrypt, commonName=E6 │
+│ Valid From             │ Sep  3 09:14:32 2024 GMT                                      │
+│ Valid Until            │ Dec  2 09:14:31 2024 GMT                                      │
+│ Validity Period (Days) │ 89                                                            │
+│ Days Until Expiry      │ 37                                                            │
+│ Serial Number          │ 0351A55C9C035B27E63404E8A79716C69476                          │
+│ Version                │ 3                                                             │
+│ Signature Algorithm    │ N/A                                                           │
+╰────────────────────────┴───────────────────────────────────────────────────────────────╯
+SSL Expiry Statistics
+╭───────────────────────────┬───────╮
+│ Metric                    │ Value │
+├───────────────────────────┼───────┤
+│ Total Domains Checked     │ 1     │
+│ Successfully Scanned      │ 1     │
+│ Failed to Scan            │ 0     │
+│ Expired Certificates      │ 0     │
+│ Expiring Within 30 Days   │ 0     │
+│ Healthy Certificates      │ 1     │
+│ Average Days Until Expiry │ 37.00 │
+╰───────────────────────────┴───────╯
+[*] SSL expiry check completed.
+
+
+=== TLS Cipher Suites ===
+
+=============================================
+Argus - Advanced TLS Cipher Analysis
+=============================================
+
+[*] Fetching TLS cipher suites for: ditrumy.com
+Supported Cipher Suites for ditrumy.com
+╭───────────────────────────────┬──────────────────╮
+│ Cipher Suite                  │ Protocol Version │
+├───────────────────────────────┼──────────────────┤
+│ ECDHE-ECDSA-AES256-GCM-SHA384 │ TLSv1.2          │
+│ ECDHE-ECDSA-AES128-SHA        │ TLSv1.2          │
+│ ECDHE-ECDSA-AES256-SHA        │ TLSv1.2          │
+│ ECDHE-ECDSA-AES128-GCM-SHA256 │ TLSv1.2          │
+│ ECDHE-ECDSA-AES256-SHA384     │ TLSv1.2          │
+│ ECDHE-ECDSA-AES128-SHA256     │ TLSv1.2          │
+╰───────────────────────────────┴──────────────────╯
+[+] No weak cipher suites detected.
+[*] TLS cipher suites analysis completed.
+
+
+=== TLS Handshake Simulation ===
+
+=============================================
+Argus - Advanced TLS Handshake Simulation
+=============================================
+
+[!] TLS TLSv1_3: SSL error with ditrumy.com (IP not provided): TLS/SSL connection has been closed (EOF) (_ssl.c:997)
+TLS Handshake Details for ditrumy.com (Resolved IP) - TLSv1_2
+
+Protocol Version:            TLSv1.2
+Cipher Suite:                ECDHE-ECDSA-AES256-GCM-SHA384
+Cipher Protocol:             TLSv1.2
+Cipher Bits:                 256
+Certificate Subject:         {}
+Certificate Issuer:          {}
+Valid From:
+Valid To:
+Serial Number:
+Subject Alternative Names:
+
+[*] TLS handshake simulation completed.
+
+
+=== Traceroute ===
+
+
+=============================================
+Argus - Email Harvesting Module
+=============================================
+
+
+[*] Starting email harvesting on http://ditrumy.com...
+[!] Error crawling ditrumy.com: Invalid URL 'ditrumy.com': No scheme supplied. Perhaps you meant https://ditrumy.com?
+[!] No email addresses found.
+
+
+=== TXT Records ===
+
+=============================================
+Argus - TXT Record Retrieval Module
+=============================================
+
+[*] Retrieving TXT records for domain: ditrumy.com
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ TXT Record                                                           ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ google-site-verification=uli9U8aay8fJu4RGiYBK0R9FSEkNphofBZn_VqKUpiw │
+└──────────────────────────────────────────────────────────────────────┘
+
+[*] TXT record retrieval completed for ditrumy.com.
+
+
+=== WHOIS Lookup ===
+
+=============================================
+Argus - WHOIS Lookup Module
+=============================================
+
+[*] Performing WHOIS lookup for domain: ditrumy.com
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Key                                                  ┃ Value                                                                       ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ % for more information on IANA, visit http           │ //www.iana.org                                                              │
+│ refer                                                │ whois.verisign-grs.com                                                      │
+│ domain                                               │ COM                                                                         │
+│ organisation                                         │ VeriSign Global Registry Services                                           │
+│ address                                              │ 12061 Bluemont Way                                                          │
+│ address                                              │ Reston VA 20190                                                             │
+│ address                                              │ United States of America (the)                                              │
+│ contact                                              │ administrative                                                              │
+│ name                                                 │ Registry Customer Service                                                   │
+│ organisation                                         │ VeriSign Global Registry Services                                           │
+│ address                                              │ 12061 Bluemont Way                                                          │
+│ address                                              │ Reston VA 20190                                                             │
+│ address                                              │ United States of America (the)                                              │
+│ phone                                                │ +1 703 925-6999                                                             │
+│ fax-no                                               │ +1 703 948 3978                                                             │
+│ e-mail                                               │ info@verisign-grs.com                                                       │
+│ contact                                              │ technical                                                                   │
+│ name                                                 │ Registry Customer Service                                                   │
+│ organisation                                         │ VeriSign Global Registry Services                                           │
+│ address                                              │ 12061 Bluemont Way                                                          │
+│ address                                              │ Reston VA 20190                                                             │
+│ address                                              │ United States of America (the)                                              │
+│ phone                                                │ +1 703 925-6999                                                             │
+│ fax-no                                               │ +1 703 948 3978                                                             │
+│ e-mail                                               │ info@verisign-grs.com                                                       │
+│ nserver                                              │ A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30                      │
+│ nserver                                              │ B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30                    │
+│ nserver                                              │ C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30                    │
+│ nserver                                              │ D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30                    │
+│ nserver                                              │ E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30                    │
+│ nserver                                              │ F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30                    │
+│ nserver                                              │ G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30                    │
+│ nserver                                              │ H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30                    │
+│ nserver                                              │ I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30                   │
+│ nserver                                              │ J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30                    │
+│ nserver                                              │ K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30                    │
+│ nserver                                              │ L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30                   │
+│ nserver                                              │ M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30                    │
+│ ds-rdata                                             │ 19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d771d7805a │
+│ whois                                                │ whois.verisign-grs.com                                                      │
+│ status                                               │ ACTIVE                                                                      │
+│ remarks                                              │ Registration information: http://www.verisigninc.com                        │
+│ created                                              │ 1985-01-01                                                                  │
+│ changed                                              │ 2023-12-07                                                                  │
+│ source                                               │ IANA                                                                        │
+│ Domain Name                                          │ DITRUMY.COM                                                                 │
+│ Registry Domain ID                                   │ 1751486941_DOMAIN_COM-VRSN                                                  │
+│ Registrar WHOIS Server                               │ whois.squarespace.domains                                                   │
+│ Registrar URL                                        │ http://domains2.squarespace.com                                             │
+│ Updated Date                                         │ 2024-09-26T22:42:02Z                                                        │
+│ Creation Date                                        │ 2012-10-11T19:33:20Z                                                        │
+│ Registry Expiry Date                                 │ 2025-10-11T19:33:20Z                                                        │
+│ Registrar                                            │ Squarespace Domains II LLC                                                  │
+│ Registrar IANA ID                                    │ 895                                                                         │
+│ Registrar Abuse Contact Email                        │ abuse-complaints@squarespace.com                                            │
+│ Registrar Abuse Contact Phone                        │ +1.6466935324                                                               │
+│ Domain Status                                        │ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited         │
+│ Domain Status                                        │ clientTransferProhibited https://icann.org/epp#clientTransferProhibited     │
+│ Name Server                                          │ NS-CLOUD-E1.GOOGLEDOMAINS.COM                                               │
+│ Name Server                                          │ NS-CLOUD-E2.GOOGLEDOMAINS.COM                                               │
+│ Name Server                                          │ NS-CLOUD-E3.GOOGLEDOMAINS.COM                                               │
+│ Name Server                                          │ NS-CLOUD-E4.GOOGLEDOMAINS.COM                                               │
+│ DNSSEC                                               │ unsigned                                                                    │
+│ URL of the ICANN Whois Inaccuracy Complaint Form     │ https://www.icann.org/wicf/                                                 │
+│ >>> Last update of whois database                    │ 2024-10-26T01:56:40Z <<<                                                    │
+│ Domain Name                                          │ ditrumy.com                                                                 │
+│ Registry Domain ID                                   │ 1751486941_DOMAIN_COM-VRSN                                                  │
+│ Registrar WHOIS Server                               │ whois.squarespace.domains                                                   │
+│ Registrar URL                                        │ https://domains2.squarespace.com                                            │
+│ Registrar                                            │ Squarespace Domains II LLC                                                  │
+│ Registrar IANA ID                                    │ 895                                                                         │
+│ Registrar Abuse Contact Email                        │ abuse-complaints@squarespace.com                                            │
+│ Registrar Abuse Contact Phone                        │ +1.646-693-5324                                                             │
+│ Reseller                                             │                                                                             │
+│ Updated Date                                         │ 2024-09-26T22:42:02.495015Z                                                 │
+│ Creation Date                                        │ 2012-10-11T19:33:20Z                                                        │
+│ Registrar Registration Expiration Date               │ 2025-10-11T19:33:20Z                                                        │
+│ Domain Status                                        │ clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited  │
+│ Domain Status                                        │ clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited      │
+│ Registry Registrant ID                               │                                                                             │
+│ Registrant Name                                      │ REDACTED FOR PRIVACY                                                        │
+│ Registrant Organization                              │ First Consulting Group                                                      │
+│ Registrant Street                                    │ REDACTED FOR PRIVACY                                                        │
+│ Registrant City                                      │ REDACTED FOR PRIVACY                                                        │
+│ Registrant State/Province                            │ CA                                                                          │
+│ Registrant Postal Code                               │ REDACTED FOR PRIVACY                                                        │
+│ Registrant Country                                   │ US                                                                          │
+│ Registrant Phone                                     │ REDACTED FOR PRIVACY                                                        │
+│ Registrant Phone Ext                                 │                                                                             │
+│ Registrant Fax                                       │ REDACTED FOR PRIVACY                                                        │
+│ Registrant Fax Ext                                   │                                                                             │
+│ Registrant Email                                     │ https://domains.squarespace.com/whois-contact-form                          │
+│ Registry Admin ID                                    │                                                                             │
+│ Admin Name                                           │ REDACTED FOR PRIVACY                                                        │
+│ Admin Organization                                   │ First Consulting Group                                                      │
+│ Admin Street                                         │ REDACTED FOR PRIVACY                                                        │
+│ Admin City                                           │ REDACTED FOR PRIVACY                                                        │
+│ Admin State/Province                                 │ CA                                                                          │
+│ Admin Postal Code                                    │ REDACTED FOR PRIVACY                                                        │
+│ Admin Country                                        │ US                                                                          │
+│ Admin Phone                                          │ REDACTED FOR PRIVACY                                                        │
+│ Admin Phone Ext                                      │                                                                             │
+│ Admin Fax                                            │ REDACTED FOR PRIVACY                                                        │
+│ Admin Fax Ext                                        │                                                                             │
+│ Admin Email                                          │ https://domains.squarespace.com/whois-contact-form                          │
+│ Registry Tech ID                                     │                                                                             │
+│ Tech Name                                            │ REDACTED FOR PRIVACY                                                        │
+│ Tech Organization                                    │ First Consulting Group                                                      │
+│ Tech Street                                          │ REDACTED FOR PRIVACY                                                        │
+│ Tech City                                            │ REDACTED FOR PRIVACY                                                        │
+│ Tech State/Province                                  │ CA                                                                          │
+│ Tech Postal Code                                     │ REDACTED FOR PRIVACY                                                        │
+│ Tech Country                                         │ US                                                                          │
+│ Tech Phone                                           │ REDACTED FOR PRIVACY                                                        │
+│ Tech Phone Ext                                       │                                                                             │
+│ Tech Fax                                             │ REDACTED FOR PRIVACY                                                        │
+│ Tech Fax Ext                                         │                                                                             │
+│ Tech Email                                           │ https://domains.squarespace.com/whois-contact-form                          │
+│ Name Server                                          │ ns-cloud-e3.googledomains.com                                               │
+│ Name Server                                          │ ns-cloud-e4.googledomains.com                                               │
+│ Name Server                                          │ ns-cloud-e2.googledomains.com                                               │
+│ Name Server                                          │ ns-cloud-e1.googledomains.com                                               │
+│ DNSSEC                                               │ unsigned                                                                    │
+│ URL of the ICANN WHOIS Data Problem Reporting System │ http://wdprs.internic.net/                                                  │
+│ ****** Last update of WHOIS database                 │ 2024-09-26T22:42:02.495015Z                                                 │
+└──────────────────────────────────────────────────────┴─────────────────────────────────────────────────────────────────────────────┘
+
+[*] WHOIS lookup completed.
+
+
+=== Zone Transfer ===
+
+
+=============================================
+Argus - DNS Zone Transfer Module
+=============================================
+
+
+[*] Querying name servers for domain: ditrumy.com
+[*] Attempting zone transfer with ns-cloud-e3.googledomains.com....
+[!] An error occurred during zone transfer with ns-cloud-e3.googledomains.com.:
+[*] Attempting zone transfer with ns-cloud-e2.googledomains.com....
+[!] An error occurred during zone transfer with ns-cloud-e2.googledomains.com.:
+[*] Attempting zone transfer with ns-cloud-e4.googledomains.com....
+[!] An error occurred during zone transfer with ns-cloud-e4.googledomains.com.:
+[*] Attempting zone transfer with ns-cloud-e1.googledomains.com....
+[!] An error occurred during zone transfer with ns-cloud-e1.googledomains.com.:
+[!] No zone transfer records found for ditrumy.com.
+
+

@@ -1,0 +1,675 @@
+=== Censys Reconnaissance ===
+
+=============================================
+Argus - Censys Exposure Analyzer
+=============================================
+
+[!] Unauthorized. Check your Censys API credentials.
+[!] 162.159.152.4: Unauthorized
+[!] Unauthorized. Check your Censys API credentials.
+[!] 162.159.153.4: Unauthorized
+
+[*] Censys Recon completed.
+
+
+=== Certificate Authority Recon ===
+
+=============================================
+Argus - Advanced Certificate Recon
+=============================================
+
+[*] Fetching certificate details for: medium.com
+[!] Error retrieving certificate from medium.com: embedded null byte
+[!] No certificate details found for medium.com.
+[*] Certificate Authority Recon completed.
+
+
+=== Data Leak Detection ===
+
+=============================================
+Argus - Advanced Data Leak Checker
+=============================================
+
+[*] Checking data leaks for domain: medium.com
+[*] Checking admin@medium.com
+[*] Checking contact@medium.com
+[*] Checking info@medium.com
+[*] Checking support@medium.com
+[*] Checking sales@medium.com
+Breaches for support@medium.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+[*] Checking webmaster@medium.com
+Breaches for sales@medium.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for info@medium.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+[*] Checking postmaster@medium.com
+Breaches for admin@medium.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for contact@medium.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for webmaster@medium.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for postmaster@medium.com
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+[*] Data leak check completed.
+
+
+=== Exposed Environment Files Checker ===
+
+
+=============================================
+Argus - Exposed Environment Files Checker
+=============================================
+
+
+[*] Checking for publicly exposed environment files on medium.com...
+[!] Error checking .env: Invalid URL 'medium.com/.env': No scheme supplied. Perhaps you meant https://medium.com/.env?
+[!] Error checking env: Invalid URL 'medium.com/env': No scheme supplied. Perhaps you meant https://medium.com/env?
+[!] Error checking environment: Invalid URL 'medium.com/environment': No scheme supplied. Perhaps you meant https://medium.com/environment?
+[!] Error checking .env.php: Invalid URL 'medium.com/.env.php': No scheme supplied. Perhaps you meant https://medium.com/.env.php?
+[!] Error checking config.php: Invalid URL 'medium.com/config.php': No scheme supplied. Perhaps you meant https://medium.com/config.php?
+[!] Error checking config.yaml: Invalid URL 'medium.com/config.yaml': No scheme supplied. Perhaps you meant https://medium.com/config.yaml?
+[!] Error checking config.yml: Invalid URL 'medium.com/config.yml': No scheme supplied. Perhaps you meant https://medium.com/config.yml?
+[!] Error checking config.json: Invalid URL 'medium.com/config.json': No scheme supplied. Perhaps you meant https://medium.com/config.json?
+[!] Error checking config.ini: Invalid URL 'medium.com/config.ini': No scheme supplied. Perhaps you meant https://medium.com/config.ini?
+[!] Error checking localsettings.php: Invalid URL 'medium.com/localsettings.php': No scheme supplied. Perhaps you meant
+https://medium.com/localsettings.php?
+[!] Error checking settings.php: Invalid URL 'medium.com/settings.php': No scheme supplied. Perhaps you meant https://medium.com/settings.php?
+[!] Error checking db.php: Invalid URL 'medium.com/db.php': No scheme supplied. Perhaps you meant https://medium.com/db.php?
+[!] Error checking database.php: Invalid URL 'medium.com/database.php': No scheme supplied. Perhaps you meant https://medium.com/database.php?
+[!] Error checking wp-config.php: Invalid URL 'medium.com/wp-config.php': No scheme supplied. Perhaps you meant https://medium.com/wp-config.php?
+[!] Error checking appsettings.json: Invalid URL 'medium.com/appsettings.json': No scheme supplied. Perhaps you meant
+https://medium.com/appsettings.json?
+[!] Error checking web.config: Invalid URL 'medium.com/web.config': No scheme supplied. Perhaps you meant https://medium.com/web.config?
+[!] Error checking .git/config: Invalid URL 'medium.com/.git/config': No scheme supplied. Perhaps you meant https://medium.com/.git/config?
+[!] Error checking .svn/entries: Invalid URL 'medium.com/.svn/entries': No scheme supplied. Perhaps you meant https://medium.com/.svn/entries?
+[!] Error checking .hg/.hgignore: Invalid URL 'medium.com/.hg/.hgignore': No scheme supplied. Perhaps you meant https://medium.com/.hg/.hgignore?
+[!] Error checking .gitignore: Invalid URL 'medium.com/.gitignore': No scheme supplied. Perhaps you meant https://medium.com/.gitignore?
+[!] Error checking composer.lock: Invalid URL 'medium.com/composer.lock': No scheme supplied. Perhaps you meant https://medium.com/composer.lock?
+[!] Error checking package-lock.json: Invalid URL 'medium.com/package-lock.json': No scheme supplied. Perhaps you meant
+https://medium.com/package-lock.json?
+[!] Error checking yarn.lock: Invalid URL 'medium.com/yarn.lock': No scheme supplied. Perhaps you meant https://medium.com/yarn.lock?
+[!] Error checking Dockerfile: Invalid URL 'medium.com/Dockerfile': No scheme supplied. Perhaps you meant https://medium.com/Dockerfile?
+[!] Error checking docker-compose.yml: Invalid URL 'medium.com/docker-compose.yml': No scheme supplied. Perhaps you meant
+https://medium.com/docker-compose.yml?
+[!] Error checking Makefile: Invalid URL 'medium.com/Makefile': No scheme supplied. Perhaps you meant https://medium.com/Makefile?
+[!] Error checking requirements.txt: Invalid URL 'medium.com/requirements.txt': No scheme supplied. Perhaps you meant
+https://medium.com/requirements.txt?
+[!] Error checking Gemfile: Invalid URL 'medium.com/Gemfile': No scheme supplied. Perhaps you meant https://medium.com/Gemfile?
+[!] Error checking Pipfile: Invalid URL 'medium.com/Pipfile': No scheme supplied. Perhaps you meant https://medium.com/Pipfile?
+[!] Error checking Pipfile.lock: Invalid URL 'medium.com/Pipfile.lock': No scheme supplied. Perhaps you meant https://medium.com/Pipfile.lock?
+[!] Error checking setup.py: Invalid URL 'medium.com/setup.py': No scheme supplied. Perhaps you meant https://medium.com/setup.py?
+[!] Error checking phpinfo.php: Invalid URL 'medium.com/phpinfo.php': No scheme supplied. Perhaps you meant https://medium.com/phpinfo.php?
+[!] Error checking php.ini: Invalid URL 'medium.com/php.ini': No scheme supplied. Perhaps you meant https://medium.com/php.ini?
+[!] Error checking backup.sql: Invalid URL 'medium.com/backup.sql': No scheme supplied. Perhaps you meant https://medium.com/backup.sql?
+[!] Error checking dump.sql: Invalid URL 'medium.com/dump.sql': No scheme supplied. Perhaps you meant https://medium.com/dump.sql?
+[!] Error checking database.sql: Invalid URL 'medium.com/database.sql': No scheme supplied. Perhaps you meant https://medium.com/database.sql?
+[+] No publicly exposed environment files found.
+
+
+=== Firewall Detection ===
+
+=============================================
+Argus - Advanced Firewall Detection
+=============================================
+
+[*] Detecting firewall for: medium.com
+[!] Error retrieving firewall information: Invalid URL 'medium.com': No scheme supplied. Perhaps you meant https://medium.com?
+[!] No firewall information found.
+[*] Firewall detection completed.
+
+
+=== Global Ranking ===
+
+=============================================
+Argus - Global Ranking Analysis
+=============================================
+
+[*] Retrieving current Tranco list ID...
+[*] Fetching global ranking for: medium.com
+[!] medium.com is not ranked in the current Tranco list.
+[*] Global ranking analysis completed.
+
+
+=== HTTP Headers ===
+
+=============================================
+Argus - Advanced HTTP Header Analysis
+=============================================
+
+[*] Fetching HTTP headers for: http://medium.com
+[*] Displaying HTTP headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Header                        ┃ Value                                                                                                               ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Date                          │ Sat, 26 Oct 2024 08:05:20 GMT                                                                                       │
+│ Content-Type                  │ text/html; charset=utf-8                                                                                            │
+│ Transfer-Encoding             │ chunked                                                                                                             │
+│ Connection                    │ keep-alive                                                                                                          │
+│ CF-Ray                        │ 8d88f0cffa7a2b61-LAX                                                                                                │
+│ CF-Cache-Status               │ HIT                                                                                                                 │
+│ Age                           │ 53400                                                                                                               │
+│ Cache-Control                 │ no-cache, no-store, max-age=0, must-revalidate                                                                      │
+│ Expires                       │ Sun, 27 Oct 2024 08:05:20 GMT                                                                                       │
+│ Link                          │ <https://glyph.medium.com/css/unbound.css>; as="style"; rel="preload"                                               │
+│ Set-Cookie                    │ uid=lo_ff7066a1f005; Domain=medium.com; Path=/; Expires=Sun, 26 Oct 2025 08:05:20 GMT; HttpOnly; Secure;            │
+│                               │ SameSite=None, _cfuvid=_2xGdg97nC6Hckt3MR3KDrZMMTQzZD1z9sJ5NIcoCaA-1729929920037-0.0.1.1-604800000; path=/;         │
+│                               │ domain=.medium.com; HttpOnly; Secure; SameSite=None                                                                 │
+│ Strict-Transport-Security     │ max-age=31536000; includeSubDomains; preload                                                                        │
+│ Vary                          │ Accept-Encoding                                                                                                     │
+│ content-security-policy       │ frame-ancestors 'self' https://medium.com                                                                           │
+│ medium-fulfilled-by           │ edgy/8.8.0, valencia/main-20241017-004327-9343e2f888, lite/main-20241017-182126-a0128a89d2,                         │
+│                               │ rito/main-20241023-182507-bd239204a4                                                                                │
+│ medium-missing-time           │ 65                                                                                                                  │
+│ worker-cache-key              │ medium.com/?li=false&gate-enable_update_topic_portals_wtf=true&gate-enable_indexeddb=true                           │
+│ worker-cache-middleware       │ true                                                                                                                │
+│ worker-missing-cookies        │ 1                                                                                                                   │
+│ X-Content-Type-Options        │ nosniff                                                                                                             │
+│ x-envoy-upstream-service-time │ 103                                                                                                                 │
+│ x-request-received-at         │ 1729797078282                                                                                                       │
+│ Server                        │ cloudflare                                                                                                          │
+│ Content-Encoding              │ gzip                                                                                                                │
+│ alt-svc                       │ h3=":443"; ma=86400                                                                                                 │
+└───────────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+[*] Analyzing security headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Security Header           ┃ Status     ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ Content-Security-Policy   │ Configured │
+│ Strict-Transport-Security │ Configured │
+│ X-Content-Type-Options    │ Configured │
+│ X-Frame-Options           │ Not Set    │
+│ X-XSS-Protection          │ Not Set    │
+│ Referrer-Policy           │ Not Set    │
+│ Permissions-Policy        │ Not Set    │
+└───────────────────────────┴────────────┘
+[!] Missing Security Headers: X-Frame-Options, X-XSS-Protection, Referrer-Policy, Permissions-Policy
+[*] Detecting server technology...
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┓
+┃ Server     ┃ Detected Technology ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━┩
+│ cloudflare │ Cloudflare CDN      │
+└────────────┴─────────────────────┘
+[*] Scanning for vulnerabilities based on headers...
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Vulnerability  ┃ Issue                                                ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Security Issue │ Content-Security-Policy is not restrictive enough    │
+│ Security Issue │ X-Frame-Options is not set to 'DENY' or 'SAMEORIGIN' │
+└────────────────┴──────────────────────────────────────────────────────┘
+[*] Analyzing cookies for security flags...
+[*] Analyzing cookies for security flags...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Cookie                                                                              ┃ Attributes                      ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ uid=lo_ff7066a1f005                                                                 │ None                            │
+│ 26 Oct 2025 08:05:20 GMT                                                            │ HttpOnly, Secure, SameSite=None │
+│ _cfuvid=_2xGdg97nC6Hckt3MR3KDrZMMTQzZD1z9sJ5NIcoCaA-1729929920037-0.0.1.1-604800000 │ HttpOnly, Secure, SameSite=None │
+└─────────────────────────────────────────────────────────────────────────────────────┴─────────────────────────────────┘
+[*] Detecting frameworks based on response content...
+[!] No common frameworks detected.
+[*] HTTP header analysis completed.
+
+
+=== HTTP Security Features ===
+
+=============================================
+Argus - Advanced HTTP Security Headers Check
+=============================================
+
+[*] Fetching HTTP headers for: http://medium.com
+[*] Displaying HTTP headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Header                        ┃ Value                                                                                                               ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Date                          │ Sat, 26 Oct 2024 08:05:21 GMT                                                                                       │
+│ Content-Type                  │ text/html; charset=utf-8                                                                                            │
+│ Transfer-Encoding             │ chunked                                                                                                             │
+│ Connection                    │ keep-alive                                                                                                          │
+│ CF-Ray                        │ 8d88f0d8df957cd1-LAX                                                                                                │
+│ CF-Cache-Status               │ HIT                                                                                                                 │
+│ Age                           │ 53401                                                                                                               │
+│ Cache-Control                 │ no-cache, no-store, max-age=0, must-revalidate                                                                      │
+│ Expires                       │ Sun, 27 Oct 2024 08:05:21 GMT                                                                                       │
+│ Link                          │ <https://glyph.medium.com/css/unbound.css>; as="style"; rel="preload"                                               │
+│ Set-Cookie                    │ uid=lo_2dbd3b87d7eb; Domain=medium.com; Path=/; Expires=Sun, 26 Oct 2025 08:05:21 GMT; HttpOnly; Secure;            │
+│                               │ SameSite=None, _cfuvid=B0r1E4ipi3Jy6Bff5p_lkAJtXbL2HSPfDMPSPsRzY6U-1729929921462-0.0.1.1-604800000; path=/;         │
+│                               │ domain=.medium.com; HttpOnly; Secure; SameSite=None                                                                 │
+│ Strict-Transport-Security     │ max-age=31536000; includeSubDomains; preload                                                                        │
+│ Vary                          │ Accept-Encoding                                                                                                     │
+│ content-security-policy       │ frame-ancestors 'self' https://medium.com                                                                           │
+│ medium-fulfilled-by           │ edgy/8.8.0, valencia/main-20241017-004327-9343e2f888, lite/main-20241017-182126-a0128a89d2,                         │
+│                               │ rito/main-20241023-182507-bd239204a4                                                                                │
+│ medium-missing-time           │ 65                                                                                                                  │
+│ worker-cache-key              │ medium.com/?li=false&gate-enable_update_topic_portals_wtf=true&gate-enable_indexeddb=true                           │
+│ worker-cache-middleware       │ true                                                                                                                │
+│ worker-missing-cookies        │ 1                                                                                                                   │
+│ X-Content-Type-Options        │ nosniff                                                                                                             │
+│ x-envoy-upstream-service-time │ 103                                                                                                                 │
+│ x-request-received-at         │ 1729797078282                                                                                                       │
+│ Server                        │ cloudflare                                                                                                          │
+│ Content-Encoding              │ gzip                                                                                                                │
+│ alt-svc                       │ h3=":443"; ma=86400                                                                                                 │
+└───────────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+[*] Analyzing security headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Security Header           ┃ Status     ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ Content-Security-Policy   │ Configured │
+│ Strict-Transport-Security │ Configured │
+│ X-Content-Type-Options    │ Configured │
+│ X-Frame-Options           │ Not Set    │
+│ X-XSS-Protection          │ Not Set    │
+│ Referrer-Policy           │ Not Set    │
+│ Permissions-Policy        │ Not Set    │
+└───────────────────────────┴────────────┘
+[!] Missing Security Headers: X-Frame-Options, X-XSS-Protection, Referrer-Policy, Permissions-Policy
+[*] Detecting server technology...
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┓
+┃ Server     ┃ Detected Technology ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━┩
+│ cloudflare │ Cloudflare CDN      │
+└────────────┴─────────────────────┘
+[*] Scanning for vulnerabilities based on headers...
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Vulnerability  ┃ Issue                                                ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Security Issue │ Content-Security-Policy is not restrictive enough    │
+│ Security Issue │ X-Frame-Options is not set to 'DENY' or 'SAMEORIGIN' │
+└────────────────┴──────────────────────────────────────────────────────┘
+[*] Analyzing cookies for security flags...
+[*] Analyzing cookies for security flags...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Cookie                                                                              ┃ Attributes                      ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ uid=lo_2dbd3b87d7eb                                                                 │ None                            │
+│ 26 Oct 2025 08:05:21 GMT                                                            │ HttpOnly, Secure, SameSite=None │
+│ _cfuvid=B0r1E4ipi3Jy6Bff5p_lkAJtXbL2HSPfDMPSPsRzY6U-1729929921462-0.0.1.1-604800000 │ HttpOnly, Secure, SameSite=None │
+└─────────────────────────────────────────────────────────────────────────────────────┴─────────────────────────────────┘
+[*] Detecting frameworks based on response content...
+[!] No common frameworks detected.
+[*] HTTP header analysis completed.
+
+
+=== Malware & Phishing Check ===
+
+=============================================
+Argus - Advanced Malware & Phishing Check
+=============================================
+
+[*] Checking for malware and phishing threats for: http://medium.com
+[*] Performing heuristic analysis...
+[+] No suspicious keywords found in URL path.
+[*] Performing additional heuristic checks...
+[!] URL does not use HTTPS. Potential security risk.
+[*] Checking URLhaus...
+[+] URL not found in URLhaus database.
+[*] Checking against public blacklist services...
+[+] IP not found in public blacklist services.
+[*] Checking VirusTotal...
+[!] VirusTotal scan failed with status code No Response.
+
+[*] Malware & Phishing checks completed.
+
+
+
+=== Pastebin Monitoring ===
+
+=============================================
+Argus - Advanced Paste Monitoring
+=============================================
+
+[*] Monitoring paste sites for query: medium.com
+[*] Searching Pastebin - Page 1...
+[*] Searching Ghostbin - Page 1...
+[*] Searching Paste.ee - Page 1...
+[*] Searching ControlC - Page 1...
+[*] Searching Paste.org - Page 1...
+[!] POST request to https://api.paste.ee/v1/pastes/search failed with status 405.
+[!] Failed to fetch https://pastebin.com/search with status 403.
+[!] No more results found on ControlC at page 1.
+[!] Error fetching https://ghostbin.com/search: Cannot connect to host pst.klgrth.io:443 ssl:default
+[*] Searching Paste.ee - Page 2...
+[*] Searching Pastebin - Page 2...
+[!] POST request to https://api.paste.ee/v1/pastes/search failed with status 405.
+[*] Searching Ghostbin - Page 2...
+[!] Error fetching https://ghostbin.com/search: Cannot connect to host pst.klgrth.io:443 ssl:default
+[!] Failed to fetch https://pastebin.com/search with status 403.
+[!] No more results found on Paste.org at page 1.
+[!] No pastes found for the given query.
+[*] Paste monitoring completed.
+
+
+=== Privacy & GDPR Compliance ===
+
+=============================================
+Argus - Privacy & GDPR Compliance
+=============================================
+
+[*] Checking Privacy Policy, GDPR Compliance, and Cookie Policy for: http://medium.com
+[*] Privacy Policy URL: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+[*] GDPR Compliance URL: http://medium.com/gdpr-compliance
+[*] Cookie Policy URL: http://medium.com/cookie-policy
+[!] Privacy Policy Not Found at https://policy.medium.com/medium-privacy-policy-f03bf92035c9 (Status Code: 429)
+[+] GDPR Compliance Found: http://medium.com/gdpr-compliance
+[+] GDPR Compliance Keywords Found: gdpr
+[+] Cookie Policy Found: http://medium.com/cookie-policy
+[+] Cookie Policy Keywords Found: cookie policy, cookies
+┏━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Check           ┃ Result    ┃ Compliance ┃
+┡━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ Privacy Policy  │ Not Found │ No         │
+│ GDPR Compliance │ Found     │ Yes        │
+│ Cookie Policy   │ Found     │ Yes        │
+└─────────────────┴───────────┴────────────┘
+[*] Privacy & GDPR compliance check completed.
+
+
+=== Security.txt Check ===
+
+=============================================
+Argus - Security.txt Detection
+=============================================
+
+[*] Fetching security.txt for: http://medium.com
+[!] No security.txt file found.
+[*] Security.txt detection and analysis completed.
+
+
+=== Shodan Reconnaissance ===
+
+=============================================
+Argus - Shodan Exposure Analyzer
+=============================================
+
+[!] 162.159.153.4: Unauthorized. Check your Shodan API key.
+[!] 162.159.153.4: Unauthorized. Check your Shodan API key.
+
+[*] Shodan Recon completed.
+
+
+=== SSL Labs Report ===
+
+=============================================
+Argus - Advanced SSL Labs Scanner
+=============================================
+
+[*] Fetching SSL Labs report for: medium.com
+SSL Labs Report for medium.com [162.159.152.4]
+╭──────────────────────────┬──────────────────╮
+│ Field                    │ Details          │
+├──────────────────────────┼──────────────────┤
+│ Grade                    │ A+               │
+│ Protocols Supported      │ TLS 1.2, TLS 1.3 │
+│ Cipher Suites            │                  │
+│ Server Signature         │ cloudflare       │
+│ OCSP Stapling            │ Yes              │
+│ HSTS Policy              │ present          │
+│ Vulnerable to BEAST      │ No               │
+│ POODLE TLS               │ 1                │
+│ Heartbleed Vulnerability │ No               │
+│ Supports RC4             │ No               │
+╰──────────────────────────┴──────────────────╯
+SSL Labs Report for medium.com [162.159.153.4]
+╭──────────────────────────┬──────────────────╮
+│ Field                    │ Details          │
+├──────────────────────────┼──────────────────┤
+│ Grade                    │ A+               │
+│ Protocols Supported      │ TLS 1.2, TLS 1.3 │
+│ Cipher Suites            │                  │
+│ Server Signature         │ cloudflare       │
+│ OCSP Stapling            │ Yes              │
+│ HSTS Policy              │ present          │
+│ Vulnerable to BEAST      │ No               │
+│ POODLE TLS               │ 1                │
+│ Heartbleed Vulnerability │ No               │
+│ Supports RC4             │ No               │
+╰──────────────────────────┴──────────────────╯
+SSL Labs Report for medium.com
+[2606:4700:7:0:0:0:a29f:9804]
+╭──────────────────────────┬──────────────────╮
+│ Field                    │ Details          │
+├──────────────────────────┼──────────────────┤
+│ Grade                    │ A+               │
+│ Protocols Supported      │ TLS 1.2, TLS 1.3 │
+│ Cipher Suites            │                  │
+│ Server Signature         │ cloudflare       │
+│ OCSP Stapling            │ Yes              │
+│ HSTS Policy              │ present          │
+│ Vulnerable to BEAST      │ No               │
+│ POODLE TLS               │ 1                │
+│ Heartbleed Vulnerability │ No               │
+│ Supports RC4             │ No               │
+╰──────────────────────────┴──────────────────╯
+SSL Labs Report for medium.com
+[2606:4700:7:0:0:0:a29f:9904]
+╭──────────────────────────┬──────────────────╮
+│ Field                    │ Details          │
+├──────────────────────────┼──────────────────┤
+│ Grade                    │ A+               │
+│ Protocols Supported      │ TLS 1.2, TLS 1.3 │
+│ Cipher Suites            │                  │
+│ Server Signature         │ cloudflare       │
+│ OCSP Stapling            │ Yes              │
+│ HSTS Policy              │ present          │
+│ Vulnerable to BEAST      │ No               │
+│ POODLE TLS               │ 1                │
+│ Heartbleed Vulnerability │ No               │
+│ Supports RC4             │ No               │
+╰──────────────────────────┴──────────────────╯
+[*] SSL Labs analysis completed.
+
+
+=== SSL Pinning Check ===
+
+=============================================
+Argus - Advanced SSL Pinning Check
+=============================================
+
+[*] Checking SSL pinning for: medium.com
+SSL Pinning Check for medium.com
+╭────────────┬────────────────────╮
+│ Domain     │ SSL Pinning Status │
+├────────────┼────────────────────┤
+│ medium.com │ Not Enabled        │
+╰────────────┴────────────────────╯
+[*] SSL pinning check completed.
+
+
+=== Subdomain Enumeration ===
+
+=============================================
+Argus - Subdomain Enumeration (crt.sh)
+=============================================
+
+[*] Fetching subdomains for: medium.com
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Subdomains                       ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ url104.mail.medium.com           │
+│ jss.medium.com                   │
+│ cdn-videos-1.medium.com          │
+│ cdn-videos.medium.com            │
+│ go.medium.com                    │
+│ link.medium.com                  │
+│ medium.com                       │
+│ medium.com                       │
+│ www.medium.com                   │
+│ help.medium.com                  │
+│ *.medium.com                     │
+│ medium.com                       │
+│ read.medium.com                  │
+│ voyant--medium.com               │
+│ url2204.mail.medium.com          │
+│ cpanel.elonmusk--medium.com      │
+│ cpcalendars.elonmusk--medium.com │
+│ cpcontacts.elonmusk--medium.com  │
+│ elonmusk--medium.com             │
+│ mail.elonmusk--medium.com        │
+│ webdisk.elonmusk--medium.com     │
+│ webmail.elonmusk--medium.com     │
+│ www.elonmusk--medium.com         │
+│ 37114207.mail.medium.com         │
+│ www.voyant--medium.com           │
+│ url9532.mail.medium.com          │
+│ cdn-audio-1.medium.com           │
+└──────────────────────────────────┘
+[*] Subdomain enumeration completed.
+
+
+=== Subdomain Takeover ===
+
+=============================================
+Argus - Advanced Subdomain Takeover Detection
+=============================================
+
+[*] Fetching subdomains for medium.com from crt.sh...
+[+] Found 25 subdomains for medium.com.
+[*] Checking mail.elonmusk--medium.com (HTTP)...
+[*] Checking cpanel.elonmusk--medium.com (HTTP)...
+[*] Checking medium.com (HTTP)...
+[*] Checking read.medium.com (HTTP)...
+[*] Checking url104.mail.medium.com (HTTP)...
+[*] Checking cpcontacts.elonmusk--medium.com (HTTP)...
+[*] Checking url2204.mail.medium.com (HTTP)...
+[*] Checking cpcalendars.elonmusk--medium.com (HTTP)...
+[*] Checking url9532.mail.medium.com (HTTP)...
+[*] Checking elonmusk--medium.com (HTTP)...
+[*] Checking voyant--medium.com (HTTP)...
+[*] Checking cdn-videos-1.medium.com (HTTP)...
+[*] Checking webdisk.elonmusk--medium.com (HTTP)...
+[*] Checking cdn-audio-1.medium.com (HTTP)...
+[*] Checking webmail.elonmusk--medium.com (HTTP)...
+[*] Checking 37114207.mail.medium.com (HTTP)...
+[*] Checking www.elonmusk--medium.com (HTTP)...
+[*] Checking www.medium.com (HTTP)...
+[*] Checking cdn-videos.medium.com (HTTP)...
+[*] Checking www.voyant--medium.com (HTTP)...
+[!] Error accessing: url9532.mail.medium.com (HTTP)
+[*] Checking url9532.mail.medium.com (HTTPS)...
+[!] Error accessing: url9532.mail.medium.com (HTTPS)
+[*] Checking go.medium.com (HTTP)...
+[!] Error accessing: url104.mail.medium.com (HTTP)
+[*] Checking url104.mail.medium.com (HTTPS)...
+[!] Error accessing: url104.mail.medium.com (HTTPS)
+[*] Checking help.medium.com (HTTP)...
+[!] Error accessing: webdisk.elonmusk--medium.com (HTTP)
+[*] Checking webdisk.elonmusk--medium.com (HTTPS)...
+[!] Error accessing: webdisk.elonmusk--medium.com (HTTPS)
+[*] Checking jss.medium.com (HTTP)...
+[!] Error accessing: mail.elonmusk--medium.com (HTTP)
+[*] Checking mail.elonmusk--medium.com (HTTPS)...
+[!] Error accessing: mail.elonmusk--medium.com (HTTPS)
+[*] Checking *.medium.com (HTTP)...
+[!] Error accessing: voyant--medium.com (HTTP)
+[*] Checking voyant--medium.com (HTTPS)...
+[!] Error accessing: voyant--medium.com (HTTPS)
+[*] Checking link.medium.com (HTTP)...
+[!] Error accessing: cpcontacts.elonmusk--medium.com (HTTP)
+[*] Checking cpcontacts.elonmusk--medium.com (HTTPS)...
+[!] Error accessing: cpcontacts.elonmusk--medium.com (HTTPS)
+[!] Error accessing: cpcalendars.elonmusk--medium.com (HTTP)
+[*] Checking cpcalendars.elonmusk--medium.com (HTTPS)...
+[!] Error accessing: cpcalendars.elonmusk--medium.com (HTTPS)
+[!] Error accessing: elonmusk--medium.com (HTTP)
+[*] Checking elonmusk--medium.com (HTTPS)...
+[!] Error accessing: elonmusk--medium.com (HTTPS)
+[!] Error accessing: www.voyant--medium.com (HTTP)
+[*] Checking www.voyant--medium.com (HTTPS)...
+[!] Error accessing: www.voyant--medium.com (HTTPS)
+[!] Error accessing: webmail.elonmusk--medium.com (HTTP)
+[*] Checking webmail.elonmusk--medium.com (HTTPS)...
+[!] Error accessing: webmail.elonmusk--medium.com (HTTPS)
+[!] Error accessing: cpanel.elonmusk--medium.com (HTTP)
+[*] Checking cpanel.elonmusk--medium.com (HTTPS)...
+[!] Error accessing: cpanel.elonmusk--medium.com (HTTPS)
+[!] Error accessing: www.elonmusk--medium.com (HTTP)
+[*] Checking www.elonmusk--medium.com (HTTPS)...
+[!] Error accessing: www.elonmusk--medium.com (HTTPS)
+[+] Safe: cdn-audio-1.medium.com (HTTP)
+[*] Checking cdn-audio-1.medium.com (HTTPS)...
+[+] Safe: cdn-videos-1.medium.com (HTTP)
+[*] Checking cdn-videos-1.medium.com (HTTPS)...
+[+] Safe: *.medium.com (HTTP)
+[*] Checking *.medium.com (HTTPS)...
+[+] Safe: link.medium.com (HTTP)
+[*] Checking link.medium.com (HTTPS)...
+[+] Safe: *.medium.com (HTTPS)
+[+] Safe: 37114207.mail.medium.com (HTTP)
+[*] Checking 37114207.mail.medium.com (HTTPS)...
+[!] Error accessing: read.medium.com (HTTP)
+[*] Checking read.medium.com (HTTPS)...
+[+] Safe: medium.com (HTTP)
+[*] Checking medium.com (HTTPS)...
+[+] Safe: www.medium.com (HTTP)
+[*] Checking www.medium.com (HTTPS)...
+[+] Safe: link.medium.com (HTTPS)
+[!] Error accessing: read.medium.com (HTTPS)
+[+] Safe: medium.com (HTTPS)
+[+] Safe: www.medium.com (HTTPS)
+[+] Safe: cdn-audio-1.medium.com (HTTPS)
+[+] Safe: help.medium.com (HTTP)
+[*] Checking help.medium.com (HTTPS)...
+[+] Safe: go.medium.com (HTTP)
+[*] Checking go.medium.com (HTTPS)...
+[!] Error accessing: cdn-videos-1.medium.com (HTTPS)
+[+] Safe: url2204.mail.medium.com (HTTP)
+[*] Checking url2204.mail.medium.com (HTTPS)...
+[+] Safe: cdn-videos.medium.com (HTTP)
+[*] Checking cdn-videos.medium.com (HTTPS)...
+[+] Safe: help.medium.com (HTTPS)
+[+] Safe: go.medium.com (HTTPS)
+[!] Error accessing: jss.medium.com (HTTP)
+[*] Checking jss.medium.com (HTTPS)...
+[+] Safe: url2204.mail.medium.com (HTTPS)
+[+] Safe: cdn-videos.medium.com (HTTPS)
+[!] Error accessing: jss.medium.com (HTTPS)
+[!] Error accessing: 37114207.mail.medium.com (HTTPS)
+[+] No vulnerable subdomains found.
+[*] Subdomain takeover check completed.
+
+
+=== VirusTotal Scan ===
+
+=============================================
+Argus - VirusTotal Scan Module
+=============================================
+
+[*] Initiating VirusTotal scans for 1 URL(s)...
+[*] Scanning URL: http://medium.com
+[!] Error: Received status code 403 for URL: http://medium.com
+[*] Processing results for: http://medium.com
+[!] No data to display for URL: http://medium.com
+
+[!] An unexpected error occurred: 'str' object has no attribute 'substitute'
+
+
