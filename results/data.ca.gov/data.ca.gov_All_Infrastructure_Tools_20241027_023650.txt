@@ -1,0 +1,760 @@
+=== Associated Hosts ===
+
+=============================================
+Argus - Associated Hosts Detection
+=============================================
+
+[*] Detecting associated hosts for: data.ca.gov
+
+[*] Associated Hosts:
+============================================================
+data.cityofdenton.com
+ogopendata.com
+============================================================
+[*] Associated hosts detection completed.
+
+
+=== DNS Over HTTPS ===
+
+=============================================
+Argus - DNS Over HTTPS (DoH) Check
+=============================================
+
+[!] Invalid domain format. Please check the domain and try again.
+
+
+=== DNS Records ===
+
+=============================================
+Argus - DNS Records Check
+=============================================
+
+[!] Invalid domain format. Please check the domain and try again.
+
+
+=== DNSSEC Check ===
+
+=============================================
+Argus - DNSSEC Check
+=============================================
+
+[!] Invalid domain format. Please check the domain and try again.
+
+
+=== Domain Info ===
+
+=============================================
+Argus - Domain Information
+=============================================
+
+[!] Invalid domain format. Please check the domain and try again.
+
+
+=== Domain Reputation Check ===
+
+=============================================
+Argus - Advanced Domain Reputation Check
+=============================================
+
+[*] Checking reputation for domain: data.ca.gov
+[!] Error retrieving domain reputation for data.ca.gov: 401 Client Error: Unauthorized for url:
+https://www.virustotal.com/api/v3/domains/data.ca.gov
+[!] No reputation data available for data.ca.gov.
+[*] Domain Reputation Check completed.
+
+
+=== HTTP/2 and HTTP/3 Support Checker ===
+
+
+=================================================
+Argus - HTTP/2 and HTTP/3 Support Checker
+=================================================
+
+
+[*] Checking for HTTP/2 support on https://data.ca.gov...
+[-] HTTP/2 is not supported.
+[*] Checking for HTTP/3 support on https://data.ca.gov...
+[+] HTTP/3 is supported.
+
+
+=== IP Info ===
+
+=============================================
+Argus - IP Information
+=============================================
+
+[*] Fetching IP info for: data.ca.gov
+┏━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Key             ┃ Value                                              ┃
+┡━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ status          │ success                                            │
+│ country         │ United States                                      │
+│ countryCode     │ US                                                 │
+│ region          │ VA                                                 │
+│ regionName      │ Virginia                                           │
+│ city            │ Chantilly                                          │
+│ zip             │ 20151                                              │
+│ lat             │ 38.9097                                            │
+│ lon             │ -77.4524                                           │
+│ timezone        │ America/New_York                                   │
+│ isp             │ American Registry Internet Numbers                 │
+│ org             │ American Registry Internet Numbers                 │
+│ as              │ AS13335 Cloudflare, Inc.                           │
+│ query           │ 104.19.219.112                                     │
+│ map_link        │ https://www.google.com/maps?q=38.9097,-77.4524     │
+└─────────────────┴────────────────────────────────────────────────────┘
+
+[+] View location on map: https://www.google.com/maps?q=38.9097,-77.4524
+[*] IP info retrieval completed.
+
+
+=== Open Ports Scan ===
+
+=============================================
+Argus - Open Ports Scanning
+=============================================
+
+[*] Scanning open ports for: data.ca.gov
+┏━━━━━━━━━━━━┓
+┃ Open Ports ┃
+┡━━━━━━━━━━━━┩
+│ 80         │
+│ 443        │
+└────────────┘
+[*] Open ports scanning completed.
+
+
+=== Server Info ===
+
+=============================================
+Argus - Server Information
+=============================================
+
+[!] 'data.ca.gov' is not a valid IP address, attempting to resolve to an IP...
+[+] Resolved domain 'data.ca.gov' to IP: 104.19.218.112
+[*] Fetching server information for: 104.19.218.112
+┏━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Field       ┃ Details                            ┃
+┡━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ status      │ success                            │
+│ country     │ United States                      │
+│ countryCode │ US                                 │
+│ region      │ VA                                 │
+│ regionName  │ Virginia                           │
+│ city        │ Chantilly                          │
+│ zip         │ 20151                              │
+│ lat         │ 38.9097                            │
+│ lon         │ -77.4524                           │
+│ timezone    │ America/New_York                   │
+│ isp         │ American Registry Internet Numbers │
+│ org         │ American Registry Internet Numbers │
+│ as          │ AS13335 Cloudflare, Inc.           │
+│ query       │ 104.19.218.112                     │
+└─────────────┴────────────────────────────────────┘
+[*] Server information retrieval completed.
+
+
+=== Server Location ===
+
+=============================================
+Argus - Server Location Detection
+=============================================
+
+[!] Invalid IP address. Please check the input and try again.
+
+
+=== SSL Chain Analysis ===
+
+=============================================
+Argus - SSL Chain Check
+=============================================
+
+[!] Invalid domain format. Please check the domain and try again.
+
+
+=== SSL Expiry Alert ===
+
+=============================================
+Argus - Advanced SSL Expiry Check
+=============================================
+
+╭────────────────────┬─────────────────────╮
+│ SSL Expiry Details │ Value               │
+├────────────────────┼─────────────────────┤
+│ Domain             │ data.ca.gov         │
+│ Expiry Date        │ 2024-12-31 23:59:59 │
+│ Days Left          │ 65                  │
+╰────────────────────┴─────────────────────╯
+╭────────────────────────┬──────────────────────────────────────────────────────────────────────────────────────────╮
+│ Attribute              │ Details                                                                                  │
+├────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────┤
+│ Subject                │ countryName=US, stateOrProvinceName=California, localityName=San Francisco,              │
+│                        │ organizationName=Cloudflare, Inc., commonName=data.ca.gov                                │
+│ Issuer                 │ countryName=US, organizationName=Cloudflare, Inc., commonName=Cloudflare Inc ECC CA-3    │
+│ Valid From             │ Feb 29 00:00:00 2024 GMT                                                                 │
+│ Valid Until            │ Dec 31 23:59:59 2024 GMT                                                                 │
+│ Validity Period (Days) │ 306                                                                                      │
+│ Days Until Expiry      │ 65                                                                                       │
+│ Serial Number          │ 0FFE4AE980536E4A0235A8B59268A78C                                                         │
+│ Version                │ 3                                                                                        │
+│ Signature Algorithm    │ N/A                                                                                      │
+╰────────────────────────┴──────────────────────────────────────────────────────────────────────────────────────────╯
+SSL Expiry Statistics
+╭───────────────────────────┬───────╮
+│ Metric                    │ Value │
+├───────────────────────────┼───────┤
+│ Total Domains Checked     │ 1     │
+│ Successfully Scanned      │ 1     │
+│ Failed to Scan            │ 0     │
+│ Expired Certificates      │ 0     │
+│ Expiring Within 30 Days   │ 0     │
+│ Healthy Certificates      │ 1     │
+│ Average Days Until Expiry │ 65.00 │
+╰───────────────────────────┴───────╯
+[*] SSL expiry check completed.
+
+
+=== TLS Cipher Suites ===
+
+=============================================
+Argus - Advanced TLS Cipher Analysis
+=============================================
+
+[*] Fetching TLS cipher suites for: data.ca.gov
+Supported Cipher Suites for data.ca.gov
+╭────────────────────────────────┬──────────────────╮
+│ Cipher Suite                   │ Protocol Version │
+├────────────────────────────────┼──────────────────┤
+│ AES256-SHA                     │ TLSv1.2          │
+│ ECDHE-RSA-AES128-GCM-SHA256    │ TLSv1.2          │
+│ AES256-GCM-SHA384              │ TLSv1.2          │
+│ ECDHE-RSA-AES128-SHA           │ TLSv1.2          │
+│ AES128-SHA256                  │ TLSv1.2          │
+│ ECDHE-ECDSA-AES128-SHA         │ TLSv1.2          │
+│ AES128-SHA                     │ TLSv1.2          │
+│ ECDHE-ECDSA-AES256-GCM-SHA384  │ TLSv1.2          │
+│ ECDHE-RSA-AES128-SHA256        │ TLSv1.2          │
+│ ECDHE-RSA-AES256-SHA384        │ TLSv1.2          │
+│ AES128-GCM-SHA256              │ TLSv1.2          │
+│ ECDHE-ECDSA-AES256-SHA384      │ TLSv1.2          │
+│ ECDHE-RSA-AES256-SHA           │ TLSv1.2          │
+│ ECDHE-ECDSA-CHACHA20-POLY1305  │ TLSv1.2          │
+│ AES256-SHA256                  │ TLSv1.2          │
+│ ECDHE-ECDSA-AES256-SHA         │ TLSv1.2          │
+│ ECDHE-RSA-AES256-GCM-SHA384    │ TLSv1.2          │
+│ ECDHE-ECDSA-AES128-GCM-SHA256  │ TLSv1.2          │
+│ DHE-DSS-CAMELLIA256-SHA        │ TLSv1.3          │
+│ DHE-RSA-AES128-CCM             │ TLSv1.3          │
+│ ADH-AES128-SHA                 │ TLSv1.3          │
+│ DHE-DSS-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA256    │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA            │ TLSv1.3          │
+│ DHE-RSA-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ RSA-PSK-CHACHA20-POLY1305      │ TLSv1.3          │
+│ AES256-SHA                     │ TLSv1.3          │
+│ ECDHE-RSA-AES128-GCM-SHA256    │ TLSv1.3          │
+│ CAMELLIA128-SHA                │ TLSv1.3          │
+│ DHE-RSA-AES256-CCM             │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA384    │ TLSv1.3          │
+│ ARIA256-GCM-SHA384             │ TLSv1.3          │
+│ ECDHE-RSA-CHACHA20-POLY1305    │ TLSv1.2          │
+│ PSK-ARIA128-GCM-SHA256         │ TLSv1.3          │
+│ DHE-DSS-AES128-SHA             │ TLSv1.3          │
+│ ARIA128-GCM-SHA256             │ TLSv1.3          │
+│ ECDHE-RSA-AES128-SHA           │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA       │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-SHA256      │ TLSv1.2          │
+│ AES256-GCM-SHA384              │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ ADH-AES256-GCM-SHA384          │ TLSv1.3          │
+│ AECDH-AES256-SHA               │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-SHA         │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ AES128-SHA256                  │ TLSv1.3          │
+│ DHE-PSK-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ AES128-SHA                     │ TLSv1.3          │
+│ AES128-CCM                     │ TLSv1.3          │
+│ SRP-AES-256-CBC-SHA            │ TLSv1.3          │
+│ DHE-RSA-AES256-SHA256          │ TLSv1.3          │
+│ DHE-DSS-AES256-GCM-SHA384      │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA        │ TLSv1.3          │
+│ DHE-DSS-AES128-SHA256          │ TLSv1.3          │
+│ PSK-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA        │ TLSv1.3          │
+│ DHE-PSK-AES256-CCM8            │ TLSv1.3          │
+│ DHE-DSS-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ DHE-PSK-CHACHA20-POLY1305      │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-CCM8        │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ DHE-PSK-AES256-GCM-SHA384      │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-GCM-SHA384  │ TLSv1.3          │
+│ DHE-RSA-AES128-GCM-SHA256      │ TLSv1.3          │
+│ ADH-AES128-SHA256              │ TLSv1.3          │
+│ ECDHE-RSA-AES128-SHA256        │ TLSv1.3          │
+│ SRP-RSA-AES-128-CBC-SHA        │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ ADH-AES128-GCM-SHA256          │ TLSv1.3          │
+│ AECDH-AES128-SHA               │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ PSK-ARIA256-GCM-SHA384         │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA       │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ DHE-RSA-AES256-CCM8            │ TLSv1.3          │
+│ DHE-PSK-AES128-CCM             │ TLSv1.3          │
+│ DHE-RSA-AES128-CCM8            │ TLSv1.3          │
+│ PSK-AES256-GCM-SHA384          │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA256-SHA384 │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ SRP-DSS-AES-128-CBC-SHA        │ TLSv1.3          │
+│ CAMELLIA128-SHA256             │ TLSv1.3          │
+│ ECDHE-ARIA128-GCM-SHA256       │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ ECDHE-PSK-CHACHA20-POLY1305    │ TLSv1.3          │
+│ SRP-DSS-AES-256-CBC-SHA        │ TLSv1.3          │
+│ DHE-DSS-AES256-SHA             │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA256         │ TLSv1.3          │
+│ AES128-GCM-SHA256              │ TLSv1.3          │
+│ ADH-AES256-SHA                 │ TLSv1.3          │
+│ SRP-RSA-AES-256-CBC-SHA        │ TLSv1.3          │
+│ DHE-RSA-AES256-SHA             │ TLSv1.3          │
+│ ECDHE-ARIA256-GCM-SHA384       │ TLSv1.3          │
+│ DHE-PSK-AES128-CCM8            │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA128-SHA256 │ TLSv1.3          │
+│ CAMELLIA256-SHA                │ TLSv1.3          │
+│ RSA-PSK-AES128-GCM-SHA256      │ TLSv1.3          │
+│ ECDHE-RSA-AES256-SHA384        │ TLSv1.3          │
+│ PSK-AES256-CCM8                │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA             │ TLSv1.3          │
+│ AES128-CCM8                    │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA        │ TLSv1.3          │
+│ DHE-RSA-CHACHA20-POLY1305      │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-CCM8        │ TLSv1.3          │
+│ RSA-PSK-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ DHE-PSK-AES256-CCM             │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-SHA384      │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ DHE-RSA-AES128-SHA             │ TLSv1.3          │
+│ AES256-CCM8                    │ TLSv1.3          │
+│ ECDHE-RSA-AES256-SHA           │ TLSv1.3          │
+│ ECDHE-ECDSA-ARIA128-GCM-SHA256 │ TLSv1.3          │
+│ RSA-PSK-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA             │ TLSv1.3          │
+│ PSK-AES256-CCM                 │ TLSv1.3          │
+│ DHE-RSA-AES256-GCM-SHA384      │ TLSv1.3          │
+│ DHE-DSS-AES128-GCM-SHA256      │ TLSv1.3          │
+│ PSK-AES128-CCM                 │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ DHE-RSA-AES128-SHA256          │ TLSv1.3          │
+│ ECDHE-ECDSA-ARIA256-GCM-SHA384 │ TLSv1.3          │
+│ AES256-SHA256                  │ TLSv1.3          │
+│ ECDHE-ECDSA-CHACHA20-POLY1305  │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-SHA         │ TLSv1.3          │
+│ PSK-AES128-GCM-SHA256          │ TLSv1.3          │
+│ ECDHE-RSA-AES256-GCM-SHA384    │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ PSK-CAMELLIA256-SHA384         │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-CCM         │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA384          │ TLSv1.3          │
+│ CAMELLIA256-SHA256             │ TLSv1.3          │
+│ SRP-AES-128-CBC-SHA            │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-CCM         │ TLSv1.3          │
+│ DHE-PSK-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA            │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-GCM-SHA256  │ TLSv1.3          │
+│ DHE-PSK-AES128-GCM-SHA256      │ TLSv1.3          │
+│ ECDHE-RSA-CHACHA20-POLY1305    │ TLSv1.3          │
+│ DHE-RSA-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ PSK-CHACHA20-POLY1305          │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA256          │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ AES256-CCM                     │ TLSv1.3          │
+│ PSK-AES128-CCM8                │ TLSv1.3          │
+│ ADH-AES256-SHA256              │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-SHA256      │ TLSv1.3          │
+│ ADH-AES128-SHA                 │ TLSv1.3          │
+│ DHE-DSS-AES256-SHA256          │ TLSv1.3          │
+│ RSA-PSK-AES256-GCM-SHA384      │ TLSv1.3          │
+│ DHE-RSA-AES128-CCM             │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA            │ TLSv1.3          │
+│ DHE-DSS-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA        │ TLSv1.3          │
+│ PSK-ARIA128-GCM-SHA256         │ TLSv1.3          │
+│ DHE-DSS-AES128-SHA             │ TLSv1.3          │
+│ DHE-RSA-AES256-CCM             │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA256    │ TLSv1.3          │
+│ RSA-PSK-CHACHA20-POLY1305      │ TLSv1.3          │
+│ ECDHE-RSA-AES128-GCM-SHA256    │ TLSv1.3          │
+│ AES256-SHA                     │ TLSv1.3          │
+│ CAMELLIA128-SHA                │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA       │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ AECDH-AES256-SHA               │ TLSv1.3          │
+│ DHE-RSA-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA384    │ TLSv1.3          │
+│ ARIA256-GCM-SHA384             │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ AES128-CCM                     │ TLSv1.3          │
+│ ARIA128-GCM-SHA256             │ TLSv1.3          │
+│ ECDHE-RSA-AES128-SHA           │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ DHE-PSK-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-SHA         │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA        │ TLSv1.3          │
+│ DHE-RSA-AES256-SHA256          │ TLSv1.3          │
+│ AES128-SHA                     │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA        │ TLSv1.3          │
+│ PSK-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ DHE-RSA-AES128-GCM-SHA256      │ TLSv1.3          │
+│ SRP-AES-256-CBC-SHA            │ TLSv1.3          │
+│ AES128-SHA256                  │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ DHE-PSK-CHACHA20-POLY1305      │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-CCM8        │ TLSv1.3          │
+│ DHE-DSS-AES256-GCM-SHA384      │ TLSv1.3          │
+│ ADH-AES128-SHA256              │ TLSv1.3          │
+│ DHE-DSS-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ DHE-DSS-AES128-SHA256          │ TLSv1.3          │
+│ SRP-RSA-AES-128-CBC-SHA        │ TLSv1.3          │
+│ AES256-GCM-SHA384              │ TLSv1.3          │
+│ DHE-PSK-AES256-CCM8            │ TLSv1.3          │
+│ ADH-AES256-GCM-SHA384          │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ DHE-PSK-AES256-GCM-SHA384      │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-GCM-SHA384  │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ SRP-DSS-AES-128-CBC-SHA        │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA       │ TLSv1.3          │
+│ ADH-AES128-GCM-SHA256          │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ DHE-RSA-AES128-CCM8            │ TLSv1.3          │
+│ PSK-AES256-GCM-SHA384          │ TLSv1.3          │
+│ PSK-ARIA256-GCM-SHA384         │ TLSv1.3          │
+│ ECDHE-RSA-AES128-SHA256        │ TLSv1.3          │
+│ AECDH-AES128-SHA               │ TLSv1.3          │
+│ DHE-RSA-AES256-CCM8            │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA256-SHA384 │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ ECDHE-ARIA128-GCM-SHA256       │ TLSv1.3          │
+│ ECDHE-PSK-CHACHA20-POLY1305    │ TLSv1.3          │
+│ SRP-DSS-AES-256-CBC-SHA        │ TLSv1.3          │
+│ ADH-AES256-SHA                 │ TLSv1.3          │
+│ ECDHE-RSA-AES256-SHA384        │ TLSv1.3          │
+│ CAMELLIA256-SHA                │ TLSv1.3          │
+│ DHE-PSK-AES128-CCM             │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA256         │ TLSv1.3          │
+│ DHE-RSA-AES256-SHA             │ TLSv1.3          │
+│ DHE-DSS-AES256-SHA             │ TLSv1.3          │
+│ CAMELLIA128-SHA256             │ TLSv1.3          │
+│ SRP-RSA-AES-256-CBC-SHA        │ TLSv1.3          │
+│ DHE-PSK-AES128-CCM8            │ TLSv1.3          │
+│ ECDHE-ARIA256-GCM-SHA384       │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-CCM8        │ TLSv1.3          │
+│ AES128-GCM-SHA256              │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA        │ TLSv1.3          │
+│ DHE-PSK-AES256-CCM             │ TLSv1.3          │
+│ PSK-AES256-CCM8                │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA128-SHA256 │ TLSv1.3          │
+│ RSA-PSK-AES128-GCM-SHA256      │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA             │ TLSv1.3          │
+│ DHE-RSA-CHACHA20-POLY1305      │ TLSv1.3          │
+│ DHE-RSA-AES128-SHA             │ TLSv1.3          │
+│ RSA-PSK-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ ECDHE-ECDSA-ARIA128-GCM-SHA256 │ TLSv1.3          │
+│ ECDHE-RSA-AES256-SHA           │ TLSv1.3          │
+│ AES128-CCM8                    │ TLSv1.3          │
+│ AES256-CCM8                    │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-SHA384      │ TLSv1.3          │
+│ DHE-DSS-AES128-GCM-SHA256      │ TLSv1.3          │
+│ DHE-RSA-AES256-GCM-SHA384      │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ DHE-RSA-AES128-SHA256          │ TLSv1.3          │
+│ PSK-AES128-GCM-SHA256          │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA             │ TLSv1.3          │
+│ PSK-AES128-CCM                 │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-SHA         │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ RSA-PSK-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ ECDHE-ECDSA-CHACHA20-POLY1305  │ TLSv1.3          │
+│ AES256-SHA256                  │ TLSv1.3          │
+│ PSK-AES256-CCM                 │ TLSv1.3          │
+│ ECDHE-ECDSA-ARIA256-GCM-SHA384 │ TLSv1.3          │
+│ DHE-PSK-AES128-GCM-SHA256      │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA384          │ TLSv1.3          │
+│ ECDHE-ECDSA-AES256-CCM         │ TLSv1.3          │
+│ ECDHE-RSA-AES256-GCM-SHA384    │ TLSv1.3          │
+│ PSK-CAMELLIA256-SHA384         │ TLSv1.3          │
+│ PSK-CHACHA20-POLY1305          │ TLSv1.3          │
+│ DHE-PSK-ARIA128-GCM-SHA256     │ TLSv1.3          │
+│ ECDHE-RSA-CHACHA20-POLY1305    │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ CAMELLIA256-SHA256             │ TLSv1.3          │
+│ SRP-AES-128-CBC-SHA            │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-CCM         │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA256          │ TLSv1.3          │
+│ ADH-AES256-SHA256              │ TLSv1.3          │
+│ PSK-AES128-CCM8                │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-GCM-SHA256  │ TLSv1.3          │
+│ DHE-DSS-AES256-SHA256          │ TLSv1.3          │
+│ DHE-RSA-ARIA256-GCM-SHA384     │ TLSv1.3          │
+│ RSA-PSK-AES256-GCM-SHA384      │ TLSv1.3          │
+│ ECDHE-ECDSA-AES128-SHA256      │ TLSv1.3          │
+│ AES256-CCM                     │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA            │ TLSv1.3          │
+╰────────────────────────────────┴──────────────────╯
+[*] Weak or insecure cipher suites detected:
+Weak Cipher Suites
+╭────────────────────────────────┬──────────────────╮
+│ Cipher Suite                   │ Protocol Version │
+├────────────────────────────────┼──────────────────┤
+│ DHE-DSS-CAMELLIA256-SHA        │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA256    │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA            │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ CAMELLIA128-SHA                │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA384    │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA       │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ SRP-AES-256-CBC-SHA            │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA        │ TLSv1.3          │
+│ PSK-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA        │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ SRP-RSA-AES-128-CBC-SHA        │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA       │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA256-SHA384 │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ SRP-DSS-AES-128-CBC-SHA        │ TLSv1.3          │
+│ CAMELLIA128-SHA256             │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ SRP-DSS-AES-256-CBC-SHA        │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA256         │ TLSv1.3          │
+│ SRP-RSA-AES-256-CBC-SHA        │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA128-SHA256 │ TLSv1.3          │
+│ CAMELLIA256-SHA                │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA             │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA        │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA             │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ PSK-CAMELLIA256-SHA384         │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA384          │ TLSv1.3          │
+│ CAMELLIA256-SHA256             │ TLSv1.3          │
+│ SRP-AES-128-CBC-SHA            │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA            │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA256          │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA            │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA        │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA256    │ TLSv1.3          │
+│ CAMELLIA128-SHA                │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA       │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ ECDHE-PSK-AES256-CBC-SHA384    │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ DHE-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA        │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA        │ TLSv1.3          │
+│ PSK-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ SRP-AES-256-CBC-SHA            │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ SRP-RSA-AES-128-CBC-SHA        │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ DHE-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA256-SHA384     │ TLSv1.3          │
+│ ADH-CAMELLIA128-SHA256         │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA128-SHA256   │ TLSv1.3          │
+│ SRP-DSS-AES-128-CBC-SHA        │ TLSv1.3          │
+│ ECDHE-PSK-AES128-CBC-SHA       │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA256-SHA256     │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA256-SHA384 │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA         │ TLSv1.3          │
+│ DHE-PSK-AES128-CBC-SHA256      │ TLSv1.3          │
+│ DHE-RSA-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ SRP-DSS-AES-256-CBC-SHA        │ TLSv1.3          │
+│ CAMELLIA256-SHA                │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA256         │ TLSv1.3          │
+│ CAMELLIA128-SHA256             │ TLSv1.3          │
+│ SRP-RSA-AES-256-CBC-SHA        │ TLSv1.3          │
+│ DHE-DSS-CAMELLIA128-SHA        │ TLSv1.3          │
+│ ECDHE-ECDSA-CAMELLIA128-SHA256 │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA             │ TLSv1.3          │
+│ ECDHE-PSK-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ RSA-PSK-AES256-CBC-SHA384      │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA             │ TLSv1.3          │
+│ ECDHE-RSA-CAMELLIA256-SHA384   │ TLSv1.3          │
+│ PSK-AES256-CBC-SHA384          │ TLSv1.3          │
+│ PSK-CAMELLIA256-SHA384         │ TLSv1.3          │
+│ RSA-PSK-CAMELLIA128-SHA256     │ TLSv1.3          │
+│ CAMELLIA256-SHA256             │ TLSv1.3          │
+│ SRP-AES-128-CBC-SHA            │ TLSv1.3          │
+│ RSA-PSK-AES128-CBC-SHA         │ TLSv1.3          │
+│ PSK-AES128-CBC-SHA256          │ TLSv1.3          │
+│ ADH-CAMELLIA256-SHA            │ TLSv1.3          │
+╰────────────────────────────────┴──────────────────╯
+[*] TLS cipher suites analysis completed.
+
+
+=== TLS Handshake Simulation ===
+
+=============================================
+Argus - Advanced TLS Handshake Simulation
+=============================================
+
+TLS Handshake Details for data.ca.gov (Resolved IP) - TLSv1_2
+
+Protocol Version:            TLSv1.2
+Cipher Suite:                ECDHE-ECDSA-AES128-GCM-SHA256
+Cipher Protocol:             TLSv1.2
+Cipher Bits:                 128
+Certificate Subject:         {}
+Certificate Issuer:          {}
+Valid From:
+Valid To:
+Serial Number:
+Subject Alternative Names:
+
+TLS Handshake Details for data.ca.gov (Resolved IP) -
+TLSv1_3
+
+Protocol Version:            TLSv1.3
+Cipher Suite:                TLS_AES_256_GCM_SHA384
+Cipher Protocol:             TLSv1.3
+Cipher Bits:                 256
+Certificate Subject:         {}
+Certificate Issuer:          {}
+Valid From:
+Valid To:
+Serial Number:
+Subject Alternative Names:
+
+[*] TLS handshake simulation completed.
+
+
+=== Traceroute ===
+
+
+=============================================
+Argus - Email Harvesting Module
+=============================================
+
+
+[*] Starting email harvesting on http://data.ca.gov...
+[!] Error crawling data.ca.gov: Invalid URL 'data.ca.gov': No scheme supplied. Perhaps you meant https://data.ca.gov?
+[!] No email addresses found.
+
+
+=== TXT Records ===
+
+=============================================
+Argus - TXT Record Retrieval Module
+=============================================
+
+[*] Retrieving TXT records for domain: data.ca.gov
+[!] Failed to retrieve TXT records for data.ca.gov: The DNS response does not contain an answer to the question:
+data.ca.gov. IN TXT
+[!] No TXT records found for data.ca.gov.
+
+
+=== WHOIS Lookup ===
+
+=============================================
+Argus - WHOIS Lookup Module
+=============================================
+
+[*] Performing WHOIS lookup for domain: data.ca.gov
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Key                                        ┃ Value                                                                ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ % for more information on IANA, visit http │ //www.iana.org                                                       │
+│ refer                                      │ whois.dotgov.gov                                                     │
+│ domain                                     │ GOV                                                                  │
+│ organisation                               │ Cybersecurity and Infrastructure Security Agency                     │
+│ address                                    │ CSD/CB – Attn: Cameron Dixon                                         │
+│ address                                    │ CISA – NGR STOP 0645                                                 │
+│ address                                    │ 1110 N. Glebe Rd.                                                    │
+│ address                                    │ Arlington VA 20598-0645                                              │
+│ address                                    │ United States of America (the)                                       │
+│ contact                                    │ administrative                                                       │
+│ name                                       │ Program Manager                                                      │
+│ organisation                               │ Cybersecurity and Infrastructure Security Agency                     │
+│ address                                    │ 1110 N. Glebe Rd.                                                    │
+│ address                                    │ Arlington VA 20598-0645                                              │
+│ address                                    │ United States of America (the)                                       │
+│ phone                                      │ +1 888 282 0870                                                      │
+│ e-mail                                     │ help@get.gov                                                         │
+│ contact                                    │ technical                                                            │
+│ name                                       │ Registry Customer Service                                            │
+│ organisation                               │ Cloudflare, Inc.                                                     │
+│ address                                    │ 101 Townsend St.                                                     │
+│ address                                    │ San Francisco CA 94107                                               │
+│ address                                    │ United States of America (the)                                       │
+│ phone                                      │ +1 888 993 5273                                                      │
+│ e-mail                                     │ dotgov@cloudflare.com                                                │
+│ nserver                                    │ A.NS.GOV 199.33.230.1 2001:503:ff40:0:0:0:0:1                        │
+│ nserver                                    │ B.NS.GOV 199.33.231.1 2001:503:ff41:0:0:0:0:1                        │
+│ nserver                                    │ C.NS.GOV 199.33.232.1 2001:503:ff42:0:0:0:0:1                        │
+│ nserver                                    │ D.NS.GOV 199.33.233.1 2001:503:ff43:0:0:0:0:1                        │
+│ ds-rdata                                   │ 2536 13 2                                                            │
+│                                            │ 0baf26b7bbf313a859046fd3b1ee49ddfba33934cfb3e717c21e2a2935c2f259     │
+│ whois                                      │ whois.dotgov.gov                                                     │
+│ status                                     │ ACTIVE                                                               │
+│ remarks                                    │ Registration information: https://get.gov                            │
+│ created                                    │ 1985-01-01                                                           │
+│ changed                                    │ 2024-08-29                                                           │
+│ source                                     │ IANA                                                                 │
+│ >>> Last update of WHOIS database          │ 2024-10-27T09:36:49Z <<<                                             │
+
+└────────────────────────────────────────────┴──────────────────────────────────────────────────────────────────────┘
+
+[*] WHOIS lookup completed.
+
+
+=== Zone Transfer ===
+
+
+=============================================
+Argus - DNS Zone Transfer Module
+=============================================
+
+
+[*] Querying name servers for domain: data.ca.gov
+[!] Failed to resolve NS records for data.ca.gov: The DNS response does not contain an answer to the question:
+data.ca.gov. IN NS
+[!] No name servers found for domain: data.ca.gov
+
+

@@ -1,0 +1,589 @@
+=== Censys Reconnaissance ===
+
+=============================================
+Argus - Censys Exposure Analyzer
+=============================================
+
+[!] Unauthorized. Check your Censys API credentials.
+[!] Unauthorized. Check your Censys API credentials.
+[!] 104.19.219.112: Unauthorized
+[!] 104.19.218.112: Unauthorized
+
+[*] Censys Recon completed.
+
+
+=== Certificate Authority Recon ===
+
+=============================================
+Argus - Advanced Certificate Recon
+=============================================
+
+[*] Fetching certificate details for: data.ca.gov
+[!] Error retrieving certificate from data.ca.gov: embedded null byte
+[!] No certificate details found for data.ca.gov.
+[*] Certificate Authority Recon completed.
+
+
+=== Data Leak Detection ===
+
+=============================================
+Argus - Advanced Data Leak Checker
+=============================================
+
+[*] Checking data leaks for domain: data.ca.gov
+[*] Checking admin@data.ca.gov
+[*] Checking contact@data.ca.gov
+[*] Checking info@data.ca.gov
+[*] Checking support@data.ca.gov
+[*] Checking sales@data.ca.gov
+Breaches for info@data.ca.gov
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+[*] Checking webmaster@data.ca.gov
+Breaches for support@data.ca.gov
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+[*] Checking postmaster@data.ca.gov
+Breaches for admin@data.ca.gov
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for contact@data.ca.gov
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for sales@data.ca.gov
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for webmaster@data.ca.gov
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+Breaches for postmaster@data.ca.gov
+╭───────────────┬─────────────┬───────────────────╮
+│ Name          │ Breach Date │ Data Classes      │
+├───────────────┼─────────────┼───────────────────┤
+│ ExampleBreach │ 2022-01-01  │ Emails, Passwords │
+╰───────────────┴─────────────┴───────────────────╯
+[*] Data leak check completed.
+
+
+=== Exposed Environment Files Checker ===
+
+
+=============================================
+Argus - Exposed Environment Files Checker
+=============================================
+
+
+[*] Checking for publicly exposed environment files on data.ca.gov...
+[!] Error checking .env: Invalid URL 'data.ca.gov/.env': No scheme supplied. Perhaps you meant https://data.ca.gov/.env?
+[!] Error checking env: Invalid URL 'data.ca.gov/env': No scheme supplied. Perhaps you meant https://data.ca.gov/env?
+[!] Error checking environment: Invalid URL 'data.ca.gov/environment': No scheme supplied. Perhaps you meant https://data.ca.gov/environment?
+[!] Error checking .env.php: Invalid URL 'data.ca.gov/.env.php': No scheme supplied. Perhaps you meant https://data.ca.gov/.env.php?
+[!] Error checking config.php: Invalid URL 'data.ca.gov/config.php': No scheme supplied. Perhaps you meant https://data.ca.gov/config.php?
+[!] Error checking config.yaml: Invalid URL 'data.ca.gov/config.yaml': No scheme supplied. Perhaps you meant https://data.ca.gov/config.yaml?
+[!] Error checking config.yml: Invalid URL 'data.ca.gov/config.yml': No scheme supplied. Perhaps you meant https://data.ca.gov/config.yml?
+[!] Error checking config.json: Invalid URL 'data.ca.gov/config.json': No scheme supplied. Perhaps you meant https://data.ca.gov/config.json?
+[!] Error checking config.ini: Invalid URL 'data.ca.gov/config.ini': No scheme supplied. Perhaps you meant https://data.ca.gov/config.ini?
+[!] Error checking localsettings.php: Invalid URL 'data.ca.gov/localsettings.php': No scheme supplied. Perhaps you meant
+https://data.ca.gov/localsettings.php?
+[!] Error checking settings.php: Invalid URL 'data.ca.gov/settings.php': No scheme supplied. Perhaps you meant
+https://data.ca.gov/settings.php?
+[!] Error checking db.php: Invalid URL 'data.ca.gov/db.php': No scheme supplied. Perhaps you meant https://data.ca.gov/db.php?
+[!] Error checking database.php: Invalid URL 'data.ca.gov/database.php': No scheme supplied. Perhaps you meant
+https://data.ca.gov/database.php?
+[!] Error checking wp-config.php: Invalid URL 'data.ca.gov/wp-config.php': No scheme supplied. Perhaps you meant
+https://data.ca.gov/wp-config.php?
+[!] Error checking appsettings.json: Invalid URL 'data.ca.gov/appsettings.json': No scheme supplied. Perhaps you meant
+https://data.ca.gov/appsettings.json?
+[!] Error checking web.config: Invalid URL 'data.ca.gov/web.config': No scheme supplied. Perhaps you meant https://data.ca.gov/web.config?
+[!] Error checking .git/config: Invalid URL 'data.ca.gov/.git/config': No scheme supplied. Perhaps you meant https://data.ca.gov/.git/config?
+[!] Error checking .svn/entries: Invalid URL 'data.ca.gov/.svn/entries': No scheme supplied. Perhaps you meant
+https://data.ca.gov/.svn/entries?
+[!] Error checking .hg/.hgignore: Invalid URL 'data.ca.gov/.hg/.hgignore': No scheme supplied. Perhaps you meant
+https://data.ca.gov/.hg/.hgignore?
+[!] Error checking .gitignore: Invalid URL 'data.ca.gov/.gitignore': No scheme supplied. Perhaps you meant https://data.ca.gov/.gitignore?
+[!] Error checking composer.lock: Invalid URL 'data.ca.gov/composer.lock': No scheme supplied. Perhaps you meant
+https://data.ca.gov/composer.lock?
+[!] Error checking package-lock.json: Invalid URL 'data.ca.gov/package-lock.json': No scheme supplied. Perhaps you meant
+https://data.ca.gov/package-lock.json?
+[!] Error checking yarn.lock: Invalid URL 'data.ca.gov/yarn.lock': No scheme supplied. Perhaps you meant https://data.ca.gov/yarn.lock?
+[!] Error checking Dockerfile: Invalid URL 'data.ca.gov/Dockerfile': No scheme supplied. Perhaps you meant https://data.ca.gov/Dockerfile?
+[!] Error checking docker-compose.yml: Invalid URL 'data.ca.gov/docker-compose.yml': No scheme supplied. Perhaps you meant
+https://data.ca.gov/docker-compose.yml?
+[!] Error checking Makefile: Invalid URL 'data.ca.gov/Makefile': No scheme supplied. Perhaps you meant https://data.ca.gov/Makefile?
+[!] Error checking requirements.txt: Invalid URL 'data.ca.gov/requirements.txt': No scheme supplied. Perhaps you meant
+https://data.ca.gov/requirements.txt?
+[!] Error checking Gemfile: Invalid URL 'data.ca.gov/Gemfile': No scheme supplied. Perhaps you meant https://data.ca.gov/Gemfile?
+[!] Error checking Pipfile: Invalid URL 'data.ca.gov/Pipfile': No scheme supplied. Perhaps you meant https://data.ca.gov/Pipfile?
+[!] Error checking Pipfile.lock: Invalid URL 'data.ca.gov/Pipfile.lock': No scheme supplied. Perhaps you meant
+https://data.ca.gov/Pipfile.lock?
+[!] Error checking setup.py: Invalid URL 'data.ca.gov/setup.py': No scheme supplied. Perhaps you meant https://data.ca.gov/setup.py?
+[!] Error checking phpinfo.php: Invalid URL 'data.ca.gov/phpinfo.php': No scheme supplied. Perhaps you meant https://data.ca.gov/phpinfo.php?
+[!] Error checking php.ini: Invalid URL 'data.ca.gov/php.ini': No scheme supplied. Perhaps you meant https://data.ca.gov/php.ini?
+[!] Error checking backup.sql: Invalid URL 'data.ca.gov/backup.sql': No scheme supplied. Perhaps you meant https://data.ca.gov/backup.sql?
+[!] Error checking dump.sql: Invalid URL 'data.ca.gov/dump.sql': No scheme supplied. Perhaps you meant https://data.ca.gov/dump.sql?
+[!] Error checking database.sql: Invalid URL 'data.ca.gov/database.sql': No scheme supplied. Perhaps you meant
+https://data.ca.gov/database.sql?
+[+] No publicly exposed environment files found.
+
+
+=== Firewall Detection ===
+
+=============================================
+Argus - Advanced Firewall Detection
+=============================================
+
+[*] Detecting firewall for: data.ca.gov
+[!] Error retrieving firewall information: Invalid URL 'data.ca.gov': No scheme supplied. Perhaps you meant https://data.ca.gov?
+[!] No firewall information found.
+[*] Firewall detection completed.
+
+
+=== Global Ranking ===
+
+=============================================
+Argus - Global Ranking Analysis
+=============================================
+
+[*] Retrieving current Tranco list ID...
+[*] Fetching global ranking for: data.ca.gov
+[!] data.ca.gov is not ranked in the current Tranco list.
+[*] Global ranking analysis completed.
+
+
+=== HTTP Headers ===
+
+=============================================
+Argus - Advanced HTTP Header Analysis
+=============================================
+
+[*] Fetching HTTP headers for: http://data.ca.gov
+[*] Displaying HTTP headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Header                    ┃ Value                                                                                                           ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Date                      │ Sun, 27 Oct 2024 13:24:29 GMT                                                                                   │
+│ Content-Type              │ text/html; charset=utf-8                                                                                        │
+│ Transfer-Encoding         │ chunked                                                                                                         │
+│ Connection                │ keep-alive                                                                                                      │
+│ Cache-Control             │ max-age=0                                                                                                       │
+│ expires                   │ Sun, 27 Oct 2024 13:24:29 GMT                                                                                   │
+│ strict-transport-security │ max-age=31536000; includeSubdomains                                                                             │
+│ x-content-type-options    │ nosniff                                                                                                         │
+│ x-xss-protection          │ 1; mode=block                                                                                                   │
+│ CF-Cache-Status           │ DYNAMIC                                                                                                         │
+│ Set-Cookie                │ __cf_bm=Qht3Gv.egs7o8oJimJbZkwyapWp8gNAP6DX__gm4M38-1730035469-1.0.1.1-rVPvn.oUbifnZ7wdYAdncDmCuJ7NCOn.55R5Acl… │
+│                           │ path=/; expires=Sun, 27-Oct-24 13:54:29 GMT; domain=.data.ca.gov; HttpOnly; Secure; SameSite=None               │
+│ Server                    │ cloudflare                                                                                                      │
+│ CF-RAY                    │ 8d9301b10e441000-LAX                                                                                            │
+│ Content-Encoding          │ gzip                                                                                                            │
+│ alt-svc                   │ h3=":443"; ma=86400                                                                                             │
+└───────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+[*] Analyzing security headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Security Header           ┃ Status     ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ Content-Security-Policy   │ Not Set    │
+│ Strict-Transport-Security │ Configured │
+│ X-Content-Type-Options    │ Configured │
+│ X-Frame-Options           │ Not Set    │
+│ X-XSS-Protection          │ Configured │
+│ Referrer-Policy           │ Not Set    │
+│ Permissions-Policy        │ Not Set    │
+└───────────────────────────┴────────────┘
+[!] Missing Security Headers: Content-Security-Policy, X-Frame-Options, Referrer-Policy, Permissions-Policy
+[*] Detecting server technology...
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┓
+┃ Server     ┃ Detected Technology ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━┩
+│ cloudflare │ Cloudflare CDN      │
+└────────────┴─────────────────────┘
+[*] Scanning for vulnerabilities based on headers...
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Vulnerability  ┃ Issue                                                ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Security Issue │ X-Frame-Options is not set to 'DENY' or 'SAMEORIGIN' │
+└────────────────┴──────────────────────────────────────────────────────┘
+[*] Analyzing cookies for security flags...
+[*] Analyzing cookies for security flags...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Cookie                                                                                                    ┃ Attributes                      ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ __cf_bm=Qht3Gv.egs7o8oJimJbZkwyapWp8gNAP6DX__gm4M38-1730035469-1.0.1.1-rVPvn.oUbifnZ7wdYAdncDmCuJ7NCOn.5… │ None                            │
+│ 27-Oct-24 13:54:29 GMT                                                                                    │ HttpOnly, Secure, SameSite=None │
+└───────────────────────────────────────────────────────────────────────────────────────────────────────────┴─────────────────────────────────┘
+[*] Detecting frameworks based on response content...
+[!] No common frameworks detected.
+[*] HTTP header analysis completed.
+
+
+=== HTTP Security Features ===
+
+=============================================
+Argus - Advanced HTTP Security Headers Check
+=============================================
+
+[*] Fetching HTTP headers for: http://data.ca.gov
+[*] Displaying HTTP headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Header                    ┃ Value                                                                                                           ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Date                      │ Sun, 27 Oct 2024 13:24:30 GMT                                                                                   │
+│ Content-Type              │ text/html; charset=utf-8                                                                                        │
+│ Transfer-Encoding         │ chunked                                                                                                         │
+│ Connection                │ keep-alive                                                                                                      │
+│ Cache-Control             │ max-age=0                                                                                                       │
+│ expires                   │ Sun, 27 Oct 2024 13:24:30 GMT                                                                                   │
+│ strict-transport-security │ max-age=31536000; includeSubdomains                                                                             │
+│ x-content-type-options    │ nosniff                                                                                                         │
+│ x-xss-protection          │ 1; mode=block                                                                                                   │
+│ CF-Cache-Status           │ DYNAMIC                                                                                                         │
+│ Set-Cookie                │ __cf_bm=z.x3V7kb.D9SEHUQEmcrgN1BxlNVPZiZQcD6N0bmH.w-1730035470-1.0.1.1-4.9yE8plPQeZdasmn9KtK.MXhMpeUB2u7RSmseK… │
+│                           │ path=/; expires=Sun, 27-Oct-24 13:54:30 GMT; domain=.data.ca.gov; HttpOnly; Secure; SameSite=None               │
+│ Server                    │ cloudflare                                                                                                      │
+│ CF-RAY                    │ 8d9301bafccfd7a4-LAX                                                                                            │
+│ Content-Encoding          │ gzip                                                                                                            │
+│ alt-svc                   │ h3=":443"; ma=86400                                                                                             │
+└───────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+[*] Analyzing security headers...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Security Header           ┃ Status     ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ Content-Security-Policy   │ Not Set    │
+│ Strict-Transport-Security │ Configured │
+│ X-Content-Type-Options    │ Configured │
+│ X-Frame-Options           │ Not Set    │
+│ X-XSS-Protection          │ Configured │
+│ Referrer-Policy           │ Not Set    │
+│ Permissions-Policy        │ Not Set    │
+└───────────────────────────┴────────────┘
+[!] Missing Security Headers: Content-Security-Policy, X-Frame-Options, Referrer-Policy, Permissions-Policy
+[*] Detecting server technology...
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┓
+┃ Server     ┃ Detected Technology ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━┩
+│ cloudflare │ Cloudflare CDN      │
+└────────────┴─────────────────────┘
+[*] Scanning for vulnerabilities based on headers...
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Vulnerability  ┃ Issue                                                ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Security Issue │ X-Frame-Options is not set to 'DENY' or 'SAMEORIGIN' │
+└────────────────┴──────────────────────────────────────────────────────┘
+[*] Analyzing cookies for security flags...
+[*] Analyzing cookies for security flags...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Cookie                                                                                                    ┃ Attributes                      ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ __cf_bm=z.x3V7kb.D9SEHUQEmcrgN1BxlNVPZiZQcD6N0bmH.w-1730035470-1.0.1.1-4.9yE8plPQeZdasmn9KtK.MXhMpeUB2u7… │ None                            │
+│ 27-Oct-24 13:54:30 GMT                                                                                    │ HttpOnly, Secure, SameSite=None │
+└───────────────────────────────────────────────────────────────────────────────────────────────────────────┴─────────────────────────────────┘
+[*] Detecting frameworks based on response content...
+[!] No common frameworks detected.
+[*] HTTP header analysis completed.
+
+
+=== Malware & Phishing Check ===
+
+=============================================
+Argus - Advanced Malware & Phishing Check
+=============================================
+
+[*] Checking for malware and phishing threats for: http://data.ca.gov
+[*] Performing heuristic analysis...
+[+] No suspicious keywords found in URL path.
+[*] Performing additional heuristic checks...
+[!] URL does not use HTTPS. Potential security risk.
+[*] Checking URLhaus...
+[+] URL not found in URLhaus database.
+[*] Checking against public blacklist services...
+[+] IP not found in public blacklist services.
+[*] Checking VirusTotal...
+[!] VirusTotal scan failed with status code No Response.
+
+[*] Malware & Phishing checks completed.
+
+
+
+=== Pastebin Monitoring ===
+
+=============================================
+Argus - Advanced Paste Monitoring
+=============================================
+
+[*] Monitoring paste sites for query: data.ca.gov
+[*] Searching Pastebin - Page 1...
+[*] Searching Ghostbin - Page 1...
+[*] Searching Paste.ee - Page 1...
+[*] Searching ControlC - Page 1...
+[*] Searching Paste.org - Page 1...
+[!] POST request to https://api.paste.ee/v1/pastes/search failed with status 405.
+[!] Failed to fetch https://pastebin.com/search with status 403.
+[!] No more results found on ControlC at page 1.
+[!] Error fetching https://ghostbin.com/search: Cannot connect to host pst.klgrth.io:443 ssl:default
+[*] Searching Paste.ee - Page 2...
+[*] Searching Pastebin - Page 2...
+[!] POST request to https://api.paste.ee/v1/pastes/search failed with status 405.
+[!] Failed to fetch https://pastebin.com/search with status 403.
+[*] Searching Ghostbin - Page 2...
+[!] Error fetching https://ghostbin.com/search: Cannot connect to host pst.klgrth.io:443 ssl:default
+[!] No more results found on Paste.org at page 1.
+[!] No pastes found for the given query.
+[*] Paste monitoring completed.
+
+
+=== Privacy & GDPR Compliance ===
+
+=============================================
+Argus - Privacy & GDPR Compliance
+=============================================
+
+[*] Checking Privacy Policy, GDPR Compliance, and Cookie Policy for: http://data.ca.gov
+[*] Privacy Policy URL: http://data.ca.gov/privacy-policy
+[*] GDPR Compliance URL: http://data.ca.gov/gdpr-compliance
+[*] Cookie Policy URL: http://data.ca.gov/cookie-policy
+[!] Privacy Policy Not Found at http://data.ca.gov/privacy-policy (Status Code: 404)
+[!] GDPR Compliance Not Found at http://data.ca.gov/gdpr-compliance (Status Code: 404)
+[!] Cookie Policy Not Found at http://data.ca.gov/cookie-policy (Status Code: 404)
+┏━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Check           ┃ Result    ┃ Compliance ┃
+┡━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━━┩
+│ Privacy Policy  │ Not Found │ No         │
+│ GDPR Compliance │ Not Found │ No         │
+│ Cookie Policy   │ Not Found │ No         │
+└─────────────────┴───────────┴────────────┘
+[*] Privacy & GDPR compliance check completed.
+
+
+=== Security.txt Check ===
+
+=============================================
+Argus - Security.txt Detection
+=============================================
+
+[*] Fetching security.txt for: http://data.ca.gov
+[!] No security.txt file found.
+[*] Security.txt detection and analysis completed.
+
+
+=== Shodan Reconnaissance ===
+
+=============================================
+Argus - Shodan Exposure Analyzer
+=============================================
+
+[!] 104.19.219.112: Unauthorized. Check your Shodan API key.
+[!] 104.19.219.112: Unauthorized. Check your Shodan API key.
+
+[*] Shodan Recon completed.
+
+
+=== SSL Labs Report ===
+
+=============================================
+Argus - Advanced SSL Labs Scanner
+=============================================
+
+[*] Fetching SSL Labs report for: data.ca.gov
+[!] Error fetching SSL Labs report for data.ca.gov: HTTPSConnectionPool(host='api.ssllabs.com', port=443): Read timed out. (read
+timeout=10)
+[!] No SSL Labs data found for data.ca.gov.
+[*] SSL Labs analysis completed.
+
+
+=== SSL Pinning Check ===
+
+=============================================
+Argus - Advanced SSL Pinning Check
+=============================================
+
+[*] Checking SSL pinning for: data.ca.gov
+SSL Pinning Check for data.ca.gov
+╭─────────────┬────────────────────╮
+│ Domain      │ SSL Pinning Status │
+├─────────────┼────────────────────┤
+│ data.ca.gov │ Not Enabled        │
+╰─────────────┴────────────────────╯
+[*] SSL pinning check completed.
+
+
+=== Subdomain Enumeration ===
+
+=============================================
+Argus - Subdomain Enumeration (crt.sh)
+=============================================
+
+[*] Fetching subdomains for: data.ca.gov
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Subdomains                     ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ waterchallenge.data.ca.gov     │
+│ www.waterchallenge.data.ca.gov │
+│ lab.data.ca.gov                │
+│ health.data.ca.gov             │
+│ www.health.data.ca.gov         │
+│ www.waterchallenge.data.ca.gov │
+│ www.handbook.data.ca.gov       │
+│ cdph.data.ca.gov               │
+│ www.json.gis.data.ca.gov       │
+│ greengov.data.ca.gov           │
+│ www.lab.data.ca.gov            │
+│ gis.data.ca.gov                │
+│ handbook.data.ca.gov           │
+│ waterchallenge.data.ca.gov     │
+│ www.handbook.data.ca.gov       │
+│ www.waterchallenge.data.ca.gov │
+│ handbook.data.ca.gov           │
+│ www.handbook.data.ca.gov       │
+│ exchange.data.ca.gov           │
+│ www.exchange.data.ca.gov       │
+│ data.ca.gov                    │
+│ chhs.data.ca.gov               │
+│ health.data.ca.gov             │
+│ waterchallenge.data.ca.gov     │
+│ json.gis.data.ca.gov           │
+│ chhs.data.ca.gov               │
+│ www.chhs.data.ca.gov           │
+│ test.lab.data.ca.gov           │
+│ sandbox.data.ca.gov            │
+│ data.ca.gov                    │
+│ www.data.ca.gov                │
+│ exchange.data.ca.gov           │
+│ docs.data.ca.gov               │
+│ handbook.data.ca.gov           │
+└────────────────────────────────┘
+[*] Subdomain enumeration completed.
+
+
+=== Subdomain Takeover ===
+
+=============================================
+Argus - Advanced Subdomain Takeover Detection
+=============================================
+
+[*] Fetching subdomains for data.ca.gov from crt.sh...
+[+] Found 22 subdomains for data.ca.gov.
+[*] Checking sandbox.data.ca.gov (HTTP)...
+[*] Checking test.lab.data.ca.gov (HTTP)...
+[*] Checking gis.data.ca.gov (HTTP)...
+[*] Checking waterchallenge.data.ca.gov (HTTP)...
+[*] Checking www.chhs.data.ca.gov (HTTP)...
+[*] Checking www.data.ca.gov (HTTP)...
+[*] Checking handbook.data.ca.gov (HTTP)...
+[*] Checking www.exchange.data.ca.gov (HTTP)...
+[*] Checking greengov.data.ca.gov (HTTP)...
+[*] Checking www.handbook.data.ca.gov (HTTP)...
+[*] Checking www.health.data.ca.gov (HTTP)...
+[*] Checking docs.data.ca.gov (HTTP)...
+[*] Checking www.json.gis.data.ca.gov (HTTP)...
+[*] Checking data.ca.gov (HTTP)...
+[*] Checking www.lab.data.ca.gov (HTTP)...
+[*] Checking chhs.data.ca.gov (HTTP)...
+[*] Checking www.waterchallenge.data.ca.gov (HTTP)...
+[*] Checking exchange.data.ca.gov (HTTP)...
+[*] Checking health.data.ca.gov (HTTP)...
+[*] Checking json.gis.data.ca.gov (HTTP)...
+[!] Error accessing: www.exchange.data.ca.gov (HTTP)
+[*] Checking www.exchange.data.ca.gov (HTTPS)...
+[!] Error accessing: www.exchange.data.ca.gov (HTTPS)
+[*] Checking lab.data.ca.gov (HTTP)...
+[!] Error accessing: www.data.ca.gov (HTTP)
+[*] Checking www.data.ca.gov (HTTPS)...
+[!] Error accessing: www.data.ca.gov (HTTPS)
+[*] Checking cdph.data.ca.gov (HTTP)...
+[!] Error accessing: www.health.data.ca.gov (HTTP)
+[*] Checking www.health.data.ca.gov (HTTPS)...
+[!] Error accessing: www.health.data.ca.gov (HTTPS)
+[!] Error accessing: chhs.data.ca.gov (HTTP)
+[*] Checking chhs.data.ca.gov (HTTPS)...
+[!] Error accessing: exchange.data.ca.gov (HTTP)
+[*] Checking exchange.data.ca.gov (HTTPS)...
+[!] Error accessing: www.chhs.data.ca.gov (HTTP)
+[*] Checking www.chhs.data.ca.gov (HTTPS)...
+[!] Error accessing: chhs.data.ca.gov (HTTPS)
+[!] Error accessing: exchange.data.ca.gov (HTTPS)
+[!] Error accessing: www.chhs.data.ca.gov (HTTPS)
+[!] Error accessing: greengov.data.ca.gov (HTTP)
+[*] Checking greengov.data.ca.gov (HTTPS)...
+[!] Error accessing: greengov.data.ca.gov (HTTPS)
+[+] Safe: handbook.data.ca.gov (HTTP)
+[*] Checking handbook.data.ca.gov (HTTPS)...
+[+] Safe: www.waterchallenge.data.ca.gov (HTTP)
+[*] Checking www.waterchallenge.data.ca.gov (HTTPS)...
+[+] Safe: www.handbook.data.ca.gov (HTTP)
+[*] Checking www.handbook.data.ca.gov (HTTPS)...
+[+] Safe: waterchallenge.data.ca.gov (HTTP)
+[*] Checking waterchallenge.data.ca.gov (HTTPS)...
+[+] Safe: www.lab.data.ca.gov (HTTP)
+[*] Checking www.lab.data.ca.gov (HTTPS)...
+[+] Safe: test.lab.data.ca.gov (HTTP)
+[*] Checking test.lab.data.ca.gov (HTTPS)...
+[+] Safe: sandbox.data.ca.gov (HTTP)
+[*] Checking sandbox.data.ca.gov (HTTPS)...
+[+] Safe: www.lab.data.ca.gov (HTTPS)
+[+] Safe: test.lab.data.ca.gov (HTTPS)
+[+] Safe: sandbox.data.ca.gov (HTTPS)
+[+] Safe: lab.data.ca.gov (HTTP)
+[*] Checking lab.data.ca.gov (HTTPS)...
+[+] Safe: lab.data.ca.gov (HTTPS)
+[+] Safe: handbook.data.ca.gov (HTTPS)
+[+] Safe: docs.data.ca.gov (HTTP)
+[*] Checking docs.data.ca.gov (HTTPS)...
+[+] Safe: www.waterchallenge.data.ca.gov (HTTPS)
+[+] Safe: waterchallenge.data.ca.gov (HTTPS)
+[+] Safe: data.ca.gov (HTTP)
+[*] Checking data.ca.gov (HTTPS)...
+[+] Safe: www.handbook.data.ca.gov (HTTPS)
+[+] Safe: gis.data.ca.gov (HTTP)
+[*] Checking gis.data.ca.gov (HTTPS)...
+[+] Safe: docs.data.ca.gov (HTTPS)
+[+] Safe: gis.data.ca.gov (HTTPS)
+[+] Safe: data.ca.gov (HTTPS)
+[+] Safe: www.json.gis.data.ca.gov (HTTP)
+[*] Checking www.json.gis.data.ca.gov (HTTPS)...
+[+] Safe: cdph.data.ca.gov (HTTP)
+[*] Checking cdph.data.ca.gov (HTTPS)...
+[+] Safe: json.gis.data.ca.gov (HTTP)
+[*] Checking json.gis.data.ca.gov (HTTPS)...
+[+] Safe: cdph.data.ca.gov (HTTPS)
+[+] Safe: www.json.gis.data.ca.gov (HTTPS)
+[+] Safe: json.gis.data.ca.gov (HTTPS)
+[!] Timeout: health.data.ca.gov (HTTP)
+[*] Checking health.data.ca.gov (HTTPS)...
+[!] Timeout: health.data.ca.gov (HTTPS)
+[+] No vulnerable subdomains found.
+[*] Subdomain takeover check completed.
+
+
+=== VirusTotal Scan ===
+
+=============================================
+Argus - VirusTotal Scan Module
+=============================================
+
+[*] Initiating VirusTotal scans for 1 URL(s)...
+[*] Scanning URL: http://data.ca.gov
+[!] Error: Received status code 403 for URL: http://data.ca.gov
+[*] Processing results for: http://data.ca.gov
+[!] No data to display for URL: http://data.ca.gov
+
+[!] An unexpected error occurred: 'str' object has no attribute 'substitute'
+
+
